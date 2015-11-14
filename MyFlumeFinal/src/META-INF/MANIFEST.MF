@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Class-Path: flume-ng-core-1.5.2.jar flume-ng-sdk-1.5.2.jar avro-1.7.3.
+ jar jackson-core-asl-1.8.8.jar jackson-mapper-asl-1.8.8.jar paranamer
+ -2.3.jar snappy-java-1.0.4.1.jar slf4j-api-1.6.1.jar avro-ipc-1.7.3.j
+ ar jetty-6.1.26.jar jetty-util-6.1.26.jar velocity-1.7.jar commons-co
+ llections-3.2.1.jar commons-lang-2.5.jar netty-3.5.12.Final.jar libth
+ rift-0.7.0.jar httpclient-4.0.1.jar httpcore-4.0.1.jar commons-loggin
+ g-1.1.1.jar commons-codec-1.8.jar flume-ng-configuration-1.5.2.jar sl
+ f4j-log4j12-1.6.1.jar log4j-1.2.17.jar guava-11.0.2.jar jsr305-1.3.9.
+ jar commons-io-2.1.jar commons-cli-1.2.jar joda-time-2.1.jar servlet-
+ api-2.5-20110124.jar gson-2.2.2.jar mina-core-2.0.4.jar httpasyncclie
+ nt-4.1.jar httpcore-4.4.1.jar httpcore-nio-4.4.1.jar httpclient-4.4.1
+ .jar commons-logging-1.2.jar commons-codec-1.9.jar json-simple-1.1.1.
+ jar junit-4.10.jar hamcrest-core-1.1.jar junit-4.10.jar jsoup-1.8.2.j
+ ar httpcore-4.4.1.jar httpclient-4.4.1.jar commons-codec-1.2.jar comm
+ ons-codec-1.9.jar hamcrest-core-1.1.jar json-simple-1.1.1.jar httpcor
+ e-nio-4.4.1.jar commons-logging-1.2.jar httpasyncclient-4.1.jar commo
+ ns-logging-1.0.4.jar commons-httpclient-3.1.jar commons-httpclient-3.
+ 1.jar commons-logging-1.0.4.jar commons-codec-1.2.jar
+

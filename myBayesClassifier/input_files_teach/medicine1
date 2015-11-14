@@ -1,0 +1,2221 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="/bitrix/templates/.default/js/jquery-1.10.2.min.js"></script>
+	<script src="/bitrix/templates/.default/js/jquery-migrate-1.2.1.min.js"></script>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="keywords" content="медицинские частные семейные клиники, мед центры москвы" />
+<meta name="description" content="Частная медицинская клиника Москвы ОАО «Медицина» - один из старейших частных медицинских центров в России." />
+<link href="/bitrix/js/main/core/css/core.min.css?14321938302854" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.min.css?143219383020476" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/.default/js/msdropdown/css/msdropdown/dd.css?14163403494662" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/.default/js/msdropdown/css/msdropdown/lang.css?1416340349128" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/.default/js/msdropdown/css/msdropdown/skin2.css?14163403491238" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/menu/top/style.css?1416340349739" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/menu/header/style.css?1416340349887" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/search.form/header_search/style.css?14163403491072" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/main/components/bitrix/menu/diagnosis/style.css?1416340349679" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/main/components/bitrix/menu/new/style.css?1416340349611" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/components/tanais/cabinet.book_doctor/templates/short/style.css?14163403505670" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/.default/components//bitrix/system.pagenavigation/.default/style.css?1416340349955" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/main/components/bitrix/news.list/warranty_slider/style.css?14163403492116" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/main/components/bitrix/news.list/slider_list/style.css?14163403492834" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/main/components/bitrix/news.list/news_main/style.css?1416340349937" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/news.list/blogs_main/style.css?1416340349937" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/main/components/bitrix/news.list/about_slider/style.css?14163403491950" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/main/components/bitrix/news.list/awards/style.css?1416340349764" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/menu/bottom/style.css?14163403493961" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/components/rarus/form.result.new/templates/correct/style.css?14163403501491" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/main/styles.css?14310939094029" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/main/template_styles.css?143109390934768" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','USER_ID':'','SERVER_TIME':'1435223549','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'5255de9035c251da44625b6ff2d689af'});</script>
+
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?143349122865494"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.min.js?143349122820575"></script>
+<script type="text/javascript" src="/bitrix/js/main/json/json2.min.js?14163403373467"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ls.min.js?14334912287365"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.min.js?14321938302511"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_window.min.js?143349122874831"></script>
+<link href="/bitrix/templates/main/css/jquery.ui.autocomplete.css" type="text/css" rel="stylesheet" />
+
+
+
+<script type="text/javascript" src="/bitrix/templates/.default/js/msdropdown/js/jquery.dd.min.js?141634034921171"></script>
+<script type="text/javascript" src="/bitrix/components/tanais/cabinet.book_doctor/templates/short/script.js?14163403504472"></script>
+<script type="text/javascript" src="/js/tiny_scrollbar.js?14163398388057"></script>
+<script type="text/javascript" src="/bitrix/templates/main/components/bitrix/news.list/warranty_slider/script.js?14163403491182"></script>
+<script type="text/javascript" src="/bitrix/templates/main/components/bitrix/news.list/slider_list/script.js?141634034929988"></script>
+<script type="text/javascript" src="/bitrix/templates/main/components/bitrix/news.list/about_slider/script.js?14163403491024"></script>
+<script type="text/javascript" src="/bitrix/templates/main/components/bitrix/news.list/awards/script.js?1416340349371"></script>
+<script type="text/javascript" src="/bitrix/templates/.default/components/bitrix/menu/bottom/script.js?14163403491183"></script>
+<script type="text/javascript" src="/bitrix/components/rarus/form.result.new/templates/correct/script.js?14163403501118"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '5255de9035c251da44625b6ff2d689af', false, 'e67e531386e84096dafd5a81ea9c893c');
+</script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "a817e60e78ce4ecde808b3897b3ef6ae"]); _ba.push(["host", "www.medicina.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+	
+	<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	
+	<!--[if lt IE 9]> 
+		<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<link rel="stylesheet" type="text/css" href="/bitrix/templates/.default/ie.css" />
+	<![endif]-->
+	
+	<script src="/bitrix/templates/.default/js/qtip/jquery.qtip-1.0.0-rc3.min.js"></script>
+	<script src="/bitrix/templates/.default/js/jquery-ui/js/jquery-ui-1.10.3.custom.js"></script>
+	<script src="/bitrix/templates/.default/js/jquery.maskedinput.js"></script>
+    <script src="/bitrix/templates/.default/js/scroll/jquery.scrollUp.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/.default/js/jquery.simple-form.js"></script>
+    	
+	<link rel="stylesheet" type="text/css" href="/bitrix/templates/.default/js/jquery-ui/css/ui-lightness/style-tabs.css" />
+	<link rel="stylesheet" type="text/css" href="/bitrix/templates/.default/js/jquery-ui/css/ui-lightness/style-autocomplete.css" />
+	<link rel="stylesheet" type="text/css" href="/bitrix/templates/.default/form.css" />
+
+	
+	<script src="/bitrix/templates/main/js/script.js"></script>
+	<script src="/bitrix/templates/main/js/target.js"></script>
+	
+	<meta name="cmsmagazine" content="6dffb55ddbb7358fd3a3e8049a61257b" />
+    <meta name='yandex-verification' content='5023775067d54ec5' />
+	
+	<link rel="shortcut icon" href="/bitrix/templates/main/favicon.ico" type="image/x-icon">
+	<title>ОАО "Медицина" - частная медицинская клиника Москвы</title>
+    <!-- ALL TEMPLATES HEADER START -->
+    
+<!-- ALL TEMPLATES HEADER END   --></head>
+
+<body>
+
+<div id="top-block">
+	<div id="top-wrapper">
+		
+		<div id="lang">
+			
+
+<select name="lang-menu" id="lang-menu">
+	<option value="ru" data-image="/bitrix/templates/.default/js/msdropdown/images/msdropdown/icons/ru.gif"></option>
+	<option value="de" data-image="/bitrix/templates/.default/js/msdropdown/images/msdropdown/icons/de.gif"></option>
+	<option value="en" data-image="/bitrix/templates/.default/js/msdropdown/images/msdropdown/icons/en.gif"></option>
+</select>
+
+<script language="javascript">
+	$(document).ready(function(e) {
+		$("#lang-menu").msDropDown();
+		
+		$("#lang-menu").change(function() {
+
+			switch (this.value) {
+			   case "ru":
+				  window.location = "http://medicina.ru/";
+				  break
+			   case "de":
+				  window.location = "http://de.medicina.ru/";
+				  break
+			   case "en":
+				  window.location = "http://en.medicina.ru/";
+				  break
+			}
+		})
+	});
+</script>		
+		</div>
+		<div id="top-menu">
+			
+<ul class="top-line-menu">
+
+			<li><a href="/for_patient/">Пациентам</a></li>
+		
+			<li><a href="/for_corporate/">Корпоративным клиентам</a></li>
+		
+			<li><a href="/for_insurance/">Страховым компаниям</a></li>
+		
+			<li><a href="/about/for_practic_doctors/">Врачам</a></li>
+		
+			<li><a href="/about/press_centre/">Представителям СМИ</a></li>
+		
+			<li><a href="/career/">Карьера</a></li>
+		
+
+</ul>
+ 		
+		</div>
+		
+		
+	<a id="button-lk" href="/my/">Личный кабинет</a>
+	<div id="registration">
+		<a class="button-reg" href="/auth/registration/"></a>
+		<a class="reghelp" href="#help"></a>
+	</div>		
+
+	
+	</div>
+</div>
+
+<div id="container">
+	<div id="wrapper">
+
+		<header id="header">
+		
+			<div id="info-block">
+				<div id="tabs-info">
+	<ul>
+		<li><a href="#fragment-1">Телефоны</a></li>
+		<li><a href="#fragment-2">Режим работы</a></li>
+	</ul>
+	<div id="fragment-1">
+		<div class="ref">
+			<div class="ref-title">
+				Справочная круглосуточно, рентген, МРТ, УЗИ, стационар<br>
+ <a href="/doctors/">записаться к врачу</a>
+			</div>
+			<div class="ref-info">
+				<span id="ct_phone_11"><!-- from db start-->7 (495) 995-00-33<!-- from db end--></span> <br>
+ <a href="skype:medicina_sis?call">Позвонить по Skype</a>
+			</div>
+		</div>
+		<div class="ref">
+			<div class="ref-title">
+				Скорая помощь
+			</div>
+			<div class="ref-info">
+				<span class="skoraya">+7 (495) 229-00-03</span>
+			</div>
+		</div>
+		<div class="ref">
+			<div class="ref-title">
+				Корпоративным клиентам
+			</div>
+			<div class="ref-info">
+				+7(495) 995-00-88
+			</div>
+		</div>
+	</div>
+	<div id="fragment-2">
+		<div class="grafik">
+			<h3>График работы клиники</h3>
+			<p>
+				Понедельник – пятница — с 08-00 до 21-00 <br>
+				 Суббота — с 09-00 до 19-00 <br>
+				 Воскресенье — с 09-00 до 15-00 <br>
+ <a href="/about/contacts/index.php#adress">Схема проезда</a>
+			</p>
+		</div>
+	</div>
+</div>
+<div class="address-block">
+	<div class="marker">
+	</div>
+	<div class="address">
+		Москва, 2-й Тверской-Ямской переулок, дом 10
+	</div>
+	<div class="metro">
+		метро «Маяковская»
+	</div>
+</div>
+<script>
+	$(document).ready(function() {
+		$( "#tabs-info" ).tabs();
+	});
+</script>				<div id="counter-block">
+					<span id="count-clients">0885</span>
+				</div>
+			</div>
+			
+			<div id="logo-block">
+				
+				<div class="logo"></div>
+
+				<div class="slogan">Клиника «Медицина»<br>с <span>международным<br>признанием</span><br>в центре Москвы</div>
+
+				<div class="awards">
+					<a class="awards-1" href="/about/sertif/jci/" title="Единственная международная клиника в России"></a>
+					<a class="awards-2" href="/about/sertif/slh/" title="Сертификация SLH"></a>
+					<a class="awards-3" href="/about/sertif/EFQM/" title="Призёр Европейского конкурса качества EFQM 2012"></a>
+				</div>
+				
+			</div>
+			
+			<div id="header-menu-block">
+				
+	<ul class="header-menu">
+
+						
+							<li><a href="/about/">Клиника</a></li>
+						
+						
+							<li><a href="/diagnostics/">Лечение и диагностика</a></li>
+						
+						
+							<li><a href="/doctors/">Врачи</a></li>
+						
+						
+							<li><a href="/encyclopedia/">Энциклопедия</a></li>
+						
+						
+							<li><a href="/about/contacts/">Контакты</a></li>
+						
+		
+	</ul>
+ 				
+<div id="search-form">
+	<form action="/search/index.php" method="get">
+					<input class="search-text" type="text" name="q" title="Поиск по сайту" value="Поиск по сайту" size="20" maxlength="50" />
+				<div class="submit-block"><input class="button-submit" name="s" type="submit" value="" /></div>
+	</form>
+</div>				
+			</div>
+			
+			<div id="header-slogan-block">
+				<div class="slogan1">Все лучшее в медицине</div>
+				<a class="slogan2" href="/about/rights_duties_patients/">Искренняя забота о пациенте</a>
+			</div>			
+
+		</header><!-- #header-->	
+		
+		
+		<div id="diagnosis-menu-block">
+			<div class="diagnosis-menu-title">Лечение и диагностика</div>
+			
+	<ul class="diagnosis-menu">
+
+						
+							<li><a href="/services/diagnostic/">Диагностика</a></li>
+						
+						
+							<li><a href="/services/restoration-rehabilitation/">Восстановительная<br>медицина</a></li>
+						
+						
+							<li><a href="/departments/stomatological/">Стоматология</a></li>
+						
+						
+							<li><a href="/services/beauty/">Косметология</a></li>
+						
+						
+							<li><a href="/services/ambulance/">Скорая помощь</a></li>
+						
+						
+							<li><a href="/services/hospital/">Стационар</a></li>
+						
+						
+							<li><a href="/services/dispanser/">Диспансеризация</a></li>
+						
+						
+							<li><a href="/services/mammology/">Маммологический <br>центр</a></li>
+						
+						
+							<li><a href="/services/gynecology_obstetrics/">Центр гинекологии</a></li>
+						
+						
+							<li><a href="/services/travma/">Травматология</a></li>
+						
+						
+							<li><a href="/services/privivka/">Вакцинация</a></li>
+						
+						
+							<li><a href="/new_medical_technologies/">Новые медицинские<br> технологии</a></li>
+						
+						
+							<li><a href="/services/urological_center/">Центр урологии</a></li>
+						
+		
+	</ul>
+ 			<a class="skidka" href="/for_patient/discount/discount-card/">Получить скиДку 5%</a>
+		</div>		
+	
+	<div id="new-menu-block">
+		<div class="new-menu-block-title">Новые медицинские <br>технологии</div>
+		
+	<ul class="new-menu">
+
+						
+							<li><a href="/services/pain/">Клиника лечения боли</a></li>
+						
+						
+							<li><a href="/services/cardio/">Центр кардиохирургии</a></li>
+						
+						
+							<li><a href="/services/infertility/">Центр репродукции и ЭКО</a></li>
+						
+						
+							<li><a href="/services/ophthalmosurgery/">Центр офтальмохирургии</a></li>
+						
+						
+							<li><a href="/services/somnology/">Сомнологическая клиника</a></li>
+						
+						
+							<li><a href="/services/neurorehabilitation/">Центр нейрореабилитации</a></li>
+						
+						
+							<li><a href="/cancercenter/">Онкологический центр Sofia</a></li>
+						
+						
+							<li><a href="/services/urological_center/">Центр урологии</a></li>
+						
+						
+							<li><a href="/services/endoprosthesis/">Эндопротезирование суставов</a></li>
+						
+		
+	</ul>
+ 		
+	</div>
+	
+		<div id="middle">		
+				<div id="content">
+
+					<main class="content">
+						
+                         
+    <div id="doctors-block">
+        <ul>
+            <li><a href="#fragment-1">Врачи</a></li>
+            <li><a href="#fragment-2">Найти врача</a></li>
+        </ul>
+        <div id="fragment-2">
+            <div class="filter_form ">
+                <div class="switch_mode">
+                    <center>
+                        <span onclick="ChangeType('SURNAME');" class="spec_item active_spec" id="FILTER_TYPE_LABEL_SURNAME" >По фамилии</span>
+                        <span onclick="ChangeType('SPECIALITY');" class="spec_item " id="FILTER_TYPE_LABEL_SPECIALITY" >По специальности</span>
+                    </center>
+                </div>
+               
+                
+                <form method="post" name="book_doctor_form" id="book_doctor_form" action="/doctors/">
+                    <input type="hidden" value="" name="SPECIALITIES_FILTER_VAL" id="SPECIALITIES_FILTER_VAL" >
+                    <input type="hidden" value="SURNAME" name="MODE"             id="MODE" >
+                    <input type="hidden" value="" name="ALPHABETIC_FILTER_VAL"   id="ALPHABETIC_FILTER_VAL" >
+                    
+                    <div class="AlphabeticalFilter" id="AlphabeticalFilter" >
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('А');" >А</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Б');" >Б</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('В');" >В</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Г');" >Г</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Д');" >Д</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Е');" >Е</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Ж');" >Ж</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('З');" >З</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('И');" >И</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('К');" >К</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Л');" >Л</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('М');" >М</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Н');" >Н</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('О');" >О</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('П');" >П</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Р');" >Р</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('С');" >С</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Т');" >Т</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('У');" >У</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Ф');" >Ф</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Х');" >Х</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Ч');" >Ч</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Ш');" >Ш</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Щ');" >Щ</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Ю');" >Ю</span>
+                                                    <span class="alphabetical_item " onclick="SubmitFormAlphabetical('Я');" >Я</span>
+                                            </div>
+                    <div class="Specialities_list" id="Specialities_list">
+                                            </div>
+                </form> 
+                
+                <form action="/doctors/" >
+                    <div class="msearch ui-widget">
+                        <input type="text" id="SearchAuto" name="DOCTOR_NAME" placeholder="Введите фамилию" >
+                        <input type="submit" name="SEARCH" value="Найти" >
+                    </div>
+                </form>
+               
+            </div>    
+        </div>    
+        <div id="fragment-1">
+            <div class="doctors_block">
+                 <div class="button-nav">
+                   
+                    <a id="button-nav-prev" class="button-nav-prev" href="javascript:PrevDoc();"></a>
+                    <a id="button-nav-next" class="button-nav-next" href="javascript:NextDoc();"></a>
+                </div>
+                  
+                                     
+                       <div class="doctor_item" id="doctor_1" >
+                            <div class="doctor_info">
+                                                                                                <div class="doctor_preview_picture">
+                                    <div  style="cursor:pointer" onclick="window.location='/doctors/MulikLS/'" >
+                                        <img src="/upload/iblock/096/0969d4496516fb906dcaf77101f9b8f1.jpg" width="180px" height="225px">
+                                    <link href='/js/starrate/jquery.rating.css' type="text/css" rel="stylesheet"/>
+<div id="raRateDiv" class="ctab rating" onclick="window.location='/doctor_info/rating/MulikLS/'" >
+                    <div class="star-rating rater-0 star star-rating-applied star-rating-live  star-rating-on"><a title="1">r_1</a></div>
+                    <div class="star-rating rater-0 star star-rating-applied star-rating-live  star-rating-on"><a title="2">r_2</a></div>
+                    <div class="star-rating rater-0 star star-rating-applied star-rating-live  star-rating-on"><a title="3">r_3</a></div>
+                    <div class="star-rating rater-0 star star-rating-applied star-rating-live "><a title="4">r_4</a></div>
+                    <div class="star-rating rater-0 star star-rating-applied star-rating-live "><a title="5">r_5</a></div>
+      
+    <div class="rating_voice">3</div>    
+</div>        
+                                    </div>
+                                </div>
+                                <div class="doctor_desc">
+                                                                        <a href="/doctors/MulikLS/">
+                                        <div class="surname-link link">
+                                            Мулык                                        </div>
+                                        <div class="name-link link">
+                                            Лариса&nbsp;Степановна                                        </div>                                  
+                                    </a>
+                                    <br/>
+                                    <div class="specialty">
+                                        Диетолог                                    </div> 
+                                     
+                                    <div class="rank">Член национальной ассоциации клинического питания, Член Национальной ассоциации диетологов и нутрициологов, стаж 28 лет</div>
+                                    
+                                    <a class="button-make" href="/doctors/MulikLS/">записаться на прием</a>
+                                    <div class="review_short">    
+                                                                                <div class="reviews">  
+                        <div class="review-item">
+                 
+                    <div class="reviews_cnt">
+                                                    <a class="secondary-link" href="/doctor_info/reviews/MulikLS/">подробнее                              </a>
+                                            </div>
+                    
+                <div class="reviews-block-header-short" ></div>
+                <div class="reviews-block" >
+                                            Лариса Степановна Профессионал с Большой буквы! Чуткий и внимательный врач, понимает с полуслова, коротко и по делу даёт рекомендации. Благодаря ей уз...                                                
+                </div>
+            </div>
+            </div>   
+                                                                            
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                         <script type="text/javascript">
+                        var curdoc=1;
+                        var alldoc=1;
+                        
+                        function PrevDoc(){
+                            $('.doctor_item').html('<table width="100%" height="335px" ><tr><td style="vertical-align:middle;height: 100%;"><center><img src="/images/loading_line.gif"></center></td><tr></table>');
+                            $.ajax({type:"POST",url:"/ajax/bitrixAction.php",data:{ACTION:"RANDOM_DOCTORS"},dataType:'html',success:function (html){$('.doctor_item').replaceWith(html);}});
+                            // if(curdoc<=1) return;
+                            // curdoc--;
+                            
+                            // ShowDoc();
+                        }
+                        
+                        function NextDoc(){
+                            $('.doctor_item').html('<table width="100%" height="335px" ><tr><td style="vertical-align:middle;height: 100%;"><center><img src="/images/loading_line.gif"></center></td><tr></table>');
+                            $.ajax({type:"POST",url:"/ajax/bitrixAction.php",data:{ACTION:"RANDOM_DOCTORS"},dataType:'html',success:function (html){$('.doctor_item').replaceWith(html);}});
+                            // if(curdoc>=alldoc) return;
+                            // curdoc++;
+                            // if(curdoc>=alldoc) $('#button-nav-next').addClass('disable-button-next'); 
+                            // ShowDoc();
+                        }
+                        
+                        function ShowDoc(){
+                            if(curdoc<=1) {
+                                $('#button-nav-prev').removeClass('button-nav-prev');
+                                $('#button-nav-prev').addClass('disable-button-prev');
+                            }    
+                            else{
+                                $('#button-nav-prev').removeClass('disable-button-prev');
+                                $('#button-nav-prev').addClass('button-nav-prev');
+                            
+                            }
+                            
+                            if(curdoc>=alldoc) {
+                                $('#button-nav-next').removeClass('button-nav-next');
+                                $('#button-nav-next').addClass('disable-button-next');
+                            }    
+                            else{
+                                $('#button-nav-next').removeClass('disable-button-next');
+                                $('#button-nav-next').addClass('button-nav-next');
+                            
+                            }
+                            $('.doctor_item').each(function(){$(this).hide();});
+                            $('#doctor_'+curdoc).show();
+                        }
+                        
+                        //ShowDoc();
+                    </script>
+                            </div>
+        </div>
+    </div>
+    <script>
+        $(document).ready(function() {
+            $( "#doctors-block" ).tabs();
+        });
+    </script>
+											
+						
+<div id="guarantees-block">
+	<div class="guarantees-top">Гарантии клиники</div>
+	<div class="guarantees-content">Проведение обследования в полном соответствии с медицинскими стандартами</div>
+			<div class="guarantees-elem">Проведение обследования в полном соответствии с медицинскими стандартами</div>
+			<div class="guarantees-elem">Наличие персонального врача-куратора</div>
+			<div class="guarantees-elem">Сопровождение пациентов при перемещении по клинике</div>
+			<div class="guarantees-elem">Предоставление письменных рекомендаций</div>
+			<div class="guarantees-elem">Предоставление персонального доступа к истории болезни через Интернет</div>
+			<div class="guarantees-elem">Предоставление информации по используемым лекарственным препаратам</div>
+			<div class="guarantees-elem">Отсутствие очередей</div>
+			<div class="guarantees-elem">Предоставление всех результатов обследования и видеозаписи на CD-диске</div>
+			<div class="guarantees-elem">Рассмотрение любых обращений пациентов к администрации клиники с гарантией получения ответа</div>
+			<div class="guarantees-elem">Получение материальной компенсации в случае обоснованной претензии</div>
+			<div class="guarantees-elem">Ознакомиться с полным текстом гарантий ОАО &quot;Медицина&quot; (PDF)</div>
+		<a class="guarantees-more" href="/about/warranty/">подробнее о гарантиях</a>
+	<div class="button-nav-orange">
+		<a class="button-nav-prev" href="#"></a>
+		<a class="button-nav-next" href="#"></a>
+	</div>
+</div>
+						
+
+						<div id="slider-main-block">
+							<div class="block-title">Актуально</div>
+							<div id="comp_05f6c7571632b05d1ed0f1e9aa9d4a5a">
+<div id="slider" class="nivoSlider">
+
+	
+										
+
+			<a class="nivo-imageLink" href="/about/press_centre/news/detail/444324/">		
+		<img class="nivo_slider_img" border="0" src="/upload/iblock/db8/db869f12ca41fa8b139aedd7d8166b2d.jpg" width="924" height="234" alt="С Днем медицинского работаника" />
+		
+		</a>			
+										
+
+			<a class="nivo-imageLink" href="/services/dispanser/">		
+		<img class="nivo_slider_img" border="0" src="/upload/iblock/47e/47e503735ca517393279bddde6f540f7.jpg" width="924" height="234" alt="Check up" />
+		
+		</a>			
+										
+
+			<a class="nivo-imageLink" href="/cancercenter/dep_radiotherapy/prostate_cancer/">		
+		<img class="nivo_slider_img" border="0" src="/upload/iblock/fcd/fcd900217e3b138af1b7259608f1b578.jpg" width="924" height="234" alt="slide1" />
+		
+		</a>		
+</div>
+</div>						</div>						
+						
+						
+												<div id="guide-block">
+							<a class="guide-block-button" href="/departments/">Путеводитель<br><span class="style1">по клинике</span><br><span class="style2">обзорные фотографии</span></a>
+						</div>
+						
+						<div id="news-list-block">
+							<h2>Новости</h2>
+							<a class="all-news" href="/about/press_centre/news/">Все новости</a>
+							<div id="comp_6cc35e04896f85a2c74b4073b1126283">
+		<div class="news-item" id="bx_1373509569_444324">
+	
+														<a href="/about/press_centre/news/detail/444324/"><img class="preview-picture" border="0" src="/upload/iblock/1ec/1ec0d8091c8907fe2e14c6be8f98d49c.jpg" width="104" height="87" alt="Поздравление с Днем медицинского работника" title="Поздравление с Днем медицинского работника" /></a>					
+									
+									<a href="/about/press_centre/news/detail/444324/">
+                                            Поздравление с Днем медицинского работника                                    </a>
+							
+								<br /><span class="news-date-time">18 июня 2015 г.</span>
+				
+	</div>
+
+		<div class="news-item" id="bx_1373509569_444126">
+	
+														<a href="/about/press_centre/news/detail/444126/"><img class="preview-picture" border="0" src="/upload/iblock/166/166a2d2ad3b53d7d3bfad45cb63ace09.jpg" width="113" height="161" alt="Школа здоровья &quot;Нейрореабилитация пациентов с применением аппарата &quot;БрейнПорт&quot;" title="Школа здоровья &quot;Нейрореабилитация пациентов с применением аппарата &quot;БрейнПорт&quot;" /></a>					
+									
+									<a href="/about/press_centre/news/detail/444126/">
+                                            Школа здоровья &quot;Нейрореабилитация пациентов с применением аппарата &quot;БрейнПорт&quot;                                    </a>
+							
+								<br /><span class="news-date-time">15 июня 2015 г.</span>
+				
+	</div>
+
+</div>						</div>
+                        <div id="news-list-block">
+							<h2>Блоги</h2>
+							<a class="all-news" href="/about/press_centre/news/">Все блоги</a>
+							<div id="comp_baf8cf8d1cfd6bc8b058146e1a711b2d">
+		<div class="news-item" id="bx_3485106786_445409">
+        	
+		                            <a href="/encyclopedia/blog/574/4356465/"><img class="preview-picture" border="0" src="/upload/iblock/f79/f793f042c702e30b9238c68d07c31235.png" 1 width="90px" height="80px" alt="Благодарность врачу-гинекологу клиники &quot;Медицина&quot;" title="Благодарность врачу-гинекологу клиники &quot;Медицина&quot;" /></a>					
+            		
+									<a href="/encyclopedia/blog/574/4356465/">
+                                            Благодарность врачу-гинекологу клиники &quot;Медицина&quot;                                    </a>
+							
+								<br /><span class="news-date-time">25 июня 2015 г.</span>
+				
+	</div>
+
+		<div class="news-item" id="bx_3485106786_445408">
+        	
+		                            <a href="/encyclopedia/blog/521/5756756/"><img class="preview-picture" border="0" src="/upload/iblock/f79/f793f042c702e30b9238c68d07c31235.png" 1 width="90px" height="80px" alt="Благодарность медицинским сестрам лаборатории" title="Благодарность медицинским сестрам лаборатории" /></a>					
+            		
+									<a href="/encyclopedia/blog/521/5756756/">
+                                            Благодарность медицинским сестрам лаборатории                                    </a>
+							
+								<br /><span class="news-date-time">25 июня 2015 г.</span>
+				
+	</div>
+
+</div>						</div>
+						
+                        						
+						  
+<div id="contact-block"> 	 	 		 
+  <div class="reg-block"> 			 
+    <h3>Регистрация</h3>
+   			 
+    <h4>на сайте и в клинике</h4>
+   			<a class="button-registration" href="/auth/registration/?register=yes" ></a> 			<a class="reghelp" href="#help" >Почему это удобно?</a> 		</div>
+ 			 	 	 	 
+  <div class="phone-block"> 		 
+    <h3>Позвонить</h3>
+   		 
+    <h4>круглосуточно</h4>
+   		 
+    <div class="service-phone-block"> 		 			 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0"> 			 
+        <tbody> 
+          <tr> 				<td>Справочная</td> 				<td class="phone"><span id="ct_phone_8"><!-- from db start-->7 (495) 995-00-33<!-- from db end--></span></td> 			 </tr>
+         			 
+          <tr> 				<td>Рентген, МРТ, УЗИ,
+              <br />
+            Травматология</td> 				<td class="phone"><span id="ct_phone_14"><!-- from db start-->7 (495) 995-00-33<!-- from db end--></span></td> 			 </tr>
+         			 
+          <tr> 				<td>Скорая помощь</td> 				<td class="phone"><span class="skoraya">+7 (495) 229-00-03</span></td> 			 </tr>
+         			 
+          <tr> 				<td colspan="2"><span class="skype"><a href="skype:medicina_sis?call" >Позвонить по Skype</a></span></td> 			 </tr>
+         			</tbody>
+       </table>
+     		 			 			 		</div>
+   	</div>
+ 	 
+  <div class="record-block"> 		 
+    <h3>Записаться к врачу</h3>
+   		 
+    <div class="phone" id="ct_phone_15"><!-- from db start-->7 (495) 995-00-33<!-- from db end--></div>
+   		 
+    <div class="ili">или</div>
+   		<a class="send-request" href="javascript:BookFormDialog.Show();SetIframeHeight();" >отправить заявку</a> 		 		 		 
+<script type="text/javascript">   
+			
+			var BookFormDialog = new BX.CDialog({
+				content: '<div style="margin: 25px auto 10px; width: 480px"><iframe style="overflow:hidden;border:none;" width="500"  src="/services/email/index.php " id="email_book_iframe" name="email_book_iframe" onload="SetIframeHeight();" ></iframe></div>',
+				resizable: false,
+				draggable: true,
+				height: '550',
+				width: '540',
+				id:'testtest',
+				buttons: ['<a type="button" class="close_window" name="close_window" value="" id="close_window" href="javascript:CloseModalWindow();" ></a>']
+			});
+			BookFormDialog.DIV.className='popup_doctors_email_booking';
+			function CloseModalWindow(){
+				$('.bx-core-dialog-overlay').hide();
+				$('.popup_doctors_email_booking').hide();
+			}
+			function SetIframeHeight(){
+				iframe=$('#email_book_iframe')[0];
+				height=$(iframe.contentWindow.document.getElementById('form_email')).height()+30;
+				$(iframe).height(height);
+				$('.popup_doctors_email_booking').height(height+30);
+			}
+			
+			
+		</script>
+ 	</div>
+ 	 
+  <div class="callback-block"> 		 
+    <h3>обратный звонок</h3>
+   		 
+    <div id="request_form"> 			 		 
+      <h4>на номер</h4>
+     	<form id="callback-form" name="callback-form" action="/" method="POST"> 			<input id="phone" type="text" name="phone" value="" /> 			<input class="button-submit" name="s" type="button" value="" onclick="BackCall();" /> 		</form> 	</div>
+   		 		 
+<script type="text/javascript">
+			
+			function BackCall(){
+				phone=$('#phone').val();
+				
+				if(phone.length!=17){
+					alert('Номер телефона введен неправильно.');
+					return;
+				}
+				
+				console.log(phone.length);
+				$('#request_form').html('<br/><center><img id="bxid_458224" src="/images/loading_line.gif"  /></center>');
+				if(phone.trim()=='') return;
+				$.ajax({
+					url:'/ajax/bitrixAction.php',
+					data:"ACTION=BACK_CALL&PHONE="+phone+"&sessid=",
+					type:"POST",
+					success:function(html){console.log(html);$('#request_form').html('<br/><h4>В ближайшее время с вами свяжется администратор!</h4>');}
+				});
+			}
+		</script>
+ 	</div>
+ </div>
+						
+						<div id="about-block">
+	<div class="about-right">
+		<div class="name">Ройтберг Григорий Ефимович</div>
+		<div class="title">Президент ОАО «Медицина», академик РАН</div>
+	</div>						
+	<div class="about-title">Клиника «Медицина»</div>
+	<div class="button-nav-silver">
+		<a class="button-nav-prev" href=""></a>
+		<a class="button-nav-next" href=""></a>
+	</div>
+	<div class="about-content">
+<p>Клиника &laquo;Медицина&raquo; <a href="https://www.medicina.ru/about/history/" title="Перейти на страницу История">образована в 1990 году</a>. Это многопрофильный медицинский центр, включающий поликлинику, стационар, круглосуточную скорую медицинскую помощь и супер-современный онкологический центр Sofia*. В «Медицине» работают более <a href="https://www.medicina.ru/doctors/" title="Врачи клиники ">340 врачей 44 врачебных специальностей</a>. В рамках «Института консультантов» здесь консультируют академики и члены-корреспонденты РАН, профессора и ведущие специалисты в различных областях медицины. </p>
+
+<p> </p>
+
+<p>В клинике «Медицина» предоставляется полный спектр медицинской помощи по 69 медицинским направлениям, среди которых диагностика, терапия, педиатрия, поликлиническая и оперативная гинекология, вспомогательные репродуктивные технологии, включая ЭКО, кардиология и кардиохирургия, оториноларингология, офтальмология и офтальмохирургия, урология, андрология и нефрология, эндокринология и диетология, травматология и ортопедия, онкология (диагностика, лучевая терапия, химиотерапия, и хирургическое лечение), дерматология, косметология, стоматология, реабилитация и восстановительная медицина, диспансеризация и профилактика, неврология, нейрохирургия, нейрореабилитация, скорая помощь, семейная медицина и многие другие.</p>
+</div>
+			<div class="about-item">
+<p>Клиника &laquo;Медицина&raquo; <a href="https://www.medicina.ru/about/history/" title="Перейти на страницу История">образована в 1990 году</a>. Это многопрофильный медицинский центр, включающий поликлинику, стационар, круглосуточную скорую медицинскую помощь и супер-современный онкологический центр Sofia*. В «Медицине» работают более <a href="https://www.medicina.ru/doctors/" title="Врачи клиники ">340 врачей 44 врачебных специальностей</a>. В рамках «Института консультантов» здесь консультируют академики и члены-корреспонденты РАН, профессора и ведущие специалисты в различных областях медицины. </p>
+
+<p> </p>
+
+<p>В клинике «Медицина» предоставляется полный спектр медицинской помощи по 69 медицинским направлениям, среди которых диагностика, терапия, педиатрия, поликлиническая и оперативная гинекология, вспомогательные репродуктивные технологии, включая ЭКО, кардиология и кардиохирургия, оториноларингология, офтальмология и офтальмохирургия, урология, андрология и нефрология, эндокринология и диетология, травматология и ортопедия, онкология (диагностика, лучевая терапия, химиотерапия, и хирургическое лечение), дерматология, косметология, стоматология, реабилитация и восстановительная медицина, диспансеризация и профилактика, неврология, нейрохирургия, нейрореабилитация, скорая помощь, семейная медицина и многие другие.</p>
+</div>
+			<div class="about-item">
+<p>Клиника &laquo;Медицина&raquo; гарантирует всем пациентам проведение обследования в полном соответствии с медицинскими стандартами; наличие персонального врача-куратора; сопровождение пациентов при перемещении по клинике; предоставление письменных рекомендаций; предоставление персонального доступа к истории болезни через Интернет; предоставление информации по используемым лекарственным препаратам; отсутствие очередей; предоставление всех результатов обследования и видеозаписи на диске; рассмотрение любых обращений пациентов к администрации клиники с гарантией получения ответа; получение материальной компенсации в случае обоснованной претензии.</p>
+
+<p> </p>
+
+<p>ОАО «Медицина» является клинической базой кафедры терапии и семейной медицины РНИМУ имени Н.И.Пирогова и включено в список инновационно-активных учреждений здравоохранения города Москвы.</p>
+ </div>
+			<div class="about-item">
+<p>ОАО &laquo;Медицина&raquo; является единственной клиникой в России, аккредитованной по международным стандартам оказания медицинской помощи JCI. Аккредитация <a href="https://www.medicina.ru/about/sertif/jci/" >Joint Commission International </a>&mdash; это наиболее объективная и престижная международная сертификация в области здравоохранения, которая считается «золотым стандартом» качества и является подтверждением соответствия медицинского учреждения принятым на международном уровне медицинским и административным стандартам, а также требованиям по обеспечению международных целей по безопасности пациентов. В настоящее время по этим стандартам в мире аккредитовано всего 659 лечебных учреждений.</p>
+ 
+<p> </p>
+ 
+<p>Клиника сертифицирована по <a href="https://www.medicina.ru/about/sertif/iso2008/" title="ISO 9001:2008" >международным стандартам менеджмента качества ISO 9001:2008</a>; является обладателем оценки менеджмента качества «5 звезд» по Модели совершенства Европейского фонда управления качеством (EFQM), входит в ассоциацию Swiss Leading Hospitals, является призером европейского конкурса по качеству EFQM Awards 2012, лауреатом премии Правительства РФ в области качества.</p>
+ </div>
+	</div>
+						
+						
+						<div id="honors-block">
+							
+		<div class="award-item" id="bx_565502798_355845">
+	
+			
+		
+									<a href="/about/sertif/csr2008/" class="preview-picture" style="background-image: url('/upload/iblock/df2/df2304e9dc5687a848f21ec658db6647.gif')" alt="Сертификат стандарта CRS/КСО-2008" title=""></a>
+							
+					</div>
+		<div class="award-item" id="bx_565502798_355844">
+	
+			
+		
+									<a href="/about/sertif/sert8000/" class="preview-picture" style="background-image: url('/upload/iblock/28c/28cfd5399d051907ed4ab17051a71381.gif')" alt="Сертификат стандарта SA 8000:2001" title=""></a>
+							
+					</div>
+		<div class="award-item" id="bx_565502798_355843">
+	
+			
+		
+									<a href="/about/sertif/iso2008/" class="preview-picture" style="background-image: url('/upload/iblock/2ab/2abf19f6328bf2bcfb7c96d804067f2d.gif')" alt="Сертификация ISO 9001:2008" title=""></a>
+							
+					</div>
+		<div class="award-item" id="bx_565502798_355842">
+	
+			
+		
+									<a href="/about/sertif/eoq/" class="preview-picture" style="background-image: url('/upload/iblock/4fa/4fa4e07b143422b37d99c41bc9dbf703.gif')" alt="Европейская организация качества" title=""></a>
+							
+					</div>
+		<div class="award-item" id="bx_565502798_355841">
+	
+			
+		
+									<a href="/about/sertif/kco2007/" class="preview-picture" style="background-image: url('/upload/iblock/f0e/f0ece846d5809a295765dc0f3dd37bd0.gif')" alt="Сертификат стандарта ВОК-КСО-2007" title=""></a>
+							
+					</div>
+		<div class="award-item" id="bx_565502798_355840">
+	
+								
+		
+									<a href="/about/sertif/EFQM/" class="preview-picture" style="background-image: url('/upload/iblock/f3b/f3b3def3d5477ac7bbec635b0ab00cdd.gif')" alt="EFQM Awards 2012" title="Клиника «Медицина» стала призером конкурса EFQM Awards 2012 Европейского 
+фонда управления качеством &#40;EFQM&#41;"></a>
+							
+					</div>
+		<div class="award-item" id="bx_565502798_355839">
+	
+								
+		
+									<a href="/about/sertif/slh/" class="preview-picture" style="background-image: url('/upload/iblock/61b/61bd571d0ce12fc65520839302978a14.gif')" alt="Сертификация SLH" title="Сертификация SLH - Член Ассоциации «Ведущие клиники Швейцарии» с 2007 года"></a>
+							
+					</div>
+		<div class="award-item" id="bx_565502798_355838">
+	
+			
+		
+									<a href="/about/sertif/government_award/" class="preview-picture" style="background-image: url('/upload/iblock/616/616ab8c8bfbbd7160f189ed1eff768dc.gif')" alt="Премия Правительства РФ в области качества" title=""></a>
+							
+					</div>
+		<div class="award-item" id="bx_565502798_355837">
+	
+			
+		
+									<a href="/about/sertif/jci/" class="preview-picture" style="background-image: url('/upload/iblock/b2a/b2a321cd4fd0f1076ac9fd9c57994668.gif')" alt="Joint Commission International" title=""></a>
+							
+					</div>
+		<div class="award-item" id="bx_565502798_355836">
+	
+			
+		
+									<a href="/about/sertif/formula/" class="preview-picture" style="background-image: url('/upload/iblock/e42/e423a54fe85d6cadf1b9ede52724d1fa.gif')" alt="Формула жизни" title=""></a>
+							
+					</div>
+							<a class="all-awards" href="/about/sertif/">Все награды</a>
+						</div>
+						
+									</main>
+			</div> <!--#content_into -->
+		 </div><!-- #content-->
+
+	</div><!-- #middle-->
+</div><!-- #wrapper -->
+	
+
+	<footer id="footer">
+		<div id="footer-wrapper">
+			<div id="footer-menu-1">
+				
+<ul id="bottom-menu"> 
+
+ 
+
+	
+	
+					<li>
+									<a href="/about/" class="root-item">Клиника</a>
+								<ul>
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/management/">Руководство</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/reviews_patients/">Отзывы пациентов</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/lic/">Лицензия</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/warranty/">Гарантии</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/press_centre/">Пресс-центр</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/sertif/">Международные сертификаты качества</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/rights_duties_patients/">Права и обязанности пациентов</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/pokazatel/">Показатели деятельности</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/departments/">Путеводитель по клинике</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/fond/">Благотворительный Фонд</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/history/">История</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/mission/">Миссия</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/politics_personal_data/">Политика обработки персональных данных</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/doktrina-informatsionnoy-bezopasnosti/">Доктрина информационной безопасности</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/about_site/">О сайте</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/more-than-clinic/">Дополнительные сервисы</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/contacts/">Контакты</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/medical_forum/">Мероприятия</a></li>
+							
+		
+	
+	
+ 
+
+			</ul></li>	
+	
+					<li>
+									<a href="/services/" class="root-item">Лечение и диагностика</a>
+								<ul>
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/services/ambulance/">Скорая помощь</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/services/diagnostic/">Диагностика</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/services/dispanser/">Диспансеризация</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/services/gynecology_obstetrics/">Центр гинекологии</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/departments/stomatological/">Стоматология</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/services/restoration-rehabilitation/">Восстановительная медицина</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href=""></a></li>
+							
+		
+	
+	
+ 
+
+			</ul></li>	
+	
+					<li>
+									<a href="/systems/" class="root-item">Виды лечения</a>
+								<ul>
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/general/">Врачи общего профиля</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/genetics/">Генетика и наследственность</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/eyes/">Глаза</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/respiratory-system/">Дыхательная система</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/female-reproductive-system/">Женская репродуктивная система</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/immune/">Иммунная система</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/leather/">Кожа и волосы</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/brain/">Мозг и нервная система</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/male-reproductive-system/">Мужская репродуктивная система</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/skeleton/">Мускульная система и скелет тела</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/digestive-system/">Пищеварительная система</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/kidney/">Почки и мочевыводящая система</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/mouth-teeth/">Рот и зубы</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/cardiovascular-system/">Сердечно-сосудистая система</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/ear-throat-nose/">Ухо, горло, нос</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/systems/endocrine/">Эндокринная система</a></li>
+							
+		
+	
+	
+ 
+
+			</ul></li>	
+	
+					<li>
+									<a href="/doctors/" class="root-item">Врачи</a>
+								<ul>
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/doctors/?MODE=SURNAME">По фамилии</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/doctors/?MODE=SPECIALITY">По специальности</a></li>
+							
+		
+	
+	
+ 
+
+			</ul></li>	
+	
+					<li>
+									<a href="/encyclopedia/" class="root-item">Энциклопедия</a>
+								<ul>
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/encyclopedia/advice_inf/">Новости медицины</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/encyclopedia/blog/">Блог</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/encyclopedia/magazine/">Газета</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/illnesses/">Заболевания</a></li>
+							
+		
+	
+	
+ 
+
+			</ul></li>	
+	
+					<li>
+									<a href="/for_patient/" class="root-item">Пациентам</a>
+								<ul>
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/for_patient/to_be/">Как стать клиентом</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/for_patient/annual/">Годовое обслуживание</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/for_patient/tax_privileges/">Как получить налоговые вычеты</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/for_patient/requests/">Заявления</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/for_patient/discount/">Дисконтные программы</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/for_patient/programs/">Программы для пациентов</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/for_patient/school_z/">Школа здоровья для пациентов</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/for_patient/question/">Часто задаваемые вопросы</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/for_patient/servisnye-uslugi-kliniki/">Сервисные услуги клиники</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/for_patient/confidential_patient/">Программа <br>"Секретный пациент - 2015"</a></li>
+							
+		
+	
+	
+ 
+
+			</ul></li>	
+	
+					<li>
+									<a href="/new_medical_technologies/" class="root-item">Новые медицинские технологии</a>
+								<ul>
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/cancercenter/">Онкологический <br>центр Sofia</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/services/pain/">Клиника <br>лечения боли</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/services/cardio/">Центр <br>кардиохирургии</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/services/infertility/">Центр репродукции </br>и ЭКО</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/services/ophthalmosurgery/">Центр <br>офтальмохирургии</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/services/somnology/">Сомнологическая клиника</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/services/neurorehabilitation/">Центр нейрореабилитации</a></li>
+							
+		
+	
+	
+
+	</ul></li>
+</ul>
+<div class="menu-clear-left"></div>
+			</div>
+
+			<div id="footer-menu-2">
+				
+<ul id="bottom-menu"> 
+
+ 
+
+	
+	
+					<li>
+									<a href="/for_corporate/" class="root-item">Корпоративным клиентам</a>
+								<ul>
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/for_corporate/advantage/">Наши преимущества</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/for_corporate/connect_with/">Связаться с нами</a></li>
+							
+		
+	
+	
+ 
+
+			</ul></li>	
+	
+					<li>
+									<a href="/about/for_practic_doctors/" class="root-item">Врачам</a>
+								<ul>
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/for_practic_doctors/arenda/">Аренда операционных</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/for_practic_doctors/seminars">Семинары для врачей</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/for_practic_doctors/gistologia/">Гистологические исследования</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/career/">Вакансии</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/for_practic_doctors/video_for_job_seekers.php">Видеоролик для соискателей</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/for_practic_doctors/video_sem/">Видео семинары</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/for_practic_doctors/video_benkovich">Лекция по эндопротезированию</a></li>
+							
+		
+	
+	
+ 
+
+			</ul></li>	
+	
+					<li>
+									<a href="/about/press_centre/" class="root-item">Представителям СМИ</a>
+								<ul>
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/press_centre/news/">Новости</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/press_centre/reliz/">Пресс-релизы</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/press_centre/public/">Клиника в СМИ</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/encyclopedia/blog/">Корпоративный <br>блог</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/press_centre/newspaper/">Газета</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/press_centre/contact/">Контакты</a></li>
+							
+		
+	
+	
+ 
+
+			</ul></li>	
+	
+					<li>
+									<a href="/career/" class="root-item">Карьера в клинике</a>
+								<ul>
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/career/">Вакансии</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/career/who/">Наши ценности,  и кого мы приглашаем на работу</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/career/corporate_life/">Корпоративная жизнь</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/career/training_and_development/">Обучение и развитие</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/career/sotsialsny/">Социальный пакет</a></li>
+							
+		
+	
+	
+ 
+
+			</ul></li>	
+	
+					<li>
+									<a href="/about/contacts/" class="root-item">Контакты</a>
+								<ul>
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><span>Справочная <br>круглосуточно<br><div class="phone" id="ct_phone_17" >+7 (495) 995-00-33 </div></span></li>				
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><span>Скорая помощь<br>+7 (495) 229-00-03</span></li>				
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/responses/">Оставить отзыв о клинике</a></li>
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><a href="/about/contacts/feedback">Обратная связь с подразделениями клиники</a></li>
+							
+		
+	
+	
+ 
+
+			</ul></li>	
+	
+					<li>
+									<span class="root-item">График работы<br>клиники</span>
+								<ul>
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><span>ПН-ПТ<br>08:00—21:00</span></li>				
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><span>СБ<br>09:00—19:00</span></li>				
+							
+		
+	
+	
+ 
+
+	
+	
+		
+												<li><span>ВС<br>09:00—15:00</span></li>				
+							
+		
+	
+	
+
+	</ul></li>
+</ul>
+<div class="menu-clear-left"></div>
+			</div>
+		</div>
+		<div id="hide-block">
+			<a class="button-hide" href=""></a>
+		</div>
+	</footer>
+
+	<div id="footer-bottom" >
+		<div id="footer-bottom-wrapper">
+			<!-- ALL TEMPLATES COPYRIGHT START -->
+<div class="license-block">
+	<span class="copy">© 1997—2015 <a href="/">Клиника ОАО «Медицина»</a></span><br>
+	<span class="copy">Наш адрес: Москва, 2-й Тверской-Ямской переулок, дом 10 (метро "Маяковская")<br>факс:(499)250-91-80<br/><a href="mailto:contact@medicina.ru">contact@medicina.ru</a></span><br>
+</div>
+<!-- ALL TEMPLATES COPYRIGHT START -->
+			<div class="footer-date-create" >
+				
+<div id="dates">
+		Дата создания документа: 10.01.2010 &nbsp;&nbsp;|&nbsp;&nbsp;
+	Документ изменён: 18.11.2014<br />
+
+</div>		
+			</div>				
+			<div class="soc-block">
+				<a class="fbk" href="https://www.facebook.com/pages/JSC-Medicina/175204612510314"></a>
+				<a class="tw" href="https://twitter.com/#!/clinic_medicina"></a>
+				<a class="vk" href=" https://vk.com/club65384265"></a>
+				<a class="ok" href="http://www.ok.ru/klinikaoao"></a>
+			</div>
+			<div class="print" onclick="window.print(); return false">Версия для печати</div>
+			<div class="correction">
+				Коррекция ошибок
+<script type='text/javascript' src='/js/basic-form.js'></script>
+<div id="form-correct">
+<h3>Коррекция ошибок</h3>
+
+
+ 
+<form name="ERROR_CORRECTION" action="/" method="POST" enctype="multipart/form-data"><input type="hidden" name="sessid" id="sessid" value="5255de9035c251da44625b6ff2d689af" /><input type="hidden" name="WEB_FORM_ID" value="23" />
+<!--<table>
+	<tr>
+		<td>	<h3>Коррекция ошибок</h3>
+
+			<p>Коррекция ошибок</p>
+		</td>
+	</tr>
+	</table>
+<br />-->
+<!--<font color='red'><span class='form-required starrequired'>*</span></font> - обязательные поля-->
+
+<table class="form-table data-table">
+	<thead>
+		<tr>
+			<th colspan="2">&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<td width="120px">
+								Ваше имя							</td>
+			<td><input type="text"  class="inputtext"  name="form_text_369" value="" size="0" /></td>
+		</tr>
+			<tr>
+			<td width="120px">
+								Обратная связь							</td>
+			<td><input type="text"  class="inputtext"  name="form_text_372" value="" size="0" /></td>
+		</tr>
+			<tr>
+			<td width="120px">
+								Комментарий							</td>
+			<td><input type="text"  class="inputtext"  name="form_text_371" value="" size="0" /></td>
+		</tr>
+			<tr>
+			<td width="120px">
+								Текст с ошибкой <font color='red'><span class='form-required starrequired'>*</span></font>							</td>
+			<td><textarea name="form_textarea_370" cols="40" rows="5"  class="inputtextarea" ></textarea></td>
+		</tr>
+			<tr>
+			<td width="120px">
+								URL с ошибкой							</td>
+			<td><input type="text"  class="inputtext"  name="form_text_373" value="" size="0" /></td>
+		</tr>
+			<tr>
+			<th colspan="2"><b></b></th>
+		</tr>
+		<tr> 
+			<td>&nbsp;</td>
+			<td><input type="hidden" name="captcha_sid" value="0f02b6298ca7eee70952ec0cfdc525bf" /><img src="/bitrix/tools/captcha.php?captcha_sid=0f02b6298ca7eee70952ec0cfdc525bf" width="180" height="40" /></td>
+		</tr>
+		<tr> 
+			<td>Введите символы с картинки <font color='red'><span class='form-required starrequired'>*</span></font></td>
+			<td><input type="text" name="captcha_word" size="30" maxlength="50" value="" class="inputtext" /></td>
+		</tr>
+	</tbody>
+	<tfoot>
+		<tr>
+			<th colspan="2">
+				<input  type="submit" disabled="disabled" name="web_form_submit" value="Отправить" />
+								<input type="hidden" name="web_form_apply" value="Y" /><input type="submit" disabled="disabled" name="web_form_apply" value="Применить" />
+								<input type="reset" value="Сбросить" />
+			</th>
+		</tr>
+	</tfoot>
+</table>
+
+</form></div>
+<br clear="both" />
+	
+			</div>
+			<br>	
+			<span class="license"><a href="/about/lic/">Лицензия ЛО 77-01-007145</a></span>					
+			<div class="cards-block"></div>
+			
+			<div class="footer-into">
+				 <a href="https://www.healthonnet.org/HONcode/Russian/?HONConduct714238" onclick="window.open(this.href); return false;" ><img src="https://www.honcode.ch/HONcode/Seal/HONConduct714238_s1.gif" hspace="2" vspace="2" align="left" width="40" height="56" style="border:0px" title="This website is certified by Health On the Net Foundation. Click to verify." alt="This website is certified by Health On the Net Foundation. Click to verify."  /></a> 	 This site complies with
+<br />
+the<noindex><a href="https://www.healthonnet.org/HONcode/Russian/" onclick="window.open(this.href); return false;" rel="nofollow"> HONcode standard
+  <br />
+for trustworthy health</a></noindex>
+<br />
+information: <a href="https://www.healthonnet.org/HONcode/Russian/?HONConduct714238" onclick="window.open(this.href); return false;" >verify here.</a>	
+			</div>
+
+			
+		</div>
+	</div>
+	
+	<!-- Код тега ремаркетинга Google -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 981681501;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/981681501/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<noindex> 
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter5899744 = new Ya.Metrika({id:5899744,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/5899744" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<!-- /Yandex.Metrika counter -->
+</noindex>
+
+
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<a href='https://www.liveinternet.ru/click' "+
+"target=_blank><img src='https://counter.yadro.ru/hit?t44.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=1 height=1><\/a>")//-->
+</script><!--/LiveInternet--><!-- Yandex.Metrika counter -->
+
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter5899744 = new Ya.Metrika({id:5899744,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        }
+        catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script></div>
+
+<script src="https://mc.yandex.ru/metrika/watch_visor.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="https://mc.yandex.ru/watch/5899744" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<!-- /Yandex.Metrika counter -->
+
+<!-- Yandex.Metrika Marked Phone -->
+<script type="text/javascript" src="https://mc.yandex.ru/metrika/phone.js?counter=5899744" defer="defer"></script>
+<!-- /Yandex.Metrika Marked Phone -->
+
+
+	
+    <!-- ALL TEMPLATES START -->
+    <script type="text/javascript" src="https://sedu.adhands.ru/js/counter.js"></script>
+    <script type="text/javascript">
+    var report = new adhandsReport ('https://sedu.adhands.ru/site/');
+    report.id('4305');
+    report.send();
+    </script>
+    <noscript>
+    <img width="1" height="1" src="https://sedu.adhands.ru/site/?static=on&clid=4305&rnd=1234567890123" style="display:none;">
+    </noscript>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-12090095-5', 'medicina.ru');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+
+</script>
+
+
+	<!--
+	Start of DoubleClick Floodlight Tag: Please do not remove
+	Activity name of this tag: all_site
+	URL of the webpage where the tag is expected to be placed: http://www.medicina.ru
+	This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+	Creation Date: 06/20/2014
+	-->
+	<script type="text/javascript">
+	var axel = Math.random() + "";
+	var a = axel * 10000000000000;
+	document.write('<iframe src="https://4450022.fls.doubleclick.net/activityi;src=4450022;type=invmedia;cat=HSAORiCd;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+	</script>
+	<noscript>
+	<!-- deleted by bitrix Antivirus -->
+	</noscript>
+	<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+<link rel="stylesheet" href="//callbackhunter.com/widget/tracker.css">
+<script type="text/javascript" src="//callbackhunter.com/widget/tracker.js" charset="UTF-8"></script> 
+<script type="text/javascript">var hunter_code="aa5106c063dd9afc853c503ecab52485";</script>
+<!-- 15/05/2015  Google Code for &#1052;&#1077;&#1076;&#1080;&#1094;&#1080;&#1085;&#1072; Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 981681501;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "lSaTCOT0xVwQ3YqN1AM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/981681501/?label=lSaTCOT0xVwQ3YqN1AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- END 15/05/2015  Google Code for &#1052;&#1077;&#1076;&#1080;&#1094;&#1080;&#1085;&#1072; Conversion Page -->
+
+</body>
+</html>

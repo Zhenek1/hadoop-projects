@@ -1,0 +1,3702 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns#
+">
+    <head>
+
+    <!--[if lt IE 9]><script src="http://www.ivi.ru//js/html5shiv.js"></script><![endif]-->
+        <meta name="robots" content="noyaca">
+        <meta name="robots" content="noodp">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="application-name" content="ivi.ru">
+    <meta name="msapplication-tooltip" content="ivi.ru">
+    <meta name="msapplication-starturl" content="http://www.ivi.ru/">
+    <meta name="msapplication-task" content="name=Фильмы;window-type=window;action-uri=http://www.ivi.ru/videos/all/movies/all/by_day;icon-uri=/images/da/img/24x24.ico">
+    <meta name="msapplication-task" content="name=Сериалы;window-type=window;action-uri=http://www.ivi.ru/videos/all/series/all/by_day;icon-uri=/images/da/img/24x24.ico">
+    <meta name="msapplication-task" content="name=Мультфильмы;window-type=window;action-uri=http://www.ivi.ru/videos/all/animation/all/by_day;icon-uri=/images/da/img/24x24.ico">
+    <meta name="msapplication-task" content="name=Программы;window-type=window;action-uri=http://www.ivi.ru/videos/all/programs/all/by_day;icon-uri=/images/da/img/24x24.ico">
+    <meta name="msapplication-task" content="name=ivi+;window-type=window;action-uri=http://www.ivi.ru/plus;icon-uri=/images/da/img/24x24.ico">
+    <meta name="msapplication-navbutton-color" content="red">
+    <meta name="msapplication-window" content="width=1152;height=864">
+    <meta name="msApplication-ID" content="App">
+    <meta name="msApplication-PackageFamilyName" content="ivi.ru.ivi.ru_17t6d7vatm0nm">
+    <title>Смотреть фильмы онлайн бесплатно в хорошем качестве и без регистрации. Удобный просмотр онлайн фильмов на ivi.ru</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="icon" type="image/png" href="http://img.ivi.ru/img/speeddial.png">
+    <link rel="shortcut icon" href="/images/da/img/48x48.ico">
+    <link rel="stylesheet" href="http://img.ivi.ru/css/main.css?13bb17fe4c7723a9ff3764dabf165d71">
+
+    <!--[if lte IE 7]>
+        <link rel="stylesheet" href="http://img.ivi.ru/css/ieold.css?8b7f846b40f4926099f97e8a821cd094">
+    <![endif]-->
+    <!--[if IE 8]>
+        <link rel="stylesheet" href="http://img.ivi.ru/css/ie8.css?df2b843e82d8982fac955d6836162b60">
+    <![endif]-->
+    <!--[if IE 9]>
+        <link rel="stylesheet" href="http://img.ivi.ru/css/ie9.css?3cc7612781f953f1e40674c35ca1177a">
+    <![endif]-->
+
+    <script>
+    var ie_items=[{"name":"\u041e\u0434\u043d\u0430 \u0432\u0441\u0442\u0440\u0435\u0447\u0430","url":"\/watch\/124599"},{"name":"\u0412\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c","url":"\/watch\/126207"},{"name":"\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a","url":"\/watch\/102471"},{"name":"\u0412\u043e \u0432\u0441\u0435 \u0442\u044f\u0436\u043a\u0438\u0435","url":"\/watch\/vo_vse_tyazhkie"},{"name":"\u0417\u0432\u0435\u0437\u0434\u0430","url":"\/watch\/126578"},{"name":"\u041e\u0434\u043d\u043e\u0439 \u043b\u0435\u0432\u043e\u0439","url":"\/watch\/127027"},{"name":"\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0435\u0439\u0441","url":"\/watch\/126423"},{"name":"\u041e\u043f\u0430\u0441\u043d\u043e\u0435 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435","url":"\/watch\/127025"},{"name":"\u041e\u0442\u0431\u0440\u043e\u0441\u044b (\u041f\u043b\u043e\u0445\u0438\u0435)","url":"\/watch\/plohie"},{"name":"\u041f\u0440\u043e\u0441\u0442\u0438 \u0437\u0430 \u043b\u044e\u0431\u043e\u0432\u044c","url":"\/watch\/126089"}];
+    var jsconfig = {"subsiteId":104,"mapiUrl":"www.ivi.ru\/mobileapi"};
+    var oldBrowserCheck = true;
+    </script>
+    <script src="http://groot.ivi.ru/lib/groot-0.7.0.js"></script>
+    <script src="http://www.ivi.ru/js/site.js?4d6fe792bb407bfe0f9d47302e59ad8d"></script>
+    <script src="/js/require/require.js?9a5abad043df0d348bdc5eb2c200973a"></script>
+        <script src="http://www.ivi.ru/js/script.js?1efad946881b52a5e3ebf0273a22b48d"></script>
+        <script src="/js/all.js?e70165f37ff935f7ef3c87bdc548c5c9"></script>
+    <script>
+            var wolf_experiment = 0;
+            var wolf_experiment_id = -1;
+    </script>
+
+</head>
+    <body data-uid=""
+ class="genre_old alt-price-plates"
+ data-auth="" data-is_user_subscribed="0" ng-controller="eventController">
+        <script>
+            dataLayer = [{
+                'b2c': 'true'
+            }];
+        </script>
+        <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TK47DZ"
+                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TK47DZ');</script>
+        <!-- End Google Tag Manager -->
+    <div class="header-wrapper header-opacity">
+        <header>
+            <div itemscope itemtype="http://schema.org/Organization" class="logo">
+                <a itemprop="url" href="/" title="Онлайн-кинотеатр ivi.ru">
+                    <span itemprop="name">ivi</span>
+                    <img itemprop="logo" src="http://img.ivi.ru/img/header38/logo_54x29.png" alt="ivi">
+                </a>
+            </div>
+    <!-- удалить стили после завершения проекта -->
+    <style>
+        .new-year-link {
+            padding-right: 0 !important;
+        }
+    </style>
+    
+    <ul class="main-nav">
+        <li>
+            <div class="item"><a href="/new" title="Новинки">Новинки</a></div>
+        </li>
+    <li data-type="f">
+        <div class="item"><a at_counter='[movies]' href="/videos/all/movies/all/by_day/" title="Фильмы онлайн">Фильмы</a></div>
+        <div class="sub-nav-wrapper">
+    <ul class="sub-main-nav" id="0">
+        <li><strong><a href="/videos/podborki/movies-in-2014/">Фильмы 2014 года</a></strong></li>
+        <li class="last-section"><strong><a href="/videos/podborki/movies-in-2013/">Фильмы 2013 года</a></strong></li>
+    <li><a id="161"
+at_counter="[movies-arthouse]" href="/videos/all/movies/arthouse/by_day/" title="Смотреть авторское кино онлайн">Авторское кино</a></li>    <li><a id="94"
+at_counter="[movies-boeviki]" href="/videos/all/movies/boeviki/by_day/" title="Смотреть Боевики онлайн">Боевики</a></li>    <li><a id="103"
+at_counter="[movies-voennye]" href="/videos/all/movies/voennye/by_day/" title="Смотреть военное кино онлайн">Военные</a></li>    <li><a id="97"
+at_counter="[movies-detective]" href="/videos/all/movies/detective/by_day/" title="Смотреть детективное кино онлайн">Детективы</a></li>    <li><a id="160"
+at_counter="[movies-detskiy]" href="/videos/all/movies/detskiy/by_day/" title="Смотреть детское кино онлайн">Для детей</a></li>    <li><a id="198"
+at_counter="[movies-dlya_vsej_semi]" href="/videos/all/movies/dlya_vsej_semi/by_day/" title="">Для всей семьи</a></li>    <li><a id="109"
+at_counter="[movies-documentary]" href="/videos/all/movies/documentary/by_day/" title="Смотреть Документальное кино онлайн">Документальные</a></li>    <li><a id="105"
+at_counter="[movies-drama]" href="/videos/all/movies/drama/by_day/" title="Смотреть кинодрамы онлайн">Драмы</a></li>    <li><a id="192"
+at_counter="[movies-istoricheskie]" href="/videos/all/movies/istoricheskie/by_day/" title="Смотреть исторические фильмы онлайн">Исторические</a></li>    <li><a id="95"
+at_counter="[movies-comedy]" href="/videos/all/movies/comedy/by_day/" title="Смотреть комедии онлайн">Комедии</a></li>    <li><a id="107"
+at_counter="[movies-melodramy]" href="/videos/all/movies/melodramy/by_day/" title="Смотреть мелодрамы онлайн">Мелодрамы</a></li>    <li><a id="163"
+at_counter="[movies-zolotaya_klassika]" href="/videos/all/movies/zolotaya_klassika/by_day/" title="Смотреть мировую классику онлайн">Мировая классика</a></li>    <li><a id="201"
+at_counter="[movies-misticheskie]" href="/videos/all/movies/misticheskie/by_day/" title="">Мистические</a></li>    </ul>    <ul class="sub-main-nav" id="1">
+    <li><a id="189"
+at_counter="[movies-muzyikalnyie]" href="/videos/all/movies/muzyikalnyie/by_day/" title="">Музыкальные</a></li>    <li><a id="101"
+at_counter="[movies-adventures]" href="/videos/all/movies/adventures/by_day/" title="Смотреть приключенческое кино онлайн">Приключения</a></li>    <li><a id="205"
+at_counter="[movies-rossijskie]" href="/videos/all/movies/rossijskie/by_day/" title="">Русские</a></li>    <li><a id="168"
+at_counter="[movies-sovetskoe_kino]" href="/videos/all/movies/sovetskoe_kino/by_day/" title="Смотреть советское кино онлайн">Советское кино</a></li>    <li><a id="127"
+at_counter="[movies-thriller]" href="/videos/all/movies/thriller/by_day/" title="Смотреть триллеры онлайн">Триллеры</a></li>    <li><a id="99"
+at_counter="[movies-horror]" href="/videos/all/movies/horror/by_day/" title="Смотреть ужасы онлайн">Ужасы</a></li>    <li><a id="166"
+at_counter="[movies-fantastika]" href="/videos/all/movies/fantastika/by_day/" title="Смотреть фантастику онлайн">Фантастика</a></li>    <li><a id="187"
+at_counter="[movies-performance]" href="/videos/all/movies/performance/by_day/" title="">Фильмы-спектакли</a></li>    <li><a id="203"
+at_counter="[movies-ekranizatsii]" href="/videos/all/movies/ekranizatsii/by_day/" title="">Экранизации</a></li>    <li><a id="169"
+class="erotic_link" href="/videos/all/movies/erotika/by_day/" title="Смотреть эротику онлайн">Эротика</a></li>    <li><a id="211"
+at_counter="[movies-foreign]" href="/videos/all/movies/foreign/by_day/" title="Смотреть Зарубежные фильмы">Зарубежные</a></li>        <li class="alter"><a title="Эротика+ | платная эротика онлайн" class="erotic_link movies" href="/plus/erotica/">Эротика+</a></li>
+    </ul>        </div>
+    </li>       <li data-type="c">
+        <div class="item"><a at_counter="[series]" href="/videos/all/series/all/by_day/" title="Сериалы онлайн">Сериалы</a></div>
+        <div class="sub-nav-wrapper">
+            <ul class="sub-main-nav">
+     <li><a id="93"
+at_counter="[series-boeviki]"  href="/videos/all/series/boeviki/by_day/" title="Сериалы боевики онлайн">Боевики</a></li>     <li><a id="102"
+at_counter="[series-voennye]"  href="/videos/all/series/voennye/by_day/" title="Военные сериалы онлайн">Военные</a></li>     <li><a id="96"
+at_counter="[series-detective]"  href="/videos/all/series/detective/by_day/" title="Детективные сериалы онлайн">Детективы</a></li>     <li><a id="108"
+at_counter="[series-documentary]"  href="/videos/all/series/documentary/by_day/" title="Документальные сериалы онлайн">Документальные</a></li>     <li><a id="188"
+at_counter="[series-dramy]"  href="/videos/all/series/dramy/by_day/" title="">Драмы</a></li>     <li><a id="193"
+at_counter="[series-istoricheskie]"  href="/videos/all/series/istoricheskie/by_day/" title="">Исторические</a></li>     <li><a id="110"
+at_counter="[series-comedy]"  href="/videos/all/series/comedy/by_day/" title="Комедийные сериалы онлайн">Комедийные</a></li>     <li><a id="196"
+at_counter="[series-melodramyi]"  href="/videos/all/series/melodramyi/by_day/" title="Мелодраматические сериалы">Мелодрамы</a></li>     <li><a id="100"
+at_counter="[series-adventures]"  href="/videos/all/series/adventures/by_day/" title="Приключенческие сериалы онлайн">Приключения</a></li>     <li><a id="106"
+at_counter="[series-romanticheskie]"  href="/videos/all/series/romanticheskie/by_day/" title="Романтические сериалы онлайн">Романтические</a></li>     <li><a id="128"
+at_counter="[series-thriller]"  href="/videos/all/series/thriller/by_day/" title="Сериалы триллеры онлайн">Триллеры</a></li>     <li><a id="195"
+at_counter="[series-misticheskie]"  href="/videos/all/series/misticheskie/by_day/" title="">Мистические</a></li>     <li><a id="190"
+at_counter="[series-sciencefiction]"  href="/videos/all/series/sciencefiction/by_day/" title="">Фантастические</a></li>     <li><a id="162"
+ class="erotic_link"  href="/videos/all/series/erotika/by_day/" title="Эротические сериалы">Эротика</a></li>     <li><a id="212"
+at_counter="[series-foreign]"  href="/videos/all/series/foreign/by_day/" title="Смотреть Зарубежные сериалы">Зарубежные</a></li>     <li><a id="213"
+at_counter="[series-rossijskie]"  href="/videos/all/series/rossijskie/by_day/" title="Смотреть Русские сериалы">Русские</a></li>            </ul>
+        </div>
+    </li>
+       <li data-type="m">
+        <div class="item"><a at_counter="[animation]" href="/videos/all/animation/all/by_day/" title="Мультфильмы онлайн">Мультфильмы</a></div>
+        <div class="sub-nav-wrapper">
+            <ul class="sub-main-nav">
+                    <li><strong><a href="/videos/podborki/cartoons-2013/">Мультики 2013 года</a></strong></li>
+                    <li class="last-section"><strong><a href="/videos/podborki/cartoons-2012/">Мультики 2012 года</a></strong></li>
+     <li><a id="125"
+at_counter="[animation-anime]"  href="/videos/all/animation/anime/by_day/" title="Мультфильмы аниме онлайн">Аниме</a></li>     <li><a id="124"
+at_counter="[animation-vzroslye]"  href="/videos/all/animation/vzroslye/by_day/" title="Мультфильмы для взрослых онлайн">Для взрослых</a></li>     <li><a id="123"
+at_counter="[animation-detskie]"  href="/videos/all/animation/detskie/by_day/" title="Мультфильмы для детей онлайн">Для детей</a></li>     <li><a id="170"
+at_counter="[animation-polnometrazhnye]"  href="/videos/all/animation/polnometrazhnye/by_day/" title="Полнометражные мультфильмы онлайн">Полнометражные</a></li>     <li><a id="210"
+at_counter="[animation-razvivayuschie]"  href="/videos/all/animation/razvivayuschie/by_day/" title="Развивающие мультфильмы смотреть онлайн">Развивающие</a></li>     <li><a id="171"
+at_counter="[animation-serialy]"  href="/videos/all/animation/serialy/by_day/" title="">Сериалы</a></li>     <li><a id="172"
+at_counter="[animation-sovetskie]"  href="/videos/all/animation/sovetskie/by_day/" title="Советские Мультфильмы онлайн">Советские</a></li>     <li><a id="214"
+at_counter="[animation-foreign]"  href="/videos/all/animation/foreign/by_day/" title="Смотреть Зарубежные мультики">Зарубежные</a></li>     <li><a id="215"
+at_counter="[animation-rossijskie]"  href="/videos/all/animation/rossijskie/by_day/" title="Смотреть Российские мультики">Русские</a></li>            </ul>
+            <style>
+                .kiti-banner {
+                    margin-right: -24px;
+                    width: 200px;
+                    height: 75px;
+                }
+
+                .kiti-banner img {
+                    cursor: pointer;
+                }
+            </style>
+            <script>
+                $(document).ready(function(){
+                    $('.kiti-banner img').click(function() {
+                        window.open('http://ad.adriver.ru/cgi-bin/click.cgi?sid=1&ad=522726&bt=21&bid=3844299&bn=3844299&rnd=84263887');
+                    });
+                    $('.main-nav [data-type="m"]').mouseenter(function(){
+                        var img = new Image;
+                        img.src = 'http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=522726&bt=21&bid=3844299&bn=3844299&rnd=84263887';
+                    });
+                });
+            </script>
+            <div class="kiti-banner"><img src="http://img.ivi.ru//img/special/actimel/ad_kiti.png" width="200" height="75"></div>
+        </div>
+    </li>
+    <li>
+        <div class="item"><a title="Титр" href="/titr/">Титр</a></div>
+    </li>
+<li data-type="mu">
+    <div class="item"><a id="music_header_href" at_counter='[music_link]' href="#">Музыка</a></div>
+    <div class="sub-nav-wrapper">
+        <!--noindex-->
+    <ul class="sub-main-nav"><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9wb3A=">Поп</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9kYW5jZQ==">Клубная</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9ydXNwb3A=">Русский поп</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9yb2Nr">Рок</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9ydXNyb2Nr">Русский рок</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9hbHRlcm5hdGl2ZQ==">Альтернатива</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9yYXA=">Рэп</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9ybmI=">R&B</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9yZWxheA==">Релакс</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9oYXJkcm9jaw==">Хард-рок</a>
+</li>    </ul>    <ul class="sub-main-nav"><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9zaGFuc29u">Шансон</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9mb2xr">Фолк</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9raWRz">Дети</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9qYXp6">Джаз и Блюз</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9jbGFzc2lj">Классика</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9zb3VuZHRyYWNrcw==">Киномузыка</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="aHR0cDovL211c2ljLml2aS5ydS93YXRjaC9saXZl">Концерты</a>
+</li><li>
+    <a href="#" class="button_hash" data-value="">Караоке</a>
+</li>    </ul>
+        <ul class="sub-main-nav music-channels">
+            <li><a href="#" id="href_channels">Каналы</a></li>
+            <li><a href="#" id="href_fresh">Новинки</a></li>
+            <li><a href="#" id="href_chart">Хит-парад</a></li>
+            <li><a href="#" id="href_artists">Артисты</a></li>
+        </ul>
+        <!--/noindex-->
+    </div>
+</li>        <li class="nav-plus" data-type="i">
+            <div class="item"><a at_counter="[ivi_plus_premieres]" href="/premieres/">ivi+</a></div>
+            <div class="sub-nav-wrapper">
+                <ul class="sub-main-nav">
+                    <li><a at_counter="[ivi_plus_premieres]" href="/premieres/">Блокбастеры ivi+</a></li>
+                    <li><a at_counter="[ivi_plus]" href="/plus/">Подписка ivi+</a></li>
+                    <li><a class="erotic_link" href="/plus/erotica/">Эротика+</a></li>
+                    <li><a href="#" ng-click="activateGift(false)">Активировать сертификат</a></li>
+                </ul>
+            </div>
+        </li>
+    </ul>
+            <div class="search-user-block">
+                <div class="table-row">
+                    <form id="fast_search_form" class="fast-search" method="GET" action="/search/simple/">
+                        <div class="tools-box">
+                            <input at_counter='[search_field]' name="q" type="text" value="" title="Поиск..." id="search-text" autocomplete="off">
+                            <input id="fast_search_submit" type="submit" value="">
+                        </div>
+<script id="content_autocomplete" type="text/x-jquery-tmpl">
+{{if content_count}}
+    {{if total == 1}}
+    {{each content}}
+        <div class="exact-result">
+            <a href="${link}"><img src="${image}/115x176/" alt=""></a>
+            <span><a href="${link}">${title}</a></span>
+            {{if year||country}}
+                <small>
+                    ${year}{{if year && country}}, {{/if}}${country}
+                </small>
+            {{/if}}
+        </div>
+    {{/each}}    {{else}}
+    <ul>
+        {{each content}}
+            <li>
+                <a href="${link}"><img src="${image}" alt=""></a>
+                <span><a class="object-name" href="${link}">${title}</a></span>
+                {{if year||country}}
+                <small>
+                    ${year}{{if year && country}}, {{/if}}${country}
+                </small>
+                {{/if}}
+            </li>
+        {{/each}}
+    </ul>    {{/if}}
+{{/if}}
+
+{{if person_count}}
+    <ul class="actors-result">
+        {{each person}}
+            <li>
+                <a class="object-name" href="${link}">${title}</a>
+            </li>
+        {{/each}}
+    </ul>{{/if}}
+
+{{if total > 1}}
+    <div class="more-results"><a href="/search/simple/?q=${query}">Все результаты</a></div>
+{{/if}}
+
+{{if !total}}
+    <div class="nothing-found">
+        <p>К сожалению, по введенному вами запросу ничего не найдено.</p>
+        <p>Попробуйте ввести другой запрос.</p>
+    </div>
+{{/if}}
+</script>
+                        <div class="result-box" id="fast_search_result" data-groot="search_short">
+                        </div>
+                    </form>
+                    <div class="profile-block">
+    <div class="auth-link">
+        <span at_counter='[auth_icon]' onclick="return openModal('auth');">Войти</span>
+    </div>                    </div>
+                </div>
+            </div>
+        </header>
+    </div>
+    <div id="wrapper" class="png full-height">
+        <div class="shadows"></div>
+<div class="one-column">
+<script>
+$(document).ready(function(){
+    var params = {};
+        params.recommendation = {
+            categoryName: "Фильмы",
+            genreName: ""
+        };
+
+    Runner.genre(params);
+});
+</script>
+
+<div class="content-main">
+        <!-- Heading and breadcrumbs -->
+<ul class="breadcrumbs-nav">
+    <li><a href="/">Главная</a></li>
+        <li>
+                Фильмы        </li>
+</ul>
+<h1>Фильмы смотреть онлайн</h1>        <!-- Top promo block -->
+<div class="promo-top" data-wsource="genre_promo" data-groot="movie_promo">
+
+    <div class="narrow">
+        <div class="images">
+            <ul class="jcarousel-skin-home-images" data-name="movies">
+    <li class="item-1">
+            <a swf="http://img.ivi.ru/static/bb/7450/bb74504c3dadb1f75d9a.swf"></a>
+    </li>
+    <li class="item-2">
+            <a href="http://www.ivi.ru/watch/121504">
+                <img src="http://img.ivi.ru/static/4a/1f83/4a1f8346a71134c5e27b.0.jpg" alt="Василиса">
+            </a>
+    </li>
+    <li class="item-3">
+            <a href="http://www.ivi.ru/watch/115623">
+                <img src="http://img.ivi.ru/static/a4/1188/a41188c846d1e53e893c.0.jpg" alt="Третья персона">
+                    <span class="play-button" ></span>
+            </a>
+    </li>
+    <li class="item-4">
+            <a swf="http://img.ivi.ru/static/d0/6219/d062195564229ad04239.swf"></a>
+    </li>
+    <li class="item-5">
+            <a href="http://www.ivi.ru/watch/122626">
+                <img src="http://img.ivi.ru/static/e4/2c58/e42c58480cd5f981c12f.0.jpg" alt="8 новых свиданий">
+                    <span class="play-button" ></span>
+            </a>
+    </li>
+    <li class="item-6">
+            <a swf="http://img.ivi.ru/static/3b/705b/3b705b2f4430d780a77b.swf"></a>
+    </li>
+    <li class="item-7">
+            <a href="http://www.ivi.ru/watch/102414">
+                <img src="http://img.ivi.ru/static/64/883e/64883e5233c89ff2c3af.0.jpg" alt="Страховщик">
+                    <span class="play-button" ></span>
+            </a>
+    </li>
+    <li class="item-8">
+            <a href="http://www.ivi.ru/watch/112358">
+                <img src="http://img.ivi.ru/static/8a/faf0/8afaf09c2268064dadf6.0.jpg" alt="Дивергент">
+                    <span class="play-button" ></span>
+            </a>
+    </li>
+    <li class="item-9">
+            <a swf="http://img.ivi.ru/static/64/68ba/6468baf0395da9509e3f.swf"></a>
+    </li>
+            </ul>
+        </div>
+
+        <ul class="info">
+    <li>
+        <div class="info-item">
+            <div class="info-content">
+                    <span class="h3i"><a href="/watch/7029">Выпускной 2015</a></span>
+	                <div class="scale-rating size11 bright">
+	                    <div style="width:
+78%"></div>
+	                    <div style="width: 75%"></div>
+	                </div>
+                <div class="text">
+        <img src="http://img.ivi.ru/static/promotest2/08d4521d19d64e1fb8813dfaa84dad42.png?filever=1e2b6502483335bf139e65e10c9d765b" alt="" itemprop="image">
+                </div>
+            </div>
+
+            <div class="action-button-wrapper">
+    <a href="/watch/7029" class="action-button gradient icon-view button-view view_link">Смотреть</a>
+                        <a href="#" data-id="7029" class="action-button dim gradient icon-favorite button-favorite fav">В очередь</a>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="info-item">
+            <div class="info-content">
+                    <span class="h3i"><a href="/watch/121504">Василиса</a></span>
+	                <div class="scale-rating size11 bright">
+	                    <div style="width:
+66%"></div>
+	                    <div style="width: 75%"></div>
+	                </div>
+                <div class="text">
+        <img src="http://img.ivi.ru/static/promotest2/6d8a97017222f240908eac151bf31375.png?filever=e3a58b3cbde68c182d3b94e8d85ce6cf" alt="" itemprop="image">
+                </div>
+            </div>
+
+            <div class="action-button-wrapper">
+    <a href="/watch/121504"
+class="action-button alter gradient icon-view button-view paid view_link">        По подписке
+</a>
+                        <a href="#" data-id="121504" class="action-button dim gradient icon-favorite button-favorite fav">В очередь</a>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="info-item">
+            <div class="info-content">
+                    <span class="h3i"><a href="/watch/115623">Третья персона</a></span>
+	                <div class="scale-rating size11 bright">
+	                    <div style="width:
+71%"></div>
+	                    <div style="width: 75%"></div>
+	                </div>
+                <div class="text">
+        <img src="http://img.ivi.ru/static/promotest2/7dc682736ef99571de24e56bbec3dd63.png?filever=c4b49b3a69d8389a2d8a771d8ebfb9cf" alt="" itemprop="image">
+                </div>
+            </div>
+
+            <div class="action-button-wrapper">
+    <a href="/watch/115623" class="action-button gradient icon-view button-view view_link">Смотреть</a>
+                        <a href="#" data-id="115623" class="action-button dim gradient icon-favorite button-favorite fav">В очередь</a>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="info-item">
+            <div class="info-content">
+                    <span class="h3i"><a href="/watch/7029">ТАНЦЫ</a></span>
+	                <div class="scale-rating size11 bright">
+	                    <div style="width:
+78%"></div>
+	                    <div style="width: 75%"></div>
+	                </div>
+                <div class="text">
+        <img src="http://img.ivi.ru/static/promotest2/80833abe2681a6933e8a63f6936d6956.png?filever=dec2e4e336b58bb1b5424fccfb94ea20" alt="" itemprop="image">
+                </div>
+            </div>
+
+            <div class="action-button-wrapper">
+    <a href="/watch/7029" class="action-button gradient icon-view button-view view_link">Смотреть</a>
+                        <a href="#" data-id="7029" class="action-button dim gradient icon-favorite button-favorite fav">В очередь</a>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="info-item">
+            <div class="info-content">
+                    <span class="h3i"><a href="/watch/122626">8 новых свиданий</a></span>
+	                <div class="scale-rating size11 bright">
+	                    <div style="width:
+76%"></div>
+	                    <div style="width: 75%"></div>
+	                </div>
+                <div class="text">
+        <img src="http://img.ivi.ru/static/promotest2/489f9d9af855c2c312df1a2eff29036e.png?filever=80d00cd18b4a02db9d80c86496a9b146" alt="" itemprop="image">
+                </div>
+            </div>
+
+            <div class="action-button-wrapper">
+    <a href="/watch/122626" class="action-button gradient icon-view button-view view_link">Смотреть</a>
+                        <a href="#" data-id="122626" class="action-button dim gradient icon-favorite button-favorite fav">В очередь</a>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="info-item">
+            <div class="info-content">
+                    <span class="h3i"><a href="/watch/7029">ПЕРВОМАЙ</a></span>
+	                <div class="scale-rating size11 bright">
+	                    <div style="width:
+78%"></div>
+	                    <div style="width: 75%"></div>
+	                </div>
+                <div class="text">
+        <img src="http://img.ivi.ru/static/promotest2/be3ec82289ce417eee42ba616113de86.png?filever=6417775e846a6ed65199266b47efc3e0" alt="" itemprop="image">
+                </div>
+            </div>
+
+            <div class="action-button-wrapper">
+    <a href="/watch/7029" class="action-button gradient icon-view button-view view_link">Смотреть</a>
+                        <a href="#" data-id="7029" class="action-button dim gradient icon-favorite button-favorite fav">В очередь</a>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="info-item">
+            <div class="info-content">
+                    <span class="h3i"><a href="/watch/102414">Страховщик</a></span>
+	                <div class="scale-rating size11 bright">
+	                    <div style="width:
+70%"></div>
+	                    <div style="width: 75%"></div>
+	                </div>
+                <div class="text">
+        <img src="http://img.ivi.ru/static/promotest2/9ec08caa3107ecde36113dd32d9a0858.png?filever=6e3710c24ddd61fbed3de42b31b4087f" alt="" itemprop="image">
+                </div>
+            </div>
+
+            <div class="action-button-wrapper">
+    <a href="/watch/102414" class="action-button gradient icon-view button-view view_link">Смотреть</a>
+                        <a href="#" data-id="102414" class="action-button dim gradient icon-favorite button-favorite fav">В очередь</a>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="info-item">
+            <div class="info-content">
+                    <span class="h3i"><a href="/watch/112358">Дивергент</a></span>
+	                <div class="scale-rating size11 bright">
+	                    <div style="width:
+81%"></div>
+	                    <div style="width: 75%"></div>
+	                </div>
+                <div class="text">
+        <img src="http://img.ivi.ru/static/promotest2/03ab83e9a0e49fa3b4674eabba5f9c09.png?filever=a15dc0fc9afadb778588031dbb778131" alt="" itemprop="image">
+                </div>
+            </div>
+
+            <div class="action-button-wrapper">
+    <a href="/watch/112358" class="action-button gradient icon-view button-view view_link">Смотреть</a>
+                        <a href="#" data-id="112358" class="action-button dim gradient icon-favorite button-favorite fav">В очередь</a>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="info-item">
+            <div class="info-content">
+                    <span class="h3i"><a href="/watch/7029">Территория России</a></span>
+	                <div class="scale-rating size11 bright">
+	                    <div style="width:
+78%"></div>
+	                    <div style="width: 75%"></div>
+	                </div>
+                <div class="text">
+        <img src="http://img.ivi.ru/static/promotest2/27f10ee9e4a394c45ac01856037d9a78.png?filever=0977bb5379f9347d9389d513b4b22a44" alt="" itemprop="image">
+                </div>
+            </div>
+
+            <div class="action-button-wrapper">
+    <a href="/watch/7029" class="action-button gradient icon-view button-view view_link">Смотреть</a>
+                        <a href="#" data-id="7029" class="action-button dim gradient icon-favorite button-favorite fav">В очередь</a>
+            </div>
+        </div>
+    </li>
+        </ul>
+
+        <div class="promo-buttons-container left-arrow" style="display: none"><a></a></div>
+        <div class="promo-buttons-container right-arrow" style="display: none"><a></a></div>
+    </div>
+
+    <ul class="tab-buttons">
+    <li><a title="Выпускной 2015"></a></li>
+    <li><a title="Василиса"></a></li>
+    <li><a title="Третья персона"></a></li>
+    <li><a title="ТАНЦЫ"></a></li>
+    <li><a title="8 новых свиданий"></a></li>
+    <li><a title="ПЕРВОМАЙ"></a></li>
+    <li><a title="Страховщик"></a></li>
+    <li><a title="Дивергент"></a></li>
+    <li><a title="Территория России"></a></li>
+    </ul>
+
+</div>
+    <div class="canvas">
+            <div class="content-line intro-text expandable">
+                <div class="content-wrapper" id="description_text">
+                        <p>Вы любите смотреть фильмы онлайн и проводите много времени, прочесывая сайты в поисках чего-нибудь интересного? Стоит задержаться на ivi.ru – фильмов, которые собраны у нас, вам хватит надолго. Коллекция постоянно пополняется как новыми фильмами, так и признанными шедеврами прошлых лет! Независимо от того, кто вы – любитель энергичных боевиков или поклонница молодежных сериалов, изобилие нашего каталога заставит вас забыть обо всех других способах проведения досуга, и вы будете пересматривать любимые фильмы онлайн снова и снова! </p>
+<p>Выбор фильмов очень широк и многообразен, так что каждый найдет для себя что-то интересное, каким бы ни были его вкусы. Предпочитаете картины исключительно зарубежного производства? У нас их предостаточно: это и золотая классика Голливуда, и душевные французские комедии, и темпераментные итальянские драмы, и шумные индийские музыкальные фильмы. А может, вы патриот и любите <a href="/videos/podborki/russian-films/" title="Российские фильмы онлайн">
+российские фильмы</a>? Что ж, и таких фильмов у нас немало. Что вам больше по вкусу – добрая старая классика или <a href="/videos/podborki/new-movie/" title="Фильмы новинки кинопроката онлайн">новинки кинопроката</a>? Неважно, каким будет ваш ответ – у нас есть все, как картины эпохи зарождения кинематографа, так и <a href="/videos/podborki/movies-in-2012/" title="Новые фильмы 2012 года онлайн">фильмы 2012 года</a>.</p>
+<p>В нашем каталоге вы найдете любые жанры. Это и <a href="/videos/podborki/films-about-love/" title="Фильмы про любовь - онлайн">фильмы про любовь</a>, и детективы, и боевики, и вестерны, и фантастика, и арт-хаус, и уморительные комедии, и <a href="/videos/podborki/movies-about-war-1941-1945/" title="Лучшие фильмы про войну 1941-1945 онлайн">фильмы про войну</a>, и ужасы, и триллеры, и документалистика... Кроме «полного метра» на сайте представлены также короткометражные фильмы, а также иностранные и <a href="/videos/podborki/russian-series/" title="Русские сериалы онлайн">русские сериалы</a>. </p>
+<p>Если вас интересуют самые знаковые фильмы онлайн в том или ином жанре, система рубрикации поможет вам без труда сориентироваться и найти, например, лучшие <a href="/videos/all/movies/drama/by_day/" title="Лучшие драмы смотреть онлайн">драмы</a> или лучший анимационный фильм онлайн. </p>
+<p>Не упустите замечательную возможность смотреть фильмы онлайн без регистрации, выбирая только то, что вам действительно интересно, и тогда, когда вам это удобно. Ведь это так просто и приятно!</p>
+
+<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=369463&bt=21&pid=998660&bid=2153424&bn=2153424" height="1" width="1" border="0">
+                </div>
+            </div>
+
+        <div class="content-line">
+
+            <div class="main-col">
+
+                <div class="content-line">
+                        <!-- New videos -->
+    <div class="films-gallery-col popout">
+            <span class="h2i"><a href="/videos/all/movies/all/by_year/">Новое на ivi</a></span>
+        <ul id="genre-new-items" class="films-gallery" data-wsource="genre_new" data-groot="movie_new"
+ >
+    <li id="content-127888"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="127888"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1278880">
+            <a href="/watch/127888" class="view_link">
+    <img src="http://thumbs.tivision.ru/f39.vcp.digitalaccess.ru/contents/5/7/c4332c05099f30b78d4217173dc274.jpg" alt="Новая попытка Кейт МакКолл">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1278881">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+79%"></div>    <ul
+data-id="127888">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/127888" title="Новая попытка Кейт МакКолл" class="view_link">Новая попытка Кейт МакКолл</a></strong>
+    </li>    <li id="content-126983"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="126983"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1269830">
+            <a href="/watch/126983" class="view_link">
+    <img src="http://thumbs.tivision.ru/f46.vcp.digitalaccess.ru/contents/a/1/a7980ff5f42c9725a050cf2db65cc9.jpg" alt="Царство красоты">        <span class="price">
+99 рублей        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1269831">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+66%"></div>    <ul
+data-id="126983">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/126983" title="Царство красоты" class="view_link">Царство красоты</a></strong>
+    </li>    <li id="content-133077"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="133077"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1330770">
+            <a href="/watch/133077" class="view_link">
+    <img src="http://thumbs.tivision.ru/f48.vcp.digitalaccess.ru/contents/5/7/9f32c11ff2ed543aa30ae2c5d6d395.jpg" alt="Шальные деньги: Стокгольмский нуар">        <span class="price">
+            По подписке
+        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1330771">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+69%"></div>    <ul
+data-id="133077">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/133077" title="Шальные деньги: Стокгольмский нуар" class="view_link">Шальные деньги: Стокгольмский нуар</a></strong>
+    </li>    <li id="content-112284"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="112284"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1122840">
+            <a href="/watch/112284" class="view_link">
+    <img src="http://thumbs.tivision.ru/f37.vcp.digitalaccess.ru/contents/e/1/d11696ce6dc43ac97ff54030dba8f3.jpg" alt="Тайное влечение">        <span class="price">
+            По подписке
+        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1122841">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+78%"></div>    <ul
+data-id="112284">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/112284" title="Тайное влечение" class="view_link">Тайное влечение</a></strong>
+    </li>    <li id="content-132473"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="132473"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1324730">
+            <a href="/watch/132473" class="view_link">
+    <img src="http://thumbs.tivision.ru/f43.vcp.digitalaccess.ru/contents/6/5/0df5a1086155006b6748f1f2a0d608.jpg" alt="Разрешите тебя поцеловать… отец невесты">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1324731">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+87%"></div>    <ul
+data-id="132473">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/132473" title="Разрешите тебя поцеловать… отец невесты" class="view_link">Разрешите тебя поцеловать… отец невесты</a></strong>
+    </li>    <li id="content-129931"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="129931"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1299310">
+            <a href="/watch/129931" class="view_link">
+    <img src="http://thumbs.tivision.ru/f2.vcp.digitalaccess.ru/contents/e/b/6a312804e836126315246c4683969d.jpg" alt="Мисс Медоуз">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1299311">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+71%"></div>    <ul
+data-id="129931">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/129931" title="Мисс Медоуз" class="view_link">Мисс Медоуз</a></strong>
+    </li>    <li id="content-128933"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="128933"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1289330">
+            <a href="/watch/128933" class="view_link">
+    <img src="http://thumbs.tivision.ru/f38.vcp.digitalaccess.ru/contents/a/8/1b1ea641cc826db8e447561e057fd0.jpg" alt="9 дней и одно утро">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1289331">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+65%"></div>    <ul
+data-id="128933">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/128933" title="9 дней и одно утро" class="view_link">9 дней и одно утро</a></strong>
+    </li>    <li id="content-126914"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="126914"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1269140">
+            <a href="/watch/126914" class="view_link">
+    <img src="http://thumbs.tivision.ru/f39.vcp.digitalaccess.ru/contents/e/8/35bf89c88c5919c302b60847551a6a.jpg" alt="Голые перцы">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1269141">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+61%"></div>    <ul
+data-id="126914">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/126914" title="Голые перцы" class="view_link">Голые перцы</a></strong>
+    </li>    <li id="content-122609"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="122609"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1226090">
+            <a href="/watch/122609" class="view_link">
+    <img src="http://thumbs.tivision.ru/f47.vcp.digitalaccess.ru/contents/f/4/5372e4645505cf567b95407986f68e.jpg" alt="Пятьдесят оттенков серого">        <span class="price">
+99 рублей        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1226091">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+70%"></div>    <ul
+data-id="122609">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/122609" title="Пятьдесят оттенков серого" class="view_link">Пятьдесят оттенков серого</a></strong>
+    </li>    <li id="content-131579"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="131579"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1315790">
+            <a href="/watch/131579" class="view_link">
+    <img src="http://thumbs.tivision.ru/f47.vcp.digitalaccess.ru/contents/3/c/6783cde1094d34f1de2f332fe3b70e.jpg" alt="Между делом">        <span class="price">
+299 рублей        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1315791">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+70%"></div>    <ul
+data-id="131579">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/131579" title="Между делом" class="view_link">Между делом</a></strong>
+    </li>    <li id="content-117087"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="117087"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1170870">
+            <a href="/watch/117087" class="view_link">
+    <img src="http://thumbs.tivision.ru/f42.vcp.digitalaccess.ru/contents/1/e/be3cf95aaff99acdbfe77029e9839b.jpg" alt="Halo 4: Идущий к рассвету">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1170871">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+74%"></div>    <ul
+data-id="117087">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/117087" title="Halo 4: Идущий к рассвету" class="view_link">Halo 4: Идущий к рассвету</a></strong>
+    </li>    <li id="content-132379"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="132379"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1323790">
+            <a href="/watch/132379" class="view_link">
+    <img src="http://thumbs.tivision.ru/f13.vcp.digitalaccess.ru/contents/9/d/e3c8a6c324d6dbeafeb8fd4ae10fe8.jpg" alt="Воспоминания о будущем">        <span class="price">
+299 рублей        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1323791">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+61%"></div>    <ul
+data-id="132379">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/132379" title="Воспоминания о будущем" class="view_link">Воспоминания о будущем</a></strong>
+    </li>    <li id="content-103333"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="103333"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1033330">
+            <a href="/watch/103333" class="view_link">
+    <img src="http://thumbs.tivision.ru/f50.vcp.digitalaccess.ru/contents/2/3/0d6dd57ea987e320d715dc0ceda46d.jpg" alt="Пленницы">        <span class="price">
+            По подписке
+        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1033331">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+79%"></div>    <ul
+data-id="103333">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/103333" title="Пленницы" class="view_link">Пленницы</a></strong>
+    </li>    <li id="content-122218"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="122218"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1222180">
+            <a href="/watch/122218" class="view_link">
+    <img src="http://thumbs.tivision.ru/f2.vcp.digitalaccess.ru/contents/3/5/f783f942823ceeb2757a5c547fa588.jpg" alt="Тайна темной комнаты">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1222181">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+83%"></div>    <ul
+data-id="122218">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/122218" title="Тайна темной комнаты" class="view_link">Тайна темной комнаты</a></strong>
+    </li>    <li id="content-106223"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="106223"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1062230">
+            <a href="/watch/106223" class="view_link">
+    <img src="http://thumbs.tivision.ru/f12.vcp.digitalaccess.ru/contents/d/7/4e022e7ed34b6a64d4ec196fda9c12.jpg" alt="Вавилон">        <span class="price">
+            По подписке
+        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1062231">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+74%"></div>    <ul
+data-id="106223">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/106223" title="Вавилон" class="view_link">Вавилон</a></strong>
+    </li>    <li id="content-115680"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="115680"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1156800">
+            <a href="/watch/115680" class="view_link">
+    <img src="http://thumbs.tivision.ru/f5.vcp.digitalaccess.ru/contents/c/e/e64778eac2b0398a4a293709e44f0c.jpg" alt="Мисс Переполох">        <span class="price">
+299 рублей        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1156801">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+74%"></div>    <ul
+data-id="115680">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/115680" title="Мисс Переполох" class="view_link">Мисс Переполох</a></strong>
+    </li>    <li id="content-107388"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="107388"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1073880">
+            <a href="/watch/107388" class="view_link">
+    <img src="http://thumbs.tivision.ru/f14.vcp.digitalaccess.ru/contents/1/b/2aef6a32cd213a38f43685515425a7.jpg" alt="Черное золото">        <span class="price">
+            По подписке
+        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_1073881">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+78%"></div>    <ul
+data-id="107388">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/107388" title="Черное золото" class="view_link">Черное золото</a></strong>
+    </li>    <li id="content-98434"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="98434"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="984340">
+            <a href="/watch/98434" class="view_link">
+    <img src="http://thumbs.tivision.ru/f15.vcp.digitalaccess.ru/contents/9/7/5b8d30d927fc47111dbe941f5d1caf.jpg" alt="Гамбит">        <span class="price">
+            По подписке
+        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="novel_xinfo_984341">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+69%"></div>    <ul
+data-id="98434">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/98434" title="Гамбит" class="view_link">Гамбит</a></strong>
+    </li>
+        </ul>
+            <p class="more">
+                <a class="underlined" id="" href="/videos/all/movies/all/by_year/">
+Показать еще</a>
+            </p>
+
+    </div>                        <!-- Popular videos -->
+    <div class="films-gallery-col popout">
+            <span class="h2i"><a href="/videos/all/movies/all/by_views/">Популярное</a></span>
+        <ul id="genre-popular-items" class="films-gallery" data-wsource="genre_pop" data-groot="movie_pop"
+ >
+    <li id="content-124599"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="124599"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1245990">
+            <a href="/watch/124599" class="view_link">
+    <img src="http://thumbs.tivision.ru/f14.vcp.digitalaccess.ru/contents/6/d/a994fa6b00fe5be121c844e1e72a36.jpg" alt="Одна встреча">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1245991">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+82%"></div>    <ul
+data-id="124599">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/124599" title="Одна встреча" class="view_link">Одна встреча</a></strong>
+    </li>    <li id="content-126207"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="126207"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1262070">
+            <a href="/watch/126207" class="view_link">
+    <img src="http://thumbs.tivision.ru/f2.vcp.digitalaccess.ru/contents/f/1/28180251dc412e000e4e99d999d174.jpg" alt="Вычислитель">        <span class="price">
+299 рублей        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1262071">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+61%"></div>    <ul
+data-id="126207">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/126207" title="Вычислитель" class="view_link">Вычислитель</a></strong>
+    </li>    <li id="content-102471"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="102471"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1024710">
+            <a href="/watch/102471" class="view_link">
+    <img src="http://thumbs.tivision.ru/f11.vcp.digitalaccess.ru/contents/2/6/2bd0a69e8f5f45b82aadde2c2184f5.jpg" alt="Защитник">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1024711">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+81%"></div>    <ul
+data-id="102471">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/102471" title="Защитник" class="view_link">Защитник</a></strong>
+    </li>    <li id="content-126578"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="126578"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1265780">
+            <a href="/watch/126578" class="view_link">
+    <img src="http://thumbs.tivision.ru/f41.vcp.digitalaccess.ru/contents/9/c/851173323adaa63e2ac6894c2cb9d5.jpg" alt="Звезда">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1265781">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+82%"></div>    <ul
+data-id="126578">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/126578" title="Звезда" class="view_link">Звезда</a></strong>
+    </li>    <li id="content-127027"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="127027"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1270270">
+            <a href="/watch/127027" class="view_link">
+    <img src="http://thumbs.tivision.ru/f49.vcp.digitalaccess.ru/contents/c/5/a28698af407b9504dcaa69e653ebc9.jpg" alt="Одной левой">        <span class="price">
+299 рублей        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1270271">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+72%"></div>    <ul
+data-id="127027">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/127027" title="Одной левой" class="view_link">Одной левой</a></strong>
+    </li>    <li id="content-126423"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="126423"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1264230">
+            <a href="/watch/126423" class="view_link">
+    <img src="http://thumbs.tivision.ru/f42.vcp.digitalaccess.ru/contents/2/b/3ed0bd71eafd91302370922599eee0.jpg" alt="Последний рейс">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1264231">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+54%"></div>    <ul
+data-id="126423">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/126423" title="Последний рейс" class="view_link">Последний рейс</a></strong>
+    </li>    <li id="content-127025"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="127025"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1270250">
+            <a href="/watch/127025" class="view_link">
+    <img src="http://thumbs.tivision.ru/f44.vcp.digitalaccess.ru/contents/8/a/471e9fedbfa166a6b2349f76382799.jpg" alt="Опасное погружение">        <span class="price">
+199 рублей        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1270251">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+68%"></div>    <ul
+data-id="127025">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/127025" title="Опасное погружение" class="view_link">Опасное погружение</a></strong>
+    </li>    <li id="content-126089"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="126089"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1260890">
+            <a href="/watch/126089" class="view_link">
+    <img src="http://thumbs.tivision.ru/f6.vcp.digitalaccess.ru/contents/f/6/ead69398a955895a417708e9928a63.jpg" alt="Прости за любовь">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1260891">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+80%"></div>    <ul
+data-id="126089">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/126089" title="Прости за любовь" class="view_link">Прости за любовь</a></strong>
+    </li>    <li id="content-126233"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="126233"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1262330">
+            <a href="/watch/126233" class="view_link">
+    <img src="http://thumbs.tivision.ru/f40.vcp.digitalaccess.ru/contents/1/a/4bc83fbad66e5430574abbed87a778.jpg" alt="Лучшее во мне">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1262331">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+83%"></div>    <ul
+data-id="126233">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/126233" title="Лучшее во мне" class="view_link">Лучшее во мне</a></strong>
+    </li>    <li id="content-85949"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="85949"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="859490">
+            <a href="/watch/85949" class="view_link">
+    <img src="http://thumbs.tivision.ru/f1.vcp.digitalaccess.ru/contents/0/1/477b9156ee04e24419b85eafa4754f.jpg" alt="Дом">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_859491">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+82%"></div>    <ul
+data-id="85949">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/85949" title="Дом" class="view_link">Дом</a></strong>
+    </li>    <li id="content-102414"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="102414"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1024140">
+            <a href="/watch/102414" class="view_link">
+    <img src="http://thumbs.tivision.ru/f44.vcp.digitalaccess.ru/contents/e/8/cd05644b20d3e5408677a82187a818.jpg" alt="Страховщик">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1024141">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+70%"></div>    <ul
+data-id="102414">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/102414" title="Страховщик" class="view_link">Страховщик</a></strong>
+    </li>    <li id="content-121578"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="121578"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1215780">
+            <a href="/watch/121578" class="view_link">
+    <img src="http://thumbs.tivision.ru/f39.vcp.digitalaccess.ru/contents/b/1/823bc0c69bb844d08ee3335aff59d8.jpg" alt="Оставленные">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1215781">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+65%"></div>    <ul
+data-id="121578">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/121578" title="Оставленные" class="view_link">Оставленные</a></strong>
+    </li>    <li id="content-121511"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="121511"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1215110">
+            <a href="/watch/121511" class="view_link">
+    <img src="http://thumbs.tivision.ru/f16.vcp.digitalaccess.ru/contents/7/3/1a1611ffb38dbe1d2e659a7976373b.jpg" alt="Моя Госпожа">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1215111">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+81%"></div>    <ul
+data-id="121511">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/121511" title="Моя Госпожа" class="view_link">Моя Госпожа</a></strong>
+    </li>    <li id="content-121504"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="121504"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1215040">
+            <a href="/watch/121504" class="view_link">
+    <img src="http://thumbs.tivision.ru/f17.vcp.digitalaccess.ru/contents/3/4/14234d130fea0254f8ea1dcbbe3cf8.jpg" alt="Василиса">        <span class="price">
+            По подписке
+        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1215041">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+66%"></div>    <ul
+data-id="121504">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/121504" title="Василиса" class="view_link">Василиса</a></strong>
+    </li>    <li id="content-115607"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="115607"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1156070">
+            <a href="/watch/115607" class="view_link">
+    <img src="http://thumbs.tivision.ru/f8.vcp.digitalaccess.ru/contents/f/0/852a5af005b2b09ac369e0266eb434.jpg" alt="Саботаж">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1156071">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+74%"></div>    <ul
+data-id="115607">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/115607" title="Саботаж" class="view_link">Саботаж</a></strong>
+    </li>    <li id="content-121597"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="121597"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1215970">
+            <a href="/watch/121597" class="view_link">
+    <img src="http://thumbs.tivision.ru/f41.vcp.digitalaccess.ru/contents/f/0/557338d69c297038288feb5db6c2fd.jpg" alt="Посвященный">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1215971">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+80%"></div>    <ul
+data-id="121597">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/121597" title="Посвященный" class="view_link">Посвященный</a></strong>
+    </li>    <li id="content-126206"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="126206"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1262060">
+            <a href="/watch/126206" class="view_link">
+    <img src="http://thumbs.tivision.ru/f43.vcp.digitalaccess.ru/contents/b/8/a4726b1fbe3b336c62a4f50f2c5f63.jpg" alt="Территория">        <span class="price">
+99 рублей        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1262061">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+68%"></div>    <ul
+data-id="126206">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/126206" title="Территория" class="view_link">Территория</a></strong>
+    </li>    <li id="content-107464"
+        class=" hidden rotate-items"
+        data-type="content"
+        data-id="107464"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1074640">
+            <a href="/watch/107464" class="view_link">
+    <img src="http://thumbs.tivision.ru/f13.vcp.digitalaccess.ru/contents/1/0/9fa3daeb224890a63e3728a0b2adc8.jpg" alt="Напролом">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="popular_xinfo_1074641">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+75%"></div>    <ul
+data-id="107464">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/107464" title="Напролом" class="view_link">Напролом</a></strong>
+    </li>
+        </ul>
+            <p class="more">
+                <a class="underlined" id="" href="/videos/all/movies/all/by_views/">
+Показать еще</a>
+            </p>
+
+    </div>                </div>
+
+                <!-- Subgenres block -->
+<div class="content-line subgenres">
+
+    <span class="h2i">Жанры</span>
+    <ul class="tabs-menu-vertical" id="tabs-menu_subgenres">
+    <li
+class = "active"><a id="161" href="/videos/all/movies/arthouse/by_day/"
+ title="Смотреть авторское кино онлайн"  data-genre="" >Авторское кино</a></li>    <li
+><a id="94" href="/videos/all/movies/boeviki/by_day/"
+ title="Смотреть Боевики онлайн"  data-genre="" >Боевики</a></li>    <li
+><a id="103" href="/videos/all/movies/voennye/by_day/"
+ title="Смотреть военное кино онлайн"  data-genre="" >Военные</a></li>    <li
+><a id="97" href="/videos/all/movies/detective/by_day/"
+ title="Смотреть детективное кино онлайн"  data-genre="" >Детективы</a></li>    <li
+><a id="160" href="/videos/all/movies/detskiy/by_day/"
+ title="Смотреть детское кино онлайн"  data-genre="" >Для детей</a></li>    <li
+><a id="198" href="/videos/all/movies/dlya_vsej_semi/by_day/"
+  data-genre="" >Для всей семьи</a></li>    <li
+><a id="109" href="/videos/all/movies/documentary/by_day/"
+ title="Смотреть Документальное кино онлайн"  data-genre="" >Документальные</a></li>    <li
+><a id="105" href="/videos/all/movies/drama/by_day/"
+ title="Смотреть кинодрамы онлайн"  data-genre="" >Драмы</a></li>    <li
+><a id="192" href="/videos/all/movies/istoricheskie/by_day/"
+ title="Смотреть исторические фильмы онлайн"  data-genre="" >Исторические</a></li>    <li
+><a id="95" href="/videos/all/movies/comedy/by_day/"
+ title="Смотреть комедии онлайн"  data-genre="" >Комедии</a></li>    <li
+><a id="107" href="/videos/all/movies/melodramy/by_day/"
+ title="Смотреть мелодрамы онлайн"  data-genre="" >Мелодрамы</a></li>    <li
+><a id="163" href="/videos/all/movies/zolotaya_klassika/by_day/"
+ title="Смотреть мировую классику онлайн"  data-genre="" >Мировая классика</a></li>    <li
+><a id="201" href="/videos/all/movies/misticheskie/by_day/"
+  data-genre="" >Мистические</a></li>    <li
+><a id="189" href="/videos/all/movies/muzyikalnyie/by_day/"
+  data-genre="" >Музыкальные</a></li>    <li
+><a id="101" href="/videos/all/movies/adventures/by_day/"
+ title="Смотреть приключенческое кино онлайн"  data-genre="" >Приключения</a></li>    <li
+><a id="205" href="/videos/all/movies/rossijskie/by_day/"
+  data-genre="" >Русские</a></li>    <li
+><a id="168" href="/videos/all/movies/sovetskoe_kino/by_day/"
+ title="Смотреть советское кино онлайн"  data-genre="" >Советское кино</a></li>    <li
+><a id="127" href="/videos/all/movies/thriller/by_day/"
+ title="Смотреть триллеры онлайн"  data-genre="" >Триллеры</a></li>    <li
+><a id="99" href="/videos/all/movies/horror/by_day/"
+ title="Смотреть ужасы онлайн"  data-genre="" >Ужасы</a></li>    <li
+><a id="166" href="/videos/all/movies/fantastika/by_day/"
+ title="Смотреть фантастику онлайн"  data-genre="" >Фантастика</a></li>    <li
+><a id="187" href="/videos/all/movies/performance/by_day/"
+  data-genre="" >Фильмы-спектакли</a></li>    <li
+><a id="203" href="/videos/all/movies/ekranizatsii/by_day/"
+  data-genre="" >Экранизации</a></li>    <li
+><a id="169" href="/videos/all/movies/erotika/by_day/"
+class="erotic_link_noredirect" title="Смотреть эротику онлайн"  data-genre="" >Эротика</a></li>    <li
+><a id="211" href="/videos/all/movies/foreign/by_day/"
+ title="Смотреть Зарубежные фильмы"  data-genre="" >Зарубежные</a></li>    </ul>
+    <div class="tabs-content">
+        <div class="tab active" id="tab_action">
+    <div class="subgenre-films-gallery popout">
+        <ul id="genre-subgenre_action-items" class="films-gallery" data-wsource="genre_subgenre" >
+    <li id="content-10334"
+        class=""
+        data-type="content"
+        data-id="10334"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="103340">
+            <a href="/watch/10334" class="view_link">
+    <img src="http://thumbs.tivision.ru/f14.vcp.digitalaccess.ru/contents/4/a/c71771399af9d3dd4b9075b59be1b9.jpg" alt="Я так давно тебя люблю">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="xinfo_103341">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+88%"></div>    <ul
+data-id="10334">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/10334" title="Я так давно тебя люблю" class="view_link">Я так давно тебя люблю</a></strong>
+    </li>    <li id="content-100106"
+        class=""
+        data-type="content"
+        data-id="100106"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1001060">
+            <a href="/watch/100106" class="view_link">
+    <img src="http://thumbs.tivision.ru/f41.vcp.digitalaccess.ru/contents/1/7/a291dc3d1bd882fdacf98b8e823f94.jpg" alt="Амели">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="xinfo_1001061">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+82%"></div>    <ul
+data-id="100106">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/100106" title="Амели" class="view_link">Амели</a></strong>
+    </li>    <li id="content-103308"
+        class=""
+        data-type="content"
+        data-id="103308"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1033080">
+            <a href="/watch/103308" class="view_link">
+    <img src="http://thumbs.tivision.ru/f10.vcp.digitalaccess.ru/contents/3/a/a9b59b1ade2175d5ddf1875022301d.jpg" alt="Ведьмы из Сугаррамурди">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="xinfo_1033081">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+73%"></div>    <ul
+data-id="103308">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/103308" title="Ведьмы из Сугаррамурди" class="view_link">Ведьмы из Сугаррамурди</a></strong>
+    </li>    <li id="content-88884"
+        class=""
+        data-type="content"
+        data-id="88884"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="888840">
+            <a href="/watch/88884" class="view_link">
+    <img src="http://thumbs.tivision.ru/f6.vcp.digitalaccess.ru/contents/1/b/9a3f6c358250535d99b973a4b80d21.jpg" alt="В доме">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="xinfo_888841">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+75%"></div>    <ul
+data-id="88884">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/88884" title="В доме" class="view_link">В доме</a></strong>
+    </li>    <li id="content-103302"
+        class=""
+        data-type="content"
+        data-id="103302"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1033020">
+            <a href="/watch/103302" class="view_link">
+    <img src="http://thumbs.tivision.ru/f5.vcp.digitalaccess.ru/contents/c/3/f4684d7c97c6dcb7bdea9ae3722999.jpg" alt="Внутри Льюина Дэвиса">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="xinfo_1033021">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+68%"></div>    <ul
+data-id="103302">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/103302" title="Внутри Льюина Дэвиса" class="view_link">Внутри Льюина Дэвиса</a></strong>
+    </li>    <li id="content-60797"
+        class=""
+        data-type="content"
+        data-id="60797"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="607970">
+            <a href="/watch/60797" class="view_link">
+    <img src="http://thumbs.tivision.ru/f38.vcp.digitalaccess.ru/contents/e/4/110ec3d82d4e2a76c513ccea8ac1a0.jpg" alt="Кожа, в которой я живу">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="xinfo_607971">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+76%"></div>    <ul
+data-id="60797">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/60797" title="Кожа, в которой я живу" class="view_link">Кожа, в которой я живу</a></strong>
+    </li>    <li id="content-112285"
+        class=""
+        data-type="content"
+        data-id="112285"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1122850">
+            <a href="/watch/112285" class="view_link">
+    <img src="http://thumbs.tivision.ru/f38.vcp.digitalaccess.ru/contents/1/d/f551f8e0488def85fb426d5e5d949f.jpg" alt="Интимные места">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="xinfo_1122851">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+60%"></div>    <ul
+data-id="112285">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/112285" title="Интимные места" class="view_link">Интимные места</a></strong>
+    </li>    <li id="content-4445"
+        class=""
+        data-type="content"
+        data-id="4445"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="44450">
+            <a href="/watch/4445" class="view_link">
+    <img src="http://thumbs.tivision.ru/f20.vcp.digitalaccess.ru/contents/6/c/ceb4017a62684a09d4f8dfa64e1369.jpg" alt="Волчок">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="xinfo_44451">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+80%"></div>    <ul
+data-id="4445">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/4445" title="Волчок" class="view_link">Волчок</a></strong>
+    </li>    <li id="content-103360"
+        class=""
+        data-type="content"
+        data-id="103360"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1033600">
+            <a href="/watch/103360" class="view_link">
+    <img src="http://thumbs.tivision.ru/f20.vcp.digitalaccess.ru/contents/d/a/a85291c9c3f004ef66ec69fece284d.jpg" alt="Молода и прекрасна">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="xinfo_1033601">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+76%"></div>    <ul
+data-id="103360">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/103360" title="Молода и прекрасна" class="view_link">Молода и прекрасна</a></strong>
+    </li>    <li id="content-89887"
+        class=""
+        data-type="content"
+        data-id="89887"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="898870">
+            <a href="/watch/89887" class="view_link">
+    <img src="http://thumbs.tivision.ru/f17.vcp.digitalaccess.ru/contents/2/0/8cfc30c03fbc2a3f06935c7aad7964.jpg" alt="Комедия власти">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="xinfo_898871">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+69%"></div>    <ul
+data-id="89887">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/89887" title="Комедия власти" class="view_link">Комедия власти</a></strong>
+    </li>    <li id="content-98513"
+        class=""
+        data-type="content"
+        data-id="98513"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="985130">
+            <a href="/watch/98513" class="view_link">
+    <img src="http://thumbs.tivision.ru/f12.vcp.digitalaccess.ru/contents/d/5/4d197817959267a0ae23050d3d0f7b.jpg" alt="Я очень возбужден">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="xinfo_985131">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+68%"></div>    <ul
+data-id="98513">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/98513" title="Я очень возбужден" class="view_link">Я очень возбужден</a></strong>
+    </li>    <li id="content-86952"
+        class=""
+        data-type="content"
+        data-id="86952"
+        >
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="869520">
+            <a href="/watch/86952" class="view_link">
+    <img src="http://thumbs.tivision.ru/f6.vcp.digitalaccess.ru/contents/8/b/c5ac9b8840ef7ae851285e94929d75.jpg" alt="Лабиринт Фавна">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="xinfo_869521">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+            <div class="scale-rating  unvoted
+">
+<div style="width:
+76%"></div>    <ul
+data-id="86952">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>            </div>
+        <strong><a href="/watch/86952" title="Лабиринт Фавна" class="view_link">Лабиринт Фавна</a></strong>
+    </li>
+        </ul>
+            <p class="more">
+                <a class="underlined" id="subgenres_more_link" href="/videos/all/movies/arthouse/by_day/">
+Показать еще</a>
+            </p>
+
+    </div>        </div>
+
+    </div>
+
+</div>                    <!-- Personal recommendations -->
+<div class="content-line recommended-block" id="recommendation_genre_page_place" data-wsource="genre_recommendations" data-groot="movie_recommendations">
+</div>                    <div class="content-line persons-block-wrapper">
+<div class="persons-block directors">
+    <a name="directors"></a>
+    <span class="h2i">Режиссеры</span>
+<ul class="persons no-images" data-wsource="genre_persons">
+    <li>
+
+                <strong><a href="/person/martin_skorseze" title="Мартин Скорсезе">Мартин Скорсезе</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/119726">Король комедии</a></li>        <li><a href="/watch/114655">Кундун</a></li>        <li><a href="/watch/114436">История американского кино от Мартина Скорсезе</a></li>        <li><a href="/watch/113979">Алиса здесь больше не живет</a></li>                </ul>
+    </li>    <li>
+
+                <strong><a href="/person/ernst_lyubich" title="Эрнст Любич">Эрнст Любич</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/56582">Улыбающийся лейтенант</a></li>        <li><a href="/watch/54601">Серенада трех сердец</a></li>        <li><a href="/watch/87573">Быть или не быть</a></li>        <li><a href="/watch/51068">Один час с тобой</a></li>                </ul>
+    </li>    <li>
+
+                <strong><a href="/person/lars_fon_trier" title="Ларс фон Триер">Ларс фон Триер</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/103404">Нимфоманка: Часть 1</a></li>        <li><a href="/watch/115502">Нимфоманка. Режиссерская версия</a></li>        <li><a href="/watch/114381">Нимфоманка: Часть 2</a></li>        <li><a href="/watch/112613">Мандерлей</a></li>                </ul>
+    </li>    <li>
+
+                <strong><a href="/person/aleksej_balabanov" title="Алексей Балабанов">Алексей Балабанов</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/115553">Прибытие поезда</a></li>        <li><a href="/watch/96324">Я тоже хочу</a></li>        <li><a href="/watch/33504">Про уродов и людей</a></li>        <li><a href="/watch/33510">Война</a></li>                </ul>
+    </li>    <li>
+
+                <strong><a href="/person/pedro_almodovar" title="Педро Альмодовар">Педро Альмодовар</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/98513">Я очень возбужден</a></li>        <li><a href="/watch/114672">Живая плоть</a></li>        <li><a href="/watch/112453">Дурное воспитание</a></li>        <li><a href="/watch/100133">Поговори с ней</a></li>                </ul>
+    </li>    <!-- }} быдлохак -->
+</ul>    <p class="more">
+        <a class="underdotted" href="?stars_from_3=5#directors" rel="/genre/ajax/stars/?for=category_id&id=14&from=5&type=3&count=5">Показать других</a>
+    </p>
+</div>
+                        <!-- Actors block -->
+<div class="persons-block">
+    <a name="actors"></a>
+    <span class="h2i">Актеры</span>
+<ul class="persons" data-wsource="genre_persons">
+    <li>
+            <div class="image">
+                <a href="/person/Julianne-Moore-27120"><img src="http://thumbs.tivision.ru/f35.vcp.digitalaccess.ru/contents/a/b/d1476e0a2afb305a108cef16d4bb4c.jpg/51x61/" alt=""></a>
+            </div>
+            <div class="text">
+
+                <strong><a href="/person/Julianne-Moore-27120" title="Джулианна Мур">Джулианна Мур</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/110273">Хлоя</a></li>        <li><a href="/watch/126883">Голодные игры: Сойка-пересмешница. Часть II</a></li>        <li><a href="/watch/126587">Учитель английского</a></li>        <li><a href="/watch/124882">Звездная карта</a></li>                </ul>
+            </div>
+    </li>    <li>
+            <div class="image">
+                <a href="/person/Anthony-Hopkins-4428"><img src="http://thumbs.tivision.ru/f34.vcp.digitalaccess.ru/contents/0/a/c14ba4c111a2ec928c15a8b27c242a.jpg/51x61/" alt=""></a>
+            </div>
+            <div class="text">
+
+                <strong><a href="/person/Anthony-Hopkins-4428" title="Энтони Хопкинс">Энтони Хопкинс</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/127700">Вихрь</a></li>        <li><a href="/watch/121507">Похищение Фредди Хайнекена</a></li>        <li><a href="/watch/115581">Никсон</a></li>        <li><a href="/watch/114917">Инстинкт</a></li>                </ul>
+            </div>
+    </li>    <li>
+            <div class="image">
+                <a href="/person/yuen_makgregor"><img src="http://thumbs.tivision.ru/f31.vcp.digitalaccess.ru/contents/a/4/3f834eba234fdb1bece67aa894d770.jpg/51x61/" alt=""></a>
+            </div>
+            <div class="text">
+
+                <strong><a href="/person/yuen_makgregor" title="Юэн МакГрегор">Юэн МакГрегор</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/122604">Мордекай</a></li>        <li><a href="/watch/121506">Молодая кровь</a></li>        <li><a href="/watch/114636">Ночное дежурство</a></li>        <li><a href="/watch/114575">Дело – труба</a></li>                </ul>
+            </div>
+    </li>    <li>
+            <div class="image">
+                <a href="/person/sandra_bullok"><img src="http://thumbs.tivision.ru/f35.vcp.digitalaccess.ru/contents/4/a/4843c82b45680e9d3c234720a28afc.jpg/51x61/" alt=""></a>
+            </div>
+            <div class="text">
+
+                <strong><a href="/person/sandra_bullok" title="Сандра Буллок">Сандра Буллок</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/98616">Копы в юбках</a></li>        <li><a href="/watch/123255">Принц Египта</a></li>        <li><a href="/watch/112369">Миньоны</a></li>        <li><a href="/watch/106058">Кто стрелял в Пэта?</a></li>                </ul>
+            </div>
+    </li>    <li>
+            <div class="image">
+                <a href="/person/Nicole-Kidman-2575"><img src="http://thumbs.tivision.ru/f36.vcp.digitalaccess.ru/contents/f/d/efce2e0f427bf8b5093c659fa9ec95.jpg/51x61/" alt=""></a>
+            </div>
+            <div class="text">
+
+                <strong><a href="/person/Nicole-Kidman-2575" title="Николь Кидман">Николь Кидман</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/107196">Кроличья нора</a></li>        <li><a href="/watch/122620">Приключения Паддингтона</a></li>        <li><a href="/watch/107330">Принцесса Монако</a></li>        <li><a href="/watch/124626">Марго на свадьбе</a></li>                </ul>
+            </div>
+    </li>    <li>
+            <div class="image">
+                <a href="/person/kemeron_diaz"><img src="http://thumbs.tivision.ru/f16.vcp.digitalaccess.ru/contents/7/e/e9ee88d6729d02830adfde1da97ff5.jpg/51x61/" alt=""></a>
+            </div>
+            <div class="text">
+
+                <strong><a href="/person/kemeron_diaz" title="Кэмерон Диаз">Кэмерон Диаз</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/98434">Гамбит</a></li>        <li><a href="/watch/115613">Другая женщина</a></li>        <li><a href="/watch/105726">Очень плохая училка</a></li>        <li><a href="/watch/122617">Энни</a></li>                </ul>
+            </div>
+    </li>    <li>
+            <div class="image">
+                <a href="/person/Jim-Carrey-3308"><img src="http://thumbs.tivision.ru/f33.vcp.digitalaccess.ru/contents/7/3/d1a4d8217c044fc0f0cfab604097cd.jpg/51x61/" alt=""></a>
+            </div>
+            <div class="text">
+
+                <strong><a href="/person/Jim-Carrey-3308" title="Джим Керри">Джим Керри</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/115692">Тупой и еще тупее 2</a></li>        <li><a href="/watch/106112">Однажды укушенный</a></li>        <li><a href="/watch/106111">Игра в смерть</a></li>        <li><a href="/watch/106110">Земные девушки легко доступны</a></li>                </ul>
+            </div>
+    </li>    <li>
+            <div class="image">
+                <a href="/person/-677"><img src="http://thumbs.tivision.ru/f35.vcp.digitalaccess.ru/contents/0/b/cd1c2e4b2efe5f61f0345c6a5728bd.jpg/51x61/" alt=""></a>
+            </div>
+            <div class="text">
+
+                <strong><a href="/person/-677" title="Моника Беллуччи">Моника Беллуччи</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/126890">007: СПЕКТР</a></li>        <li><a href="/watch/115358">Астерикс и Обеликс: Миссия Клеопатра</a></li>        <li><a href="/watch/114986">Братство волка</a></li>        <li><a href="/watch/114676">Доберман</a></li>                </ul>
+            </div>
+    </li>    <li>
+            <div class="image">
+                <a href="/person/Colin-Farrell-364"><img src="http://thumbs.tivision.ru/f35.vcp.digitalaccess.ru/contents/a/4/8a5cddaab87882884d1a6a76e276b1.jpeg/51x61/" alt=""></a>
+            </div>
+            <div class="text">
+
+                <strong><a href="/person/Colin-Farrell-364" title="Колин Фаррелл">Колин Фаррелл</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/113463">Любовь сквозь время</a></li>        <li><a href="/watch/123521">Фрёкен Юлия</a></li>        <li><a href="/watch/119772">Страна тигров</a></li>        <li><a href="/watch/114919">Зона военных действий</a></li>                </ul>
+            </div>
+    </li>    <li>
+            <div class="image">
+                <a href="/person/kolin_fyort"><img src="http://thumbs.tivision.ru/f19.vcp.digitalaccess.ru/contents/1/d/db3e89ebc36cab050aab1fb08c5740.jpg/51x61/" alt=""></a>
+            </div>
+            <div class="text">
+
+                <strong><a href="/person/kolin_fyort" title="Колин Фёрт">Колин Фёрт</a></strong>
+                <ul class="films-list-titles" data-wsource="genre_persons">
+        <li><a href="/watch/98434">Гамбит</a></li>        <li><a href="/watch/121544">Kingsman: Секретная служба</a></li>        <li><a href="/watch/57033">Так она нашла меня</a></li>        <li><a href="/watch/121569">Магия лунного света</a></li>                </ul>
+            </div>
+    </li>    <!-- }} быдлохак -->
+</ul>    <p class="more">
+        <a class="underdotted" href="?stars_from_1=10#actors" rel="/genre/ajax/stars/?for=category_id&id=14&from=10&type=1&count=10">Показать других</a>
+    </p>
+</div>                    </div>
+
+            </div>
+
+            <div class="extra-col">
+
+                <!-- Selections (minor) -->
+
+                <!-- Top rated videos -->
+<div class="xblock">
+    <span class="h2i">Рейтинги</span>
+
+    <form class="selector" name="" id="top_rated_criteria_form" method="post"><div>
+           <select id="top_rated_criteria" name="rating" class="ratings_selector">
+                   <option value="kp">по версии Кинопоиска</option>
+                   <option value="imdb">по версии IMDb</option>
+                   <option value="ivi">по версии ivi.ru</option>
+        </select>
+    </div>
+    <input type="hidden" name="category_id" value="14">
+    <input type="hidden" name="genre_id" value="">
+    </form>
+
+    <ul data-wsource="genre_ratings" class="films-xlist small-numbers" id="top_rated_criteria_ul" data-groot="movie_rating">
+     <li>
+        <span class="title">
+            <strong><a href="/watch/87706" title="Побег из Шоушенка">Побег из Шоушенка</a></strong>
+<small title="The Shawshank Redemption">The Shawshank Redemption</small>        </span>
+        <span class="value">9,2</span>
+    </li>     <li>
+        <span class="title">
+            <strong><a href="/watch/99164" title="Форрест Гамп">Форрест Гамп</a></strong>
+<small title="Forrest Gump">Forrest Gump</small>        </span>
+        <span class="value">9,0</span>
+    </li>     <li>
+        <span class="title">
+            <strong><a href="/watch/planeta_ludey" title="BBC: Планета людей">BBC: Планета людей</a></strong>
+        </span>
+        <span class="value">9,0</span>
+    </li>     <li>
+        <span class="title">
+            <strong><a href="/watch/109726" title="1+1">1+1</a></strong>
+<small title="Intouchables">Intouchables</small>        </span>
+        <span class="value">8,9</span>
+    </li>     <li>
+        <span class="title">
+            <strong><a href="/watch/100129" title="Начало">Начало</a></strong>
+<small title="Inception">Inception</small>        </span>
+        <span class="value">8,8</span>
+    </li>     <li>
+        <span class="title">
+            <strong><a href="/watch/112372" title="Интерстеллар">Интерстеллар</a></strong>
+<small title="Interstellar">Interstellar</small>        </span>
+        <span class="value">8,7</span>
+    </li>     <li>
+        <span class="title">
+            <strong><a href="/watch/53141" title="Иван Васильевич меняет профессию">Иван Васильевич меняет профессию</a></strong>
+<small title=""></small>        </span>
+        <span class="value">8,7</span>
+    </li>    </ul>
+
+    <p class="more"><a id="more_link" href="/videos/all/movies/all/by_kp/">Показать все</a></p>
+</div>
+                <!-- Awarded videos -->
+
+                <!-- Box-office hits -->
+<div class="xblock">
+    <span class="h2i">Кассовые фильмы</span>
+
+    <form class="selector" name="" id="box_office_criteria_form" method="post"><div>
+           <select id="box_office_criteria" name="rating" class="ratings_selector">
+                    <option value="gross">по сборам</option>
+                    <option value="budget">по бюджету</option>
+        </select>
+    </div>
+    <input type="hidden" name="category_id" value="14">
+    <input type="hidden" name="genre_id" value="">
+    </form>
+
+    <ul data-wsource="genre_boxoffice" class="films-xlist" id="box_office_criteria_ul" data-groot="movie_cash">
+     <li>
+        <span class="title">
+            <strong><a href="/watch/64239" title="Властелин колец: Возвращение Короля">Властелин колец: Возвращение Короля</a></strong>
+<small title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</small>        </span>
+        <span class="value">$1119,1 млн.</span>
+    </li>     <li>
+        <span class="title">
+            <strong><a href="/watch/65282" title="Алиса в Стране чудес">Алиса в Стране чудес</a></strong>
+<small title="Alice in Wonderland">Alice in Wonderland</small>        </span>
+        <span class="value">$1024,3 млн.</span>
+    </li>     <li>
+        <span class="title">
+            <strong><a href="/watch/64252" title="Темный рыцарь">Темный рыцарь</a></strong>
+<small title="The Dark Knight">The Dark Knight</small>        </span>
+        <span class="value">$1001,9 млн.</span>
+    </li>     <li>
+        <span class="title">
+            <strong><a href="/watch/64247" title="Гарри Поттер и философский камень">Гарри Поттер и философский камень</a></strong>
+<small title="Harry Potter and the Sorcerer's Stone">Harry Potter and the Sorcerer's Stone</small>        </span>
+        <span class="value">$974,8 млн.</span>
+    </li>     <li>
+        <span class="title">
+            <strong><a href="/watch/64246" title="Гарри Поттер и Орден Феникса">Гарри Поттер и Орден Феникса</a></strong>
+<small title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</small>        </span>
+        <span class="value">$939,9 млн.</span>
+    </li>     <li>
+        <span class="title">
+            <strong><a href="/watch/64238" title="Властелин колец: Две крепости">Властелин колец: Две крепости</a></strong>
+<small title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</small>        </span>
+        <span class="value">$926,3 млн.</span>
+    </li>     <li>
+        <span class="title">
+            <strong><a href="/watch/64244" title="Гарри Поттер и Кубок огня">Гарри Поттер и Кубок огня</a></strong>
+<small title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</small>        </span>
+        <span class="value">$896,9 млн.</span>
+    </li>    </ul>
+
+    <p class="more"><a id="more_link" href="/videos/all/movies/all/by_gross/">Показать все</a></p>
+</div>                <!-- New series -->
+
+                <!-- Friends watching -->
+
+                <!-- Watch again -->
+            </div>
+
+        </div>
+
+        <div class="content-line">
+            <!-- Catalog -->
+    <div class="catalog-content" id="plus_promo_catalog_head">
+
+        <a name="catalog" class="scroll-target"></a>
+<span class="h2i">Фильмы</span>            <div id="filters-wrapper-position" class="filters-wrapper-position"></div>
+            <div class="filters-wrapper
+" id="catalog-filters">
+                <ul class="filter-nav">
+        <li>
+    <span>Жанр</span>            <div class="submenu genres">
+                <ul class="top">
+                    <li>    <a href="/videos/all/movies/all/by_day/#catalog">Любой жанр</a></li>
+                </ul>
+    <ul>        <li><a href="/videos/all/movies/all/by_day/?genre_id=161#catalog" title="Смотреть авторское кино онлайн"
+>Авторское кино</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=94#catalog" title="Смотреть Боевики онлайн"
+>Боевики</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=103#catalog" title="Смотреть военное кино онлайн"
+>Военные</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=97#catalog" title="Смотреть детективное кино онлайн"
+>Детективы</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=160#catalog" title="Смотреть детское кино онлайн"
+>Для детей</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=198#catalog" title=""
+>Для всей семьи</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=109#catalog" title="Смотреть Документальное кино онлайн"
+>Документальные</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=105#catalog" title="Смотреть кинодрамы онлайн"
+>Драмы</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=192#catalog" title="Смотреть исторические фильмы онлайн"
+>Исторические</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=95#catalog" title="Смотреть комедии онлайн"
+>Комедии</a></li>
+    </ul>    <ul>        <li><a href="/videos/all/movies/all/by_day/?genre_id=107#catalog" title="Смотреть мелодрамы онлайн"
+>Мелодрамы</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=163#catalog" title="Смотреть мировую классику онлайн"
+>Мировая классика</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=201#catalog" title=""
+>Мистические</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=189#catalog" title=""
+>Музыкальные</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=101#catalog" title="Смотреть приключенческое кино онлайн"
+>Приключения</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=205#catalog" title=""
+>Русские</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=168#catalog" title="Смотреть советское кино онлайн"
+>Советское кино</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=127#catalog" title="Смотреть триллеры онлайн"
+>Триллеры</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=99#catalog" title="Смотреть ужасы онлайн"
+>Ужасы</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=166#catalog" title="Смотреть фантастику онлайн"
+>Фантастика</a></li>
+    </ul>    <ul>        <li><a href="/videos/all/movies/all/by_day/?genre_id=187#catalog" title=""
+>Фильмы-спектакли</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=203#catalog" title=""
+>Экранизации</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=169#catalog" title="Смотреть эротику онлайн"
+class="erotic_link">Эротика</a></li>
+        <li><a href="/videos/all/movies/all/by_day/?genre_id=211#catalog" title="Смотреть Зарубежные фильмы"
+>Зарубежные</a></li>
+    </ul>            </div>
+        </li>
+        <li>
+            <span>Страна</span>
+            <div class="submenu">
+                <ul class="top">
+                    <li><a href="/videos/all/movies/all/by_day/#catalog">Любая страна</a></li>
+                    <li><a href="/videos/all/movies/all/by_day/?country=1#catalog">Россия</a></li>
+                    <li><a href="/videos/all/movies/all/by_day/?country=foreign#catalog">Зарубежные страны</a></li>
+                </ul>
+    <ul>    <li><a href="/videos/all/movies/all/by_day/?country=16#catalog">Австралия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=27#catalog">Австрия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=34#catalog">Азербайджан</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=52#catalog">Аргентина</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=35#catalog">Армения</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=2#catalog">Беларусь</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=60#catalog">Бельгия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=59#catalog">Бразилия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=73#catalog">Бутан</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=6#catalog">Великобритания</a></li>    </ul>    <ul>    <li><a href="/videos/all/movies/all/by_day/?country=62#catalog">Венгрия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=72#catalog">Вьетнам</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=24#catalog">Германия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=23#catalog">Гонконг</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=57#catalog">Греция</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=37#catalog">Грузия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=18#catalog">Дания</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=80#catalog">Египет</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=71#catalog">Израиль</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=56#catalog">Индия</a></li>    </ul>    <ul>    <li><a href="/videos/all/movies/all/by_day/?country=63#catalog">Индонезия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=67#catalog">Иран</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=28#catalog">Ирландия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=51#catalog">Исландия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=48#catalog">Испания</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=29#catalog">Италия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=22#catalog">Казахстан</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=15#catalog">Канада</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=12#catalog">Китай</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=50#catalog">Колумбия</a></li>    </ul>    <ul>    <li><a href="/videos/all/movies/all/by_day/?country=44#catalog">Латвия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=78#catalog">Люксембург</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=74#catalog">Малайзия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=31#catalog">Мексика</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=21#catalog">Нидерланды</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=5#catalog">Новая Зеландия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=55#catalog">Норвегия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=79#catalog">Перу</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=17#catalog">Польша</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=61#catalog">Португалия</a></li>    </ul>    <ul>    <li><a href="/videos/all/movies/all/by_day/?country=70#catalog">Пуэрто-Рико</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=1#catalog">Россия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=30#catalog">Румыния</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=84#catalog">Сербия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=76#catalog">Сингапур</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=36#catalog">Словакия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=4#catalog">США</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=82#catalog">Тайвань</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=13#catalog">Тайланд</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=40#catalog">Туркменистан</a></li>    </ul>    <ul>    <li><a href="/videos/all/movies/all/by_day/?country=32#catalog">Турция</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=41#catalog">Узбекистан</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=33#catalog">Украина</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=81#catalog">Филиппины</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=54#catalog">Финляндия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=8#catalog">Франция</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=86#catalog">Хорватия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=58#catalog">Чехия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=10#catalog">Швейцария</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=49#catalog">Швеция</a></li>    </ul>    <ul>    <li><a href="/videos/all/movies/all/by_day/?country=45#catalog">Эстония</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=19#catalog">ЮАР</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=83#catalog">Югославия</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=25#catalog">Южная Корея</a></li>    <li><a href="/videos/all/movies/all/by_day/?country=20#catalog">Япония</a></li>    </ul>            </div>
+        </li>
+    <li>
+        <span>Год</span>
+        <div class="submenu">
+            <ul class="top">
+                <li><a href="/videos/all/movies/all/by_day/#catalog">Любой год</a></li>
+            </ul>
+            <ul>
+                <li><a href='/videos/all/movies/all/by_day/?year_from=2014&year_to=2015#catalog'>2014 — 2015</a></li>
+                <li><a href='/videos/all/movies/all/by_day/?year_from=2000&year_to=2013#catalog'>2000 — 2013</a></li>
+                <li><a href='/videos/all/movies/all/by_day/?year_from=1990&year_to=2000#catalog'>1990 — 2000</a></li>
+                <li><a href='/videos/all/movies/all/by_day/?year_from=1980&year_to=1990#catalog'>1980 — 1990</a></li>
+                <li><a href='/videos/all/movies/all/by_day/?year_from=1960&year_to=1980#catalog'>1960 — 1980</a></li>
+                <li><a href='/videos/all/movies/all/by_day/?year_from=1940&year_to=1960#catalog'>1940 — 1960</a></li>
+                <li><a href='/videos/all/movies/all/by_day/?year_from=1900&year_to=1940#catalog'>до 1940 года</a></li>
+            </ul>
+        </div>
+    </li>                </ul>
+        <form id="order-block" class="order-block" method="get" action="">
+            <div>
+                <label for="elem_order-by">Сортировать:</label>
+                <select name="order-by" id="elem_order-by" class="w146h20">
+    <option onclick="document.location.href='/videos/all/movies/all/by_day/?sort=by_views#catalog';" value="by_views"
+>популярные сегодня</option>    <option onclick="document.location.href='/videos/all/movies/all/by_day/?sort=by_alltime#catalog';" value="by_alltime"
+>самые популярные</option>    <option onclick="document.location.href='/videos/all/movies/all/by_day/?sort=by_year#catalog';" value="by_year"
+>по новизне</option>    <option onclick="document.location.href='/videos/all/movies/all/by_day/?sort=by_new#catalog';" value="by_new"
+>по дате добавления</option>    <option onclick="document.location.href='/videos/all/movies/all/by_day/?sort=by_imdb#catalog';" value="by_imdb"
+>по рейтингу IMDb</option>    <option onclick="document.location.href='/videos/all/movies/all/by_day/?sort=by_kp#catalog';" value="by_kp"
+>по рейтингу Кинопоиска</option>    <option onclick="document.location.href='/videos/all/movies/all/by_day/?sort=by_ivi#catalog';" value="by_ivi"
+>по рейтингу ivi.ru</option>    <option onclick="document.location.href='/videos/all/movies/all/by_day/?sort=by_gross#catalog';" value="by_gross"
+>по сборам</option>    <option onclick="document.location.href='/videos/all/movies/all/by_day/?sort=by_budget#catalog';" value="by_budget"
+>по бюджету</option>                </select>
+            </div>
+        </form>
+            </div>
+            <ul class="films-gallery large" data-wsource="genre_catalogue" id="plus_promo_catalog" data-groot="movie_catalogue">
+<!-- --><li class="vb-item element-selector"
+        data-id="124599"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1245990">
+            <a href="/watch/124599">
+    <img src="http://thumbs.tivision.ru/f14.vcp.digitalaccess.ru/contents/6/d/a994fa6b00fe5be121c844e1e72a36.jpg" alt="Одна встреча">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1245991">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+82%"></div>    <ul
+data-id="124599">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/124599" title="Одна встреча">Одна встреча</a>
+        </strong>
+            <div class="tags">2014, Франция, Драмы, Мелодрамы, Зарубежные</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="102471"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1024710">
+            <a href="/watch/102471">
+    <img src="http://thumbs.tivision.ru/f11.vcp.digitalaccess.ru/contents/2/6/2bd0a69e8f5f45b82aadde2c2184f5.jpg" alt="Защитник">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1024711">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+81%"></div>    <ul
+data-id="102471">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/102471" title="Защитник">Защитник</a>
+        </strong>
+            <div class="tags">2012, США, Боевики, Детективы, Зарубежные</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="126578"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1265780">
+            <a href="/watch/126578">
+    <img src="http://thumbs.tivision.ru/f41.vcp.digitalaccess.ru/contents/9/c/851173323adaa63e2ac6894c2cb9d5.jpg" alt="Звезда">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1265781">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+82%"></div>    <ul
+data-id="126578">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/126578" title="Звезда">Звезда</a>
+        </strong>
+            <div class="tags">2014, Россия, Комедии, Драмы, Мелодрамы, Русские</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="126207"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1262070">
+            <a href="/watch/126207">
+    <img src="http://thumbs.tivision.ru/f2.vcp.digitalaccess.ru/contents/f/1/28180251dc412e000e4e99d999d174.jpg" alt="Вычислитель">        <span class="price">
+299 рублей        </span>
+        <span class="price">
+299 рублей        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1262071">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+61%"></div>    <ul
+data-id="126207">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/126207" title="Вычислитель">Вычислитель</a>
+        </strong>
+            <div class="tags">2014, Россия, Фантастика, Русские</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="126423"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1264230">
+            <a href="/watch/126423">
+    <img src="http://thumbs.tivision.ru/f42.vcp.digitalaccess.ru/contents/2/b/3ed0bd71eafd91302370922599eee0.jpg" alt="Последний рейс">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1264231">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+54%"></div>    <ul
+data-id="126423">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/126423" title="Последний рейс">Последний рейс</a>
+        </strong>
+            <div class="tags">2014, Китай, Триллеры, Зарубежные</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="121504"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1215040">
+            <a href="/watch/121504">
+    <img src="http://thumbs.tivision.ru/f17.vcp.digitalaccess.ru/contents/3/4/14234d130fea0254f8ea1dcbbe3cf8.jpg" alt="Василиса">        <span class="price">
+            По подписке
+        </span>
+        <span class="price">
+            По подписке
+        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1215041">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+66%"></div>    <ul
+data-id="121504">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/121504" title="Василиса">Василиса</a>
+        </strong>
+            <div class="tags">2014, Россия, Драмы, Мелодрамы, Русские</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="126089"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1260890">
+            <a href="/watch/126089">
+    <img src="http://thumbs.tivision.ru/f6.vcp.digitalaccess.ru/contents/f/6/ead69398a955895a417708e9928a63.jpg" alt="Прости за любовь">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1260891">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+80%"></div>    <ul
+data-id="126089">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/126089" title="Прости за любовь">Прости за любовь</a>
+        </strong>
+            <div class="tags">2014, Испания, Мелодрамы, Зарубежные</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="126233"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1262330">
+            <a href="/watch/126233">
+    <img src="http://thumbs.tivision.ru/f40.vcp.digitalaccess.ru/contents/1/a/4bc83fbad66e5430574abbed87a778.jpg" alt="Лучшее во мне">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1262331">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+83%"></div>    <ul
+data-id="126233">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/126233" title="Лучшее во мне">Лучшее во мне</a>
+        </strong>
+            <div class="tags">2014, США, Драмы, Мелодрамы, Зарубежные</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="85949"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="859490">
+            <a href="/watch/85949">
+    <img src="http://thumbs.tivision.ru/f1.vcp.digitalaccess.ru/contents/0/1/477b9156ee04e24419b85eafa4754f.jpg" alt="Дом">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_859491">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+82%"></div>    <ul
+data-id="85949">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/85949" title="Дом">Дом</a>
+        </strong>
+            <div class="tags">2011, Россия, Детективы, Драмы, Русские</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="102414"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1024140">
+            <a href="/watch/102414">
+    <img src="http://thumbs.tivision.ru/f44.vcp.digitalaccess.ru/contents/e/8/cd05644b20d3e5408677a82187a818.jpg" alt="Страховщик">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1024141">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+70%"></div>    <ul
+data-id="102414">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/102414" title="Страховщик">Страховщик</a>
+        </strong>
+            <div class="tags">2014, Испания, Триллеры, Фантастика, Зарубежные</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="121578"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1215780">
+            <a href="/watch/121578">
+    <img src="http://thumbs.tivision.ru/f39.vcp.digitalaccess.ru/contents/b/1/823bc0c69bb844d08ee3335aff59d8.jpg" alt="Оставленные">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1215781">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+65%"></div>    <ul
+data-id="121578">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/121578" title="Оставленные">Оставленные</a>
+        </strong>
+            <div class="tags">2014, США, Драмы, Триллеры, Фантастика, Зарубежные</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="127027"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1270270">
+            <a href="/watch/127027">
+    <img src="http://thumbs.tivision.ru/f49.vcp.digitalaccess.ru/contents/c/5/a28698af407b9504dcaa69e653ebc9.jpg" alt="Одной левой">        <span class="price">
+299 рублей        </span>
+        <span class="price">
+299 рублей        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1270271">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+72%"></div>    <ul
+data-id="127027">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/127027" title="Одной левой">Одной левой</a>
+        </strong>
+            <div class="tags">2015, Россия, Комедии, Русские</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="121511"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1215110">
+            <a href="/watch/121511">
+    <img src="http://thumbs.tivision.ru/f16.vcp.digitalaccess.ru/contents/7/3/1a1611ffb38dbe1d2e659a7976373b.jpg" alt="Моя Госпожа">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1215111">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+81%"></div>    <ul
+data-id="121511">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/121511" title="Моя Госпожа">Моя Госпожа</a>
+        </strong>
+            <div class="tags">2014, Австралия, Драмы, Мелодрамы, Зарубежные</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="110323"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1103230">
+            <a href="/watch/110323">
+    <img src="http://thumbs.tivision.ru/f38.vcp.digitalaccess.ru/contents/f/2/dd018e9dc5e66352e63aeb104d4fd3.jpg" alt="Соломон Кейн">        <span class="price">
+            По подписке
+        </span>
+        <span class="price">
+            По подписке
+        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1103231">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+74%"></div>    <ul
+data-id="110323">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/110323" title="Соломон Кейн">Соломон Кейн</a>
+        </strong>
+            <div class="tags">2009, Франция, Боевики, Приключения, Фантастика, Зарубежные</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="115607"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1156070">
+            <a href="/watch/115607">
+    <img src="http://thumbs.tivision.ru/f8.vcp.digitalaccess.ru/contents/f/0/852a5af005b2b09ac369e0266eb434.jpg" alt="Саботаж">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1156071">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+74%"></div>    <ul
+data-id="115607">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/115607" title="Саботаж">Саботаж</a>
+        </strong>
+            <div class="tags">2014, США, Боевики, Детективы, Триллеры, Зарубежные</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="121597"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1215970">
+            <a href="/watch/121597">
+    <img src="http://thumbs.tivision.ru/f41.vcp.digitalaccess.ru/contents/f/0/557338d69c297038288feb5db6c2fd.jpg" alt="Посвященный">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1215971">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+80%"></div>    <ul
+data-id="121597">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/121597" title="Посвященный">Посвященный</a>
+        </strong>
+            <div class="tags">2014, США, Драмы, Фантастика, Зарубежные</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="107464"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1074640">
+            <a href="/watch/107464">
+    <img src="http://thumbs.tivision.ru/f13.vcp.digitalaccess.ru/contents/1/0/9fa3daeb224890a63e3728a0b2adc8.jpg" alt="Напролом">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1074641">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+75%"></div>    <ul
+data-id="107464">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/107464" title="Напролом">Напролом</a>
+        </strong>
+            <div class="tags">2011, Франция, Боевики, Детективы, Фантастика, Зарубежные</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="107416"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1074160">
+            <a href="/watch/107416">
+    <img src="http://thumbs.tivision.ru/f14.vcp.digitalaccess.ru/contents/3/9/09d6123e4670edf84f236c59f057b5.jpg" alt="Схватка">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1074161">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+79%"></div>    <ul
+data-id="107416">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/107416" title="Схватка">Схватка</a>
+        </strong>
+            <div class="tags">2011, США, Боевики, Детективы, Приключения, Драмы, Зарубежные</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="121560"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1215600">
+            <a href="/watch/121560">
+    <img src="http://thumbs.tivision.ru/f16.vcp.digitalaccess.ru/contents/8/0/6e5f830feeda04fcbb4e21064dbed8.jpg" alt="Смешанные чувства">                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1215601">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+73%"></div>    <ul
+data-id="121560">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/121560" title="Смешанные чувства">Смешанные чувства</a>
+        </strong>
+            <div class="tags">2014, Россия, Комедии, Фантастика, Русские</div>
+    </li><!-- --><!-- --><li class="vb-item element-selector"
+        data-id="127025"
+        data-type="content"
+    >
+
+
+
+
+        <div class="image" onmouseover="da.xinfo.load(this);" data-uid="1270250">
+            <a href="/watch/127025">
+    <img src="http://thumbs.tivision.ru/f44.vcp.digitalaccess.ru/contents/8/a/471e9fedbfa166a6b2349f76382799.jpg" alt="Опасное погружение">        <span class="price">
+199 рублей        </span>
+        <span class="price">
+199 рублей        </span>
+                <span class="overlay"></span>
+            </a>
+    <div class="xinfo" id="cat_xinfo_1270251">
+        <div class="xinfo-loading"></div>
+    </div>        </div>
+                <div class="scale-rating size11 unvoted
+">
+<div style="width:
+68%"></div>    <ul
+data-id="127025">
+        <li class="rate1" data-id="1"><a href="#"><em></em></a></li>
+        <li class="rate2" data-id="2"><a href="#"><em></em></a></li>
+        <li class="rate3" data-id="3"><a href="#"><em></em></a></li>
+        <li class="rate4" data-id="4"><a href="#"><em></em></a></li>
+        <li class="rate5" data-id="5"><a href="#"><em></em></a></li>
+        <li class="rate6" data-id="6"><a href="#"><em></em></a></li>
+        <li class="rate7" data-id="7"><a href="#"><em></em></a></li>
+        <li class="rate8" data-id="8"><a href="#"><em></em></a></li>
+        <li class="rate9" data-id="9"><a href="#"><em></em></a></li>
+        <li class="rate10" data-id="10"><a href="#"><em></em></a></li>
+    </ul>                </div>
+
+        <strong>
+            <a href="/watch/127025" title="Опасное погружение">Опасное погружение</a>
+        </strong>
+            <div class="tags">2014, Великобритания, Триллеры, Зарубежные</div>
+    </li><!-- -->            </ul>
+            <p class="more">
+                <a class="underdotted" id="plus_more_button" href="/videos/all/movies/all/by_day/?offset=20">Показать еще</a>
+            </p>
+
+        <script>
+            plus_promo();
+        </script>
+    </div>
+        </div>
+
+    </div>
+
+</div>
+<script>
+// Popouts in side column
+//$('ul.films-gallery > li').iviMoviePopup();
+
+// Custom selects
+cuSel({
+    changedEl: 'form.selector select, #order-block select',
+    visRows: 7,
+    scrollArrows: false
+});
+//жанры в категориях
+$("#tabs-menu_subgenres a").not('.erotic_link_noredirect').click(function() { return showPreviewGenre.call($(this), 14); });
+$("#tabs-menu_subgenres a.erotic_link_noredirect").click(function() { return showPopupEroticNoRedirect.call($(this), 14); });
+$('#genre-subgenre_action-items > li').iviMoviePopup();
+
+
+// Expand/contract intro text {{
+
+var text_elem = $('.intro-text');
+var text_height_min  = 18 * 3;
+var text_height_full = text_elem.height();
+var text_expand     = 'Подробнее…';
+var text_contract   = 'Свернуть';
+
+if (text_height_full > text_height_min) {
+
+    text_elem
+        .append('<p class="more-link"><a class="more">' + text_expand + '</a></p>')
+        .find('.content-wrapper').addClass('contracted')
+        .parent().find('p > a.more').click(function() {
+
+            var elem_link    = $(this);
+            var elem_wrapper = elem_link.parent().prev('.content-wrapper');
+
+            if (!elem_wrapper.hasClass('locked')) {
+                if (elem_wrapper.hasClass('contracted')) {
+                    elem_wrapper.addClass('locked').animate(
+                        { 'height': text_height_full + 'px' },
+                        {
+                            'duration': 350,
+                            'complete': function() {
+                                elem_wrapper.removeClass('contracted').addClass('expanded')
+                                    .removeClass('locked');
+                                elem_link.text(text_contract);
+                            }
+                        }
+                    );
+                }
+                else if (elem_wrapper.hasClass('expanded')) {
+                    elem_wrapper.addClass('locked').animate(
+                        { 'height': text_height_min + 'px' },
+                        {
+                            'duration': 350,
+                            'complete': function() {
+                                elem_wrapper.removeClass('expanded').addClass('contracted')
+                                    .removeClass('locked');
+                                elem_link.text(text_expand);
+                            }
+                        }
+                    );
+                }
+            }
+
+        });
+}
+// }} Expand/contract intro text
+
+
+// Float catalog head plate {{
+
+// disabling plate floating opera 10.5 {{
+
+var opera_pre_10_6 = $.browser.opera && ($.browser.version.slice(0, 4) < '10.6');
+if (!opera_pre_10_6) {
+
+    function catalogFiltersRefreshState()
+    {
+        var scroll_cur  = $(document).scrollTop();
+        var win_height  = $(window).height();
+
+        var position_elem   = $('#filters-wrapper-position');
+
+        if (!position_elem.length) {
+            return;
+        }
+
+        var position = position_elem.offset();
+        var float_filters = scroll_cur > scroll_max;
+        var elem = $('#catalog-filters');
+
+        if ($('.plate-notices').length) {
+            var scroll_max = position.top - 60 - $('.header').height();
+        } else {
+            var scroll_max = position.top - $('.header').height();
+        };
+
+        //var is_ie8  = $.browser.msie && (parseInt($.browser.version, 10) < 9);
+
+        if (scroll_cur > scroll_max) {
+            elem.addClass('floating');
+            /*if (is_ie8) {
+                position_elem.addClass('filters-floated');
+            }*/
+        }
+        else {
+            elem.removeClass('floating');
+            /*if (is_ie8) {
+                position_elem.removeClass('filters-floated');
+            }*/
+        }
+    }
+
+
+    // Initializing #filters-wrapper-position state and adding handler for this state
+    catalogFiltersRefreshState();
+
+    $(window).scroll(function () {
+        catalogFiltersRefreshState();
+    });
+}
+// }} disabling plate floating opera 10.5
+
+// }} Float catalog head plate
+</script></div>        <div class="footer-height"></div>
+    </div>
+<div class="footer">
+    <div class="col">
+        <span class="h3i">Смотрите</span>
+        <ul>
+            <li><a href="/videos/all/movies/all/by_day/">Фильмы</a></li>
+            <li><a href="/videos/all/series/all/by_day/">Сериалы</a></li>
+            <li><a href="/videos/all/programs/all/by_day/">Программы</a></li>
+            <li><a href="/videos/all/animation/all/by_day/">Мультфильмы</a></li>
+            <li><a href="#" id="music_bottom_href">Музыка</a></li>
+            <li><a href="/videos/podborki/">Подборки</a></li>
+        </ul>
+    </div>
+
+    <div class="col">
+        <span class="h3i"><a href="/devices/phones/">На устройствах</a></span>
+        <ul>
+            <li><a href="/devices/platform/android/">Android</a></li>
+            <li><a href="/devices/platform/ios/">iPhone/iPad</a></li>
+            <li><a href="/devices/phones/symbian/">Nokia (Symbian^3)</a></li>
+            <li><a href="/devices/phones/bada/">Samsung bada</a></li>
+            <li><a href="/devices/phones/winphone/">Windows Phone</a></li>
+            <li><a href="/info/-/windows8/">Windows 8</a></li>
+        </ul>
+    </div>
+
+    <div class="col">
+        <span class="h3i"><a href="/devices/tvs/">На телевизорах</a></span>
+        <ul>
+            <li><a href="/info/-/lgtv/">LG</a></li>
+            <li><a href="/info/-/samsungtv/">Samsung</a></li>
+            <li><a href="/info/-/philipstv/">Philips</a></li>
+	        <li><a href="/devices/stbs/dune/">Dune HD</a></li>
+            <li><a href="/info/-/iconbit/">iconBIT</a></li>
+            <li><a href="/info/-/panasonictv/">Panasonic</a></li>
+            <li><a href="/info/-/toshibatv/">Toshiba</a></li>
+        </ul>
+    </div>
+
+    <div class="col">
+        <span class="h3i">В социальных сетях:</span>
+        <ul>
+            <li><a href="/away/?url=https%3A%2F%2Fwww.facebook.com%2Fivi.ru&crc=e2d28e3158dfdfdb62eef6180c90e6fc" target="_blank" class="facebook">Facebook</a></li>
+            <li><a href="/away/?url=https%3A%2F%2Fvk.com%2Fiviru&crc=fa4448c13e06e69ba9e814e8743c7e2e" target="_blank" class="vkontakte">ВКонтакте</a></li>
+            <li><a href="/away/?url=http%3A%2F%2Fodnoklassniki.ru%2Fivi.ru&crc=891744f8d183a5b29d39f83d50e4a500" target="_blank" class="odnoklassniki">Одноклассники</a></li>
+            <li><a href="/away/?url=http%3A%2F%2Fmy.mail.ru%2Fapps%2F425438&crc=63f88741505ff52112ef2953d55eecbc" target="_blank" class="moimir">МойМир</a></li>
+            <li><a href="/away/?url=https%3A%2F%2Ftwitter.com%2Fivi_ru%2F&crc=3fb33a2653c8e579df147885503ae90d" target="_blank" class="twitter">Twitter</a></li>
+            <li><a href="/away/?url=https%3A%2F%2Fplus.google.com%2F%2Biviru&crc=f647d61339e01d99dd81dccdf0844df6" target="_blank" class="googleplus">Google+</a></li>
+        </ul>
+    </div>
+
+    <div class="col">
+        <span class="h3i">О нас</span>
+        <ul>
+            <li><a href="/info/-/about/">О проекте</a></li>
+            <li><a href="/info/-/advertisement/">Размещение рекламы</a></li>
+            <li><a href="/info/-/certificate/">Подарочные сертификаты</a></li>
+            <li><a href="/info/-/content/">Правообладателям</a></li>
+            <li><a href="/info/-/vacancies/">Вакансии</a></li>
+        </ul>
+    </div>
+
+    <div class="col">
+        <span class="h3i">Пользователям</span>
+        <ul>
+            <li><a href="/info/-/agreement/">Пользовательское соглашение</a></li>
+            <li><a href="/pages/confidentional/">Политика конфиденциальности</a></li>
+            <li><a href="/info/-/feedback/">Что вы думаете об ivi.ru</a></li>
+            <li><a href="#" id="bottom_faq_link">Часто задаваемые вопросы</a></li>
+        </ul>
+    </div>
+
+    <div class="content-block">
+        <div class="copyright">&copy; 2010-2015 ООО &laquo;Иви.ру&raquo; Все права защищены</div>
+        <div class="social">
+            <span class="h3i">Присоединяйтесь:</span>
+            <ul>
+                <li><a href="/away/?url=https%3A%2F%2Fvk.com%2Fiviru&crc=fa4448c13e06e69ba9e814e8743c7e2e" target="_blank" class="vkontakte" id="fake_ok_link"></a></li>
+                <li><a href="/away/?url=https%3A%2F%2Fwww.facebook.com%2Fivi.ru&crc=e2d28e3158dfdfdb62eef6180c90e6fc" target="_blank" class="facebook"></a></li>
+                <li><a href="/away/?url=https%3A%2F%2Ftwitter.com%2Fivi_ru%2F&crc=3fb33a2653c8e579df147885503ae90d" target="_blank" class="twitter"></a></li>
+                <li><a href="https://plus.google.com/+iviru" target="_blank" rel="author" class="googleplus"></a></li>
+            </ul>
+        </div>
+    </div>    <div class="counters">
+        <!--LiveInternet counter--><script><!--
+new Image().src = "//counter.yadro.ru/hit;ivi_all?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+
+";"+Math.random();//--></script><!--/LiveInternet-->
+    <!-- BEGIN Google Analytics -->
+    <script>
+    var _gaq = _gaq || [];
+    _gaq.push(
+        ['_setAccount', 'UA-11561457-1'],
+        ['_setDomainName', '.ivi.ru'],
+        ['_setSessionCookieTimeout', 10000000],
+        ['_addOrganic', "blogs.yandex.ru", "text", true],
+        ['_addOrganic', "video.yandex.ru", "text", true],
+        ['_addOrganic', "video.mail.ru", "q"],
+        ['_addOrganic', "go.mail.ru", "q"],
+        ['_addOrganic', "gogo.ru", "q"],
+        ['_addOrganic', "vision.rambler.ru", "words", true],
+        ['_addOrganic', "nova.rambler.ru", "query"],
+        ['_addOrganic', "video.qip.ru", "q"],
+        ['_addOrganic', "search.qip.ru", "query"],
+        ['_addOrganic', "nigma.ru", "s"],
+        ['_addOrganic', "webalta.ru", "q"],
+        ['_addOrganic', "aport.ru", "r"],
+        ['_addOrganic', "akavita.by", "z"],
+        ['_addOrganic', "meta.ua", "q"],
+        ['_addOrganic', "bigmir.net", "z"],
+        ['_addOrganic', "tut.by", "query"],
+        ['_addOrganic', "all.by", "query"],
+        ['_addOrganic', "i.ua", "q"],
+        ['_addOrganic', "online.ua", "q"],
+        ['_addOrganic', "a.ua", " query "],
+        ['_addOrganic', "ukr.net ", "search_query"],
+        ['_addOrganic', "search.com.ua", "q"],
+        ['_addOrganic', "search.ua", "q"],
+        ['_addOrganic', "poisk.ru", "text"],
+        ['_addOrganic', "km.ru", "sq"],
+        ['_addOrganic', "liveinternet.ru", "ask"],
+        ['_addOrganic', "gde.ru", "keywords"],
+        ['_addOrganic', "quintura.ru", "request"],
+            ['_setCustomVar', 1, 'RegisteredUser', 'False', 1],
+
+        ['_trackPageview']
+    );
+
+    if (window.Runner && window.Lawnchair) {
+        var storage = Lawnchair({}, function(){});
+
+        storage.get("watchSource", function(data) {
+            if (data !== null && data.value !== null) {
+                Runner.watchSource = data.value;
+                _gaq.push(['_setCustomVar', 5, 'WatchSourse', data.value, 1]);
+            }
+
+            storage.remove("watchSource");
+        });
+
+        var sendToGoogle = setInterval(
+        function() {
+            storage.get("showBlocks", function(data) {
+                if (data !== null && data.value !== null) {
+                    var block_name = data.value.pop();
+                    if (block_name)
+                    {
+                        _gaq.push(['_trackEvent', 'SiteEvents', block_name + '_show', 'wsource_show', 1, true]);
+                        storage.save({key: "showBlocks", value: data.value});
+                    }
+                    else
+                    {
+                        clearInterval(sendToGoogle);
+                    }
+                }
+            });
+        }, 5000);
+    }
+
+    (function() {
+        var ga = document.createElement('script');
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        ga.setAttribute('async', 'true');
+        document.documentElement.firstChild.appendChild(ga);
+    })();
+    </script>
+    <!-- END Google Analytics --><!-- tns-counter.ru -->
+<script>
+    var img = new Image();
+    img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*ivi_ru/ru/CP1251/tmsec=ivi_total/' + Math.round(Math.random() * 1000000000);
+</script>
+<noscript>
+    <img src="http://www.tns-counter.ru/V13a****ivi_ru/ru/CP1251/tmsec=ivi_total/" width="1" height="1" alt="">
+</noscript>
+<!--/ tns-counter.ru -->
+    </div>
+</div><div id="popup-notices" class="popup-notices"><div class="inner" id="popup-notices-container">
+</div></div>    <div id="modal_reg_wrapper"
+         class="hidden"
+         data-video_is_paid=""
+         data-video_is_TVOD=""
+         data-video_view_price_format=""
+         data-gift_activate=""
+         data-gift_price=""
+         data-auth_user_email=""
+         data-self_url_encoded="aHR0cDovL3d3dy5pdmkucnUvdmlkZW9zL2FsbC9tb3ZpZXMvYWxsL2J5X2RheS8="
+         data-anchor="">
+    </div>    <div id="modal_auth_wrapper"
+         class="hidden"
+         data-video_is_paid=""
+         data-video_is_TVOD=""
+         data-video_view_price_format=""
+         data-gift_activate=""
+         data-gift_price=""
+         data-auth_user_email=""
+         data-self_url_encoded="aHR0cDovL3d3dy5pdmkucnUvdmlkZW9zL2FsbC9tb3ZpZXMvYWxsL2J5X2RheS8="
+         data-anchor="">
+    </div>
+    <script>
+        $(document).ready(function(){
+            Runner.page();
+        });
+    </script>
+    <div id="modal_social_wrapper" class="hidden" data-title=""></div>    <div id="modal_merge_social_notice_wrapper" class="hidden" data-details=""></div>
+<div id="report-form-wrapper" class="report-form-wrapper scripted">
+    <div class="action-button-wrapper">
+        <a class="action-button report support_btn">Центр поддержки</a>
+    </div>
+</div>
+
+    <script>
+        var IviStore = {user_id :
+null};
+        window.da_settings.VK_app_id        = "1955190";
+        window.da_settings.MAILRU_app_id    = "470521";
+        window.da_settings.MAILRU_secret    = "64cfd84829f2ed271331f7c948f8fa9d";
+        window.da_settings.FB_app_id        = "135045099875158";
+        window.da_settings.OK_app_id        = "90960640";
+    </script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter7692568 = new Ya.Metrika({id:7692568,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    trackHash:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/7692568" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+
+</html>

@@ -1,0 +1,1388 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <title>
+            Аренда и продажа недвижимости в Москве, Московской области и всей России - ЦИАН
+        </title>
+        <meta name="apple-itunes-app" content="app-id=911804296">
+        <meta name="google-site-verification" content="Eig23WXwvPZu3gp9EYVreR61rG4TX1bHQDEG0Di5ZSE" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:site_name" content="CIAN"/>
+        <meta property="og:image" content="http://www.cian.ru/static/images/cian-logo-cyrillic-vertical.png" />
+
+        
+
+        
+            <meta name="description" content="ЦИАН - это самый удобный способ поиска недвижимости по точному адресу или по карте, с учётом всех интересующих вас параметров. ЦИАН - самая полная база объявлений о недвижимости" />
+        
+        
+            <meta name="keywords" content="циан, циан.ру, www.cian.ru, cian.ru, cian, аренда недвижимости, продажа недвижимости, объявления о продаже недвижимости, объявления об аренде недвижимости" />
+        
+        
+
+        <link rel="icon" href="/static/images/favicon.ico" type="image/x-icon"/>
+        
+            <!--[if lt IE 10]>
+            <link rel="stylesheet" type="text/css" href="/static/fonts/webfont_ie.css" media="all"/>
+            <![endif]-->
+            <link rel="stylesheet" type="text/css" href="/static/stylesheets/popups.css" media="all"/>
+            <link rel="stylesheet" href="/static/stylesheets/normalize.css">
+            <link rel="stylesheet" href="/static/stylesheets/main.css">
+            <link rel="stylesheet" href="/static/stylesheets/home.css?v=2">
+            <link rel="stylesheet" href="/static/stylesheets/retina.css">
+            <link rel="stylesheet" type="text/css" href="/static/stylesheets/notifications.css" media="all"/>
+            <style type="text/css">
+              .header_calls_report{
+                  display: inline-block;
+                  width: 16px;
+                  height: 16px;
+                  background: url('/static/images/call-reports-icon.png');
+                  margin:0 0 -3px 20px;
+                  border:0 !important;
+              }
+              .header_calls_report:hover{
+                  background-position: 0 -16px;
+              }
+            </style>
+        
+
+        
+            <script type="text/javascript" src="/static/scripts/adfox.asyn.code.ver3.js"></script>
+            <script type="text/javascript" src="/static/scripts/modernizr-2.6.2.min.js"></script>
+            <script type="text/javascript" src="/static/scripts/jquery-1.9.1.min.js"></script>
+            <script type="text/javascript" src="/static/scripts/detectizr.min.js"></script>
+            <script type="text/javascript" src="/static/scripts/notifications.js"></script>
+            <script type="text/javascript" src="/static/scripts/popups.js"></script>
+            <script type="text/javascript" src="/static/scripts/objects.js?v=3"></script>
+            <script type="text/javascript" src="/scripts-bundle/cian/common.js?v=11.2-4"></script>
+            <script type="text/javascript" src="/scripts-bundle/cian/sms-validation.js?v=11.2-4"></script>
+            <script type="text/javascript" src="/js/cian/apierrors.js?v=11.2-4"></script>
+
+            
+        
+    </head>
+    <body class="home">
+    
+        <div id="layout">
+            
+<div id="header">
+    
+    <div class="header_shadow"></div>
+    <div class="header_menu">
+        <table>
+            <tr>
+                <td class="header_logo">
+                    <div class="logo">
+                        <a href="/"></a>
+                    </div>
+                </td>
+                <td class="header_menu_item header_menu_item_big">
+                    <div class="header_menu_item_w">
+                        
+                            <a href="/nd/search/?obl_id=1">Аренда</a>
+                        
+                        <div class="header_menu_item_s"></div>
+                    </div>
+                </td>
+                <td class="header_menu_item header_menu_item_big">
+                    <div class="header_menu_item_w">
+                        
+                            <a href="/nd/search/?deal_type=2&obl_id=1">Продажа</a>
+                        
+                        <div class="header_menu_item_s"></div>
+                    </div>
+                </td>
+                
+                <td class="header_menu_item header_menu_item_big">
+                    <div class="header_menu_item_w">
+                        
+                            <a href="/newobjects/cian/search/">Новостройки</a>
+                        
+                        <div class="header_menu_item_s"></div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        
+        <div class="header_menu_items_links">
+            <table>
+                <tbody>
+                    <tr>
+                        <td class="header_menu_item_save">
+                        
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="header_menu_item_fav">
+                            <a href="/rent/flat/favorites/" target="_blank">
+                                <i></i>
+                                <div class="header_menu_item_fav_text">Избранное</div>
+                                <em id="favorite_total_count">0</em>
+                            </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="header_right">
+            <div class="header_right_line"></div>
+            
+            <table>
+                <tr>
+                    <td class="header_r_menu_item header_r_menu_item_adw">
+                        <div class="header_menu_item_w">
+                            <a href="/realty/add1.aspx"><i></i>Разместить объявление</a>
+                            <div class="header_menu_item_s"></div>
+                        </div>
+                    </td>
+                    <td class="header_r_menu_item">
+                        <div class="header_menu_item_w">
+                            <span class="pseudo header_menu_item_enter">Вход</span>
+                            /
+                            <a href="/users.php?mode=reg">Регистрация</a>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            
+        </div>
+        
+    </div>
+</div>
+
+            <div id="content">
+                <div class="home__hero home__hero_moscow">
+                    <div class="home__hero__middle">
+                        <div class="home__hero__title">
+                            <div class="home__hero__title__logo"></div>
+                            <h1 class="home__hero__title__text">Жильё находится на <strong>CIAN.RU</strong></h1>
+                        </div>
+                        <div class="home__hero__search">
+                            <form class="home__hero__search__form" name="home_search_form" action="/nd/search/">
+                                <div class="home__hero__search__form__wrapper">
+                                    <div class="home__select home__select_type_deal">
+                                        <select name="deal_type" id="deal_type">
+                                            <option value="sale" selected>Купить</option>
+                                            <option value="rent" >Снять</option>
+                                        </select>
+                                    </div>
+                                    <div class="home__select home__select_type_offer">
+                                        <select name="offer_type" id="offer_type">
+                                            <option value="flat" selected>Квартиру или комнату</option>
+                                            <option value="suburban" >Загородную недвижимость</option>
+                                            <option value="commercial" >Коммерческую недвижимость</option>
+                                        </select>
+                                    </div>
+                                    <div class="home__select home__select_type_region">
+                                        <select name="obl_id" id="obl_id">
+                                            
+												<option value="1" selected>Москва</option>
+                                            
+												<option value="2" >Московская область</option>
+                                            
+												<option value="10" >Санкт-Петербург</option>
+                                            
+												<option value="11" >Ленинградская область</option>
+                                            
+												<option value="71" >Алтайский край</option>
+                                            
+												<option value="12" >Амурская область</option>
+                                            
+												<option value="13" >Архангельская область</option>
+                                            
+												<option value="14" >Астраханская область</option>
+                                            
+												<option value="15" >Белгородская область</option>
+                                            
+												<option value="16" >Брянская область</option>
+                                            
+												<option value="3" >Владимирская область</option>
+                                            
+												<option value="17" >Волгоградская область</option>
+                                            
+												<option value="18" >Вологодская область</option>
+                                            
+												<option value="19" >Воронежская область</option>
+                                            
+												<option value="77" >Еврейская автономная область</option>
+                                            
+												<option value="49" >Забайкальский край</option>
+                                            
+												<option value="20" >Ивановская область</option>
+                                            
+												<option value="21" >Иркутская область</option>
+                                            
+												<option value="56" >Кабардино-Балкарская Республика</option>
+                                            
+												<option value="22" >Калининградская область</option>
+                                            
+												<option value="4" >Калужская область</option>
+                                            
+												<option value="85" >Камчатский край</option>
+                                            
+												<option value="58" >Карачаево-Черкесская Республика</option>
+                                            
+												<option value="23" >Кемеровская область</option>
+                                            
+												<option value="24" >Кировская область</option>
+                                            
+												<option value="25" >Костромская область</option>
+                                            
+												<option value="72" >Краснодарский край</option>
+                                            
+												<option value="73" >Красноярский край</option>
+                                            
+												<option value="87" >Крым и Севастополь</option>
+                                            
+												<option value="26" >Курганская область</option>
+                                            
+												<option value="27" >Курская область</option>
+                                            
+												<option value="28" >Липецкая область</option>
+                                            
+												<option value="29" >Магаданская область</option>
+                                            
+												<option value="30" >Мурманская область</option>
+                                            
+												<option value="78" >НАО</option>
+                                            
+												<option value="31" >Нижегородская область</option>
+                                            
+												<option value="32" >Новгородская область</option>
+                                            
+												<option value="33" >Новосибирская область</option>
+                                            
+												<option value="34" >Омская область</option>
+                                            
+												<option value="35" >Оренбургская область</option>
+                                            
+												<option value="36" >Орловская область</option>
+                                            
+												<option value="37" >Пензенская область</option>
+                                            
+												<option value="84" >Пермский край</option>
+                                            
+												<option value="74" >Приморский край</option>
+                                            
+												<option value="38" >Псковская область</option>
+                                            
+												<option value="50" >Республика Адыгея</option>
+                                            
+												<option value="53" >Республика Алтай</option>
+                                            
+												<option value="51" >Республика Башкортостан</option>
+                                            
+												<option value="52" >Республика Бурятия</option>
+                                            
+												<option value="54" >Республика Дагестан</option>
+                                            
+												<option value="55" >Республика Ингушетия</option>
+                                            
+												<option value="57" >Республика Калмыкия</option>
+                                            
+												<option value="59" >Республика Карелия</option>
+                                            
+												<option value="60" >Республика Коми</option>
+                                            
+												<option value="61" >Республика Марий эл</option>
+                                            
+												<option value="62" >Республика Мордовия</option>
+                                            
+												<option value="63" >Республика Саха (Якутия)</option>
+                                            
+												<option value="64" >Республика Северная Осетия-Алания</option>
+                                            
+												<option value="65" >Республика Татарстан</option>
+                                            
+												<option value="66" >Республика Тыва</option>
+                                            
+												<option value="68" >Республика Хакасия</option>
+                                            
+												<option value="39" >Ростовская область</option>
+                                            
+												<option value="5" >Рязанская область</option>
+                                            
+												<option value="40" >Самарская область</option>
+                                            
+												<option value="41" >Саратовская область</option>
+                                            
+												<option value="42" >Сахалинская область</option>
+                                            
+												<option value="43" >Свердловская область</option>
+                                            
+												<option value="9" >Смоленская область</option>
+                                            
+												<option value="75" >Ставропольский край</option>
+                                            
+												<option value="44" >Тамбовская область</option>
+                                            
+												<option value="6" >Тверская область</option>
+                                            
+												<option value="45" >Томская область</option>
+                                            
+												<option value="7" >Тульская область</option>
+                                            
+												<option value="46" >Тюменская область</option>
+                                            
+												<option value="67" >Удмуртская Республика</option>
+                                            
+												<option value="47" >Ульяновская область</option>
+                                            
+												<option value="76" >Хабаровский край</option>
+                                            
+												<option value="80" >ХМАО</option>
+                                            
+												<option value="48" >Челябинская область</option>
+                                            
+												<option value="69" >Чеченская Республика</option>
+                                            
+												<option value="70" >Чувашская Республика</option>
+                                            
+												<option value="81" >Чукотский автономный округ</option>
+                                            
+												<option value="82" >ЯНАО</option>
+                                            
+												<option value="8" >Ярославская область</option>
+                                            
+                                        </select>
+                                    </div>
+                                    <div class="home__hero__search__form__search-button">
+                                        <button type="submit">
+                                            <div class="home__hero__search__form__search-button__text">Начать поиск</div>
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                            <!-- <div class="home__hero__search__sample">
+                                Часто ищут: <a href="#" class="home__hero__search__sample__link"></a>
+                            </div> -->
+                            
+                            <div class="home__hero__search__links">
+                            	<div class="home__hero__search__links__title">Продажа недвижимости</div>
+                            	<div class="home__hero__search__links__row">
+                            		<div class="home__hero__search__links__col">
+                            			<ul class="home__hero__search__links__col__list">
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?deal_type=2&obl_id=1&room0=1" class="home__hero__search__links__link">Комнаты</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">4 139</em>
+		                                    </li>
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?deal_type=2&obl_id=1&room1=1" class="home__hero__search__links__link">Однокомнатные квартиры</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">33 697</em>
+		                                    </li>
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?deal_type=2&obl_id=1&room2=1" class="home__hero__search__links__link">Двухкомнатные квартиры</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">41 458</em>
+		                                    </li>
+		                                </ul>
+                            		</div>
+
+                            		<div class="home__hero__search__links__col home__hero__search__links__col_width-center">
+                            			<ul class="home__hero__search__links__col__list">
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?deal_type=2&obl_id=1&room3=1" class="home__hero__search__links__link">Трехкомнатные квартиры</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">37 699</em>
+		                                    </li>
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?deal_type=2&obl_id=1&room4=1&room5=1&room6=1" class="home__hero__search__links__link">Многокомнатные квартиры</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">2 425</em>
+		                                    </li>
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?deal_type=2&obl_id=1&object_type=2" class="home__hero__search__links__link">Квартиры в новостройках</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">24 316</em>
+		                                    </li>
+		                                </ul>
+                            		</div>
+
+                            		<div class="home__hero__search__links__col">
+                            			<ul class="home__hero__search__links__col__list">
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?suburbian=yes&deal_type=2&object_type[1]=1&object_type[2]=2&object_type[3]=4&obl_id=1" class="home__hero__search__links__link">Дома, коттеджи, таунхаусы</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">7 609</em>
+		                                    </li>
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?suburbian=yes&deal_type=2&object_type[1]=3&obl_id=1" class="home__hero__search__links__link">Земельные участки</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">3 179</em>
+		                                    </li>
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?offices=yes&deal_type=2&obl_id=1" class="home__hero__search__links__link">Нежилые помещения</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">23 234</em>
+		                                    </li>
+		                                </ul>
+                            		</div>
+                            	</div>
+
+
+                            	<div class="home__hero__search__links__title">Аренда недвижимости</div>
+                            	<div class="home__hero__search__links__row">
+                            		<div class="home__hero__search__links__col">
+                            			<ul class="home__hero__search__links__col__list">
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?deal_type=1&obl_id=1&type=-2&room0=1" class="home__hero__search__links__link">Комнаты</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">9 312</em>
+		                                    </li>
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?deal_type=1&obl_id=1&type=-2&room1=1" class="home__hero__search__links__link">Однокомнатные квартиры</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">19 267</em>
+		                                    </li>
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?deal_type=1&obl_id=1&type=-2&room2=1" class="home__hero__search__links__link">Двухкомнатные квартиры</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">23 573</em>
+		                                    </li>
+		                                </ul>
+                            		</div>
+
+                            		<div class="home__hero__search__links__col home__hero__search__links__col_width-center">
+                            			<ul class="home__hero__search__links__col__list">
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?deal_type=1&obl_id=1&type=-2&room3=1" class="home__hero__search__links__link">Трехкомнатные квартиры</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">17 874</em>
+		                                    </li>
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?deal_type=1&obl_id=1&type=-2&room4=1&room5=1&room6=1" class="home__hero__search__links__link">Многокомнатные квартиры</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">1 131</em>
+		                                    </li>
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?deal_type=1&obl_id=1&type=2&minroom=1" class="home__hero__search__links__link">Квартиры на сутки</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">6 472</em>
+		                                    </li>
+		                                </ul>
+                            		</div>
+
+                            		<div class="home__hero__search__links__col">
+                            			<ul class="home__hero__search__links__col__list">
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?deal_type=1&obl_id=1&type=3" class="home__hero__search__links__link">Сезонные квартиры</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">853</em>
+		                                    </li>
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?offices=yes&deal_type=1&obl_id=1" class="home__hero__search__links__link">Нежилые помещения</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">67 019</em>
+		                                    </li>
+		                                    <li class="home__hero__search__links__col__list__item">
+		                                        <a href="/cat.php?suburbian=yes&deal_type=1&object_type[1]=1&object_type[2]=2&object_type[3]=4&obl_id=1" class="home__hero__search__links__link">Дома, коттеджи, таунхаусы</a>
+		                                        <em class="home__hero__search__links__col__list__item__count">1 687</em>
+		                                    </li>
+		                                </ul>
+                            		</div>
+                            	</div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div class="home__cards">
+                    <!--AdFox START-->
+<!--cian-->
+<!--Площадка: Cian.ru / Главная / Спецпредложение на главной-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Спецпредложение на главной-->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+  if (typeof(afReferrer) == 'undefined') {
+    afReferrer = escape(document.referrer);
+  }
+} else {
+  afReferrer = '';
+}
+var addate = new Date();
+
+
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/202100/prepareCode?p1=bsqet&amp;p2=fedv&amp;pct=b&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=deal_type_1&amp;puid2=offer_flat&amp;puid3=&amp;puid4=&amp;puid5=obl_id_1&amp;puid6=&amp;puid7=&amp;puid8=&amp;puid9=&amp;puid10=no_agent&amp;puid11=1&amp;random=1402109195&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+                    <!--AdFox START-->
+<!--cian-->
+<!--Площадка: Cian.ru / Главная / Спецпредложение на главной 2-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Спецпредложение на главной-->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+  if (typeof(afReferrer) == 'undefined') {
+    afReferrer = escape(document.referrer);
+  }
+} else {
+  afReferrer = '';
+}
+var addate = new Date();
+
+
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/202100/prepareCode?p1=bsqga&amp;p2=fedv&amp;pct=d&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=deal_type_1&amp;puid2=offer_flat&amp;puid3=&amp;puid4=&amp;puid5=obl_id_1&amp;puid6=&amp;puid7=&amp;puid8=&amp;puid9=&amp;puid10=no_agent&amp;puid11=1&amp;random=599205172&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+
+                    <!--AdFox START-->
+<!--cian-->
+<!--Площадка: Cian.ru / Главная / Спецпредложение на главной 3-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Спецпредложение на главной-->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+  if (typeof(afReferrer) == 'undefined') {
+    afReferrer = escape(document.referrer);
+  }
+} else {
+  afReferrer = '';
+}
+var addate = new Date();
+
+
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/202100/prepareCode?p1=bsqgc&amp;p2=fedv&amp;pct=d&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=deal_type_1&amp;puid2=offer_flat&amp;puid3=&amp;puid4=&amp;puid5=obl_id_1&amp;puid6=&amp;puid7=&amp;puid8=&amp;puid9=&amp;puid10=no_agent&amp;puid11=1&amp;random=281576321&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+
+                    <!--AdFox START-->
+<!--cian-->
+<!--Площадка: Cian.ru / Главная / Спецпредложение на главной 4-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Спецпредложение на главной-->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+  if (typeof(afReferrer) == 'undefined') {
+    afReferrer = escape(document.referrer);
+  }
+} else {
+  afReferrer = '';
+}
+var addate = new Date();
+
+
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/202100/prepareCode?p1=bsqgd&amp;p2=fedv&amp;pct=d&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=deal_type_1&amp;puid2=offer_flat&amp;puid3=&amp;puid4=&amp;puid5=obl_id_1&amp;puid6=&amp;puid7=&amp;puid8=&amp;puid9=&amp;puid10=no_agent&amp;puid11=1&amp;random=1393297192&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+
+                </div>
+                <div class="home__broad home__broad_apps home__broad_overlay">
+                    <div class="home__broad__title home__broad__title_white">Мобильные приложения</div>
+                    <div class="home__broad__description home__broad__description_white">
+                        Бесплатные мобильные приложения от портала недвижимости <strong>CIAN.RU</strong><br/>
+                        Отправить <a href="/mobile/#sms" class="home__broad__welcome__link home__broad__welcome__link_font-m">бесплатное смс</a> на установку приложения
+                    </div>
+                    <div class="home__broad__welcome home__broad__welcome_margin-bottom-s">
+                        <a href="//itunes.apple.com/app/id911804296" target="_blank" class="home__broad__app-link home__broad__app-link_app-store"></a>
+                        <a href="//play.google.com/store/apps/details?id=ru.cian.main" target="_blank" class="home__broad__app-link home__broad__app-link_google-store"></a>
+                        <a href="//www.windowsphone.com/ru-ru/store/app/циан/8d5d6dfb-40f9-4f56-8dfc-7f8a0ae589c6" target="_blank" class="home__broad__app-link home__broad__app-link_windows-store"></a>
+                    </div>
+                    <a href="/mobile/" target="_blank" class="home__broad__picture home__broad__picture_apps"></a>
+                </div>
+                <div class="home__broad home__broad_no-bottom-padding">
+                    <h2 class="home__broad__title">Простой поиск по карте</h2>
+                    <div class="home__broad__welcome home__broad__welcome_padding-top-25">
+                        <a target="_blank" href="http://map.cian.ru/?deal_type=2&flats=yes" class="home__broad__button">Найти объекты</a>
+                    </div>
+                    <a  target="_blank" href="http://map.cian.ru/?deal_type=2&flats=yes" class="home__broad__picture home__broad__picture_map home__broad__picture_overlay home__broad__picture_pointer">
+                        <div class="home__broad__rubrics">
+                            <div class="home__broad__rubrics__item">
+                                <div class="home__broad__rubrics__item__icon home__broad__rubrics__item__icon_location"></div>
+                                <div class="home__broad__rubrics__item__title">Объявления рядом<br/>с вами</div>
+                            </div>
+
+                            <div class="home__broad__rubrics__item home__broad__rubrics__item_center">
+                                <div class="home__broad__rubrics__item__icon home__broad__rubrics__item__icon_search"></div>
+                                <div class="home__broad__rubrics__item__title">Поиск без точного<br/>адреса</div>
+                            </div>
+
+                            <div class="home__broad__rubrics__item">
+                                <div class="home__broad__rubrics__item__icon home__broad__rubrics__item__icon_markers"></div>
+                                <div class="home__broad__rubrics__item__title">Всё как на ладони</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="home__broad home__broad_no-bottom-padding">
+                    <h2 class="home__broad__title">Новостройки</h2>
+                    <div class="home__broad__description">Каталог строящихся жилых комплексов с актуальными<br/> предложениями квартир напрямую от застройщиков</div>
+                    <div class="home__broad__welcome">
+                        <a href="/promo-novostroyki/" target="_blank" class="home__broad__button">Подробнее</a>
+                    </div>
+                    <a href="/promo-novostroyki/" target="_blank" class="home__broad__picture home__broad__picture_new-houses"></a>
+                </div>
+                
+                <div class="home__links-container">
+                        <div class="home__links-container__title home__links-container__title_bottom-m home__links-container__title_font-m">Объявления со всей России</div>
+                        <div class="home__links-container-block">
+                            <div class="home__links-container__col">
+                                <ul class="home__links-container__list">
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=1" class="home__links-container__link">Москва</a>
+                                        <em class="home__links-container__count">333 459</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=2" class="home__links-container__link">Московская область</a>
+                                        <em class="home__links-container__count">246 135</em>
+                                    </li>
+                                    <br/>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=10" class="home__links-container__link">Санкт-Петербург</a>
+                                        <em class="home__links-container__count">101 419</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=11" class="home__links-container__link">Ленинградская область</a>
+                                        <em class="home__links-container__count">49 705</em>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="home__links-container__col">
+                                <ul class="home__links-container__list">
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=3" class="home__links-container__link">Владимирская область</a>
+                                        <em class="home__links-container__count">6 670</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=4" class="home__links-container__link">Калужская область</a>
+                                        <em class="home__links-container__count">11 678</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=6" class="home__links-container__link">Тверская область</a>
+                                        <em class="home__links-container__count">4 232</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=7" class="home__links-container__link">Тульская область</a>
+                                        <em class="home__links-container__count">4 231</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=8" class="home__links-container__link">Ярославская область</a>
+                                        <em class="home__links-container__count">4 771</em>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="home__links-container__col">
+                                <ul class="home__links-container__list">
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=43" class="home__links-container__link">Екатеринбург</a>
+                                        <em class="home__links-container__count">18 641</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=65" class="home__links-container__link">Казань</a>
+                                        <em class="home__links-container__count">7 069</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=72" class="home__links-container__link">Краснодар</a>
+                                        <em class="home__links-container__count">78 151</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=31" class="home__links-container__link">Нижний Новгород</a>
+                                        <em class="home__links-container__count">24 536</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=33" class="home__links-container__link">Новосибирск</a>
+                                        <em class="home__links-container__count">21 880</em>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="home__links-container__col">
+                                <ul class="home__links-container__list">
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=87" class="home__links-container__link">Крым и Севастополь</a>
+                                        <em class="home__links-container__count">9 016</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=34" class="home__links-container__link">Омск</a>
+                                        <em class="home__links-container__count">5 002</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=39" class="home__links-container__link">Ростов</a>
+                                        <em class="home__links-container__count">10 350</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=75" class="home__links-container__link">Ставрополь</a>
+                                        <em class="home__links-container__count">2 426</em>
+                                    </li>
+                                    <li class="home__links-container__list__item">
+                                        <a href="/?region=48" class="home__links-container__link">Челябинск</a>
+                                        <em class="home__links-container__count">6 572</em>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                </div>
+                
+                <p class="home__bottom-description">
+                    ЦИАН - это самый удобный способ поиска недвижимости по точному адресу или по карте, с учётом всех интересующих вас параметров. На CIAN.RU тысячи актуальных объявлений о продаже или аренде объектов недвижимости в Москве, Московской области и по всей России, новые объявления появляются каждый день.<br/>Жильё находится на CIAN.RU!
+                </p>
+        </div>
+        
+<div id="footer">
+    <div class="center">
+        <div class="footer-links">
+            <ul>
+                <li><a href="/vc.php" rel="nofollow">Вакансии агентств</a></li>
+                <li><a href="/contacts/" rel="nofollow">Контакты</a></li>
+                <li><a href="/faq/advert/" rel="nofollow">Реклама на сайте</a></li>
+                <li><a href="/faq/fairplay/" rel="nofollow">Акция «Работаем честно»</a></li>
+                <li class="footer-link-paid-faq"><a href="/faq/paid_offers/" rel="nofollow">Платные объявления</a></li>
+                <li class="footer-link-premium-faq"><a href="/faq/premium_offers/" rel="nofollow">Премиум-размещение</a></li>
+                <li class="footer-link-mortgage"><a href="/ipoteka/" target="_blank" rel="nofollow">Подбор ипотеки</a></li>
+                <li class="footer-link-map"><a href="//map.cian.ru/" target="_blank" rel="nofollow">Поиск на карте</a></li>
+                <li class="footer-link-tv"><a href="/tv/" target="_blank" rel="nofollow">Реклама ЦИАН на ТВ</a></li>
+            </ul>
+            <a href="/mobile/" target="_blank" rel="nofollow" class="mobile-"><i class="icon-mobile"></i>Мобильные приложения</a>
+        </div>
+        <div class="footer-group">
+            <span class="icon-ciangroup">ЦИАН ГРУПП</span>
+            Лидер онлайн недвижимости России
+            <span class="footer-group-right">
+                <a href="http://www.psbank.ru/Personal/Ambitions/Mortgage" rel="nofollow" target="_blank">
+                <img class="psb-logo" src="/static/images/psb_logo.png" height="26" alt="Промсвязьбанк"/>
+                <span class="footer-group-right-desc">Генеральный партнер группы проектов</span>
+            </span>
+        </div>
+        <script type="text/javascript" src="/static/scripts/footer_links.js"></script>
+    </div>
+    <div class="copyrights">
+        <div class="center">
+            <ul>
+                <li>© 2015 ЦИАН ГРУПП</li>
+                <li><a href="" class="_toMobileVersion">Мобильная версия сайта</a></li>
+            </ul>
+            <div class="footer-counters">
+                <!-- Yandex.Metrika counter -->
+<script src="http://mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+<div style="display:none;">
+    <script type="text/javascript">
+    try {
+        var yaCounter67132 = new Ya.Metrika({id:67132, clickmap:true, accurateTrackBounce:true, webvisor:true, type:1});
+     } catch(e) { }
+    </script>
+</div>
+<noscript><div><img src="http://mc.yandex.ru/watch/67132?cnt-class=1" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--LiveInternet logo--><a href="http://www.liveinternet.ru/click;CIAN/cian" target="_blank"><img src="//counter.yadro.ru/logo;CIAN/cian?44.1" border="0" width="31" height="31" alt="" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня"/></a><!--/LiveInternet-->
+
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit;CIAN/cian?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,80)) +
+";"+Math.random();//-->
+</script>
+<!--/LiveInternet-->
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-30374201-1']);
+    _gaq.push(['_setDomainName', 'cian.ru']);
+    
+        _gaq.push(['_trackPageview']);
+    
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<!-- /Google Analytics -->
+
+<!-- Retail Rocket -->
+<script>
+    var rrPartnerId = "550f12f91e99471c1446d760";
+    var rrApi = {};
+    var rrApiOnReady = rrApiOnReady || [];
+    rrApi.addToBasket = rrApi.order = rrApi.categoryView = rrApi.view = rrApi.recomMouseDown = rrApi.recomAddToCart = function() {};
+    (function(d) {
+        var ref = d.getElementsByTagName('script')[0];
+        var apiJs, apiJsId = 'rrApi-jssdk';
+        if (d.getElementById(apiJsId)) return;
+        apiJs = d.createElement('script');
+        apiJs.id = apiJsId;
+        apiJs.async = true;
+        apiJs.src = "//cdn.retailrocket.ru/content/javascript/api.js";
+        ref.parentNode.insertBefore(apiJs, ref);
+    }(document));
+</script>
+<!-- / Retail Rocket -->
+            </div>
+            <div class="age">16+</div>
+            <!--  -->
+        </div>
+    </div>
+</div>
+        
+
+<div class="popup_shadow">
+    <div class="popup popup_login">
+        <div class="popup_closer"></div>
+        <div class="popup_content">
+            <form onsubmit="return false" action="/authenticate/"
+                  method="post"
+                   id="popup_login_form">
+                <table class="popup_login_form_table">
+                    <tr>
+                        <th></th>
+                        <td>
+                            <span class="pseudo popup_login_trigger_enter popup_login_trigger_active">Вход</span>
+                            <a style="font-size: 18px;" href="/users.php?mode=reg">Регистрация</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th><span class="popup_login_id_text">ID или E-mail</span>:</th>
+                        <td><input type="text" name="login" class="popup_login_input_mail"/>
+                            <div class="popup_login_validator_tooltip">
+                                <div class="popup_login_validator_tooltip_arrow_left"></div>
+                                <div class="popup_login_validator_tooltip_content">Некорректный E-mail</div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Пароль:</th>
+                        <td><input type="password" name="password" class="popup_login_input_pass"/><i
+                                class="popup_login_input_pass_trigger"></i>
+                            <div class="popup_login_validator_tooltip">
+                                <div class="popup_login_validator_tooltip_arrow_left"></div>
+                                <div class="popup_login_validator_tooltip_content">Не введен Пароль</div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td><label class="popup_login_remember"><input type="checkbox" name="remember">запомнить меня</label></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td>
+                            <span class="submit_w"><button type="submit"
+                                                          class="submit_login"
+                                                          disabled="disabled"><span class="popup_spinner"></span>Войти</button></span>
+                            <a href="/users.php?mode=lostpassword" class="lost-">напомнить пароль</a>
+                        </td>
+                    </tr>
+                </table>
+                <input type="hidden" name="back_url" value="http://www.google.ru/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=14&amp;ved=0CI8BEBYwDQ&amp;url=http%3A%2F%2Fwww.cian.ru%2F&amp;ei=o8uLVeOqFIrMyAPvzI7QAw&amp;usg=AFQjCNGgR3-rf3-u1r7z4ooXCLnE5CqHcQ&amp;bvm=bv.96782255,d.bGQ&amp;cad=rjt">
+                <input type="hidden" name="csrf_token" value="a91280edefd5c5fffcb81877ca4b3e74ba25fc71">
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<div class="popup popup_comment">
+    <div class="popup_tail"></div>
+    <div class="popup_closer"></div>
+    <div class="popup_content">
+        <form onsubmit="return false" action="/ajax/rent/flat/notes"
+              id="popup_comment_form">
+            Ваш комментарий:
+            <div><textarea name="text" class="popup_realtor_comment_text" cols="" rows=""></textarea></div>
+            <div class="popup_plan_submit_row">
+                <span class="submit_w"><button class="submit">Сохранить</button></span>&nbsp;или&nbsp;<span
+                    class="popup_cancel pseudo">отменить</span>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="popup popup_broken_address">
+    <div class="popup_tail"></div>
+    <div class="popup_closer"></div>
+    <div class="popup_content">
+        <div class="popup_broken_address_title">Адрес не распознан</div>
+        <div class="popup_broken_address_body">Объявление нельзя найти по адресу.<br/>Проверьте правильность ввода адреса</div>
+        <div class="popup_plan_submit_row">
+            <span class="popup_broken_address_call_action"><span class="submit_w"><button class="popup_broken_address_submit">Редактировать объявление</button></span>&nbsp;или&nbsp;</span><span
+                    class="popup_cancel pseudo">отменить</span>
+        </div>
+        </form>
+    </div>
+</div>
+
+<div class="popup popup_realtor_comment">
+    <div class="popup_tail"></div>
+    <div class="popup_closer"></div>
+    <div class="popup_content">
+        <form onsubmit="return false" action="/ajax/rent/flat/realtor_notes"
+              id="popup_realtor_comment_form">
+            Ваш комментарий о риелторе:
+            <div><textarea name="text" class="popup_realtor_comment_text" cols="" rows=""></textarea></div>
+            <div class="popup_plan_submit_row">
+                <span class="submit_w"><button class="submit">Сохранить</button></span>&nbsp;или&nbsp;<span
+                    class="popup_cancel pseudo">отменить</span>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="popup_shadow">
+    <div class="popup popup_complaint">
+        <div class="popup_tail"></div>
+        <div class="popup_closer"></div>
+        <div class="popup_content">
+            <form onsubmit="return false" action="/ajax/rent/flat/complaints"
+                  id="popup_complaint_form">
+                <div class="popup_complaint_title">На что жалуетесь?</div>
+                <table class="popup_complaint_tab">
+                    <tbody>
+                    <tr>
+                        <td class="popup_complaint_td_target">
+                            <div class="popup_complaint_target_placeholder"></div>
+                            <div class="popup_complaint_target_actions">
+                                &larr;&nbsp;<span class="pseudo popup_complaint_target_actions_prev">предыдущая</span>&nbsp;
+                                <span class="pseudo popup_complaint_target_actions_next">следующая</span>&nbsp;&rarr;
+                            </div>
+                        </td>
+                        <td class="popup_complaint_td_reasons">
+                            <dl>
+
+                            </dl>
+                            <div>&nbsp;Подробная информация:</div>
+                            <textarea name="text" class="popup_complaint_text" cols="" rows=""></textarea>
+
+                            <div style="margin-bottom: 15px"><label><input type="checkbox" checked="checked"
+                                                                           name="save_as_note"/>Продублировать в личный
+                                комментарий</label></div>
+                            <div class="popup_complaint_submit_row">
+                                <span class="submit_w"><button class="send">Пожаловаться
+                                </button></span>&nbsp;или&nbsp;<span class="popup_cancel pseudo">отменить</span>
+                            </div>
+                        <td>
+                    </tr>
+                    </tbody>
+                </table>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="popup_shadow">
+    <div class="popup popup_stored_filter">
+        <div class="popup_closer"></div>
+        <div class="popup_content">
+            <div class="popup_stored_filter_title">Сохранить поисковый фильтр</div>
+            <div class="popup_stored_filter_info">Для сохранения поискового фильтра нужно придумать ему название.</div>
+            <table>
+                <tr>
+                   <th>Название:</th>
+                   <td><input maxlength="255" name="name" type="text"/></td>
+                </tr>
+            </table>
+            <div class="popup_stored_filter_submit_row">
+                <span class="submit_w"><button class="c-button c-button_white">Сохранить</button></span> или <span
+                    class="popup_cancel pseudo">отменить</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="popup_shadow">
+    <div class="popup popup_alert">
+        <div class="popup_closer"></div>
+        <div class="popup_content">
+            <div class="popup_alert_box">
+                <div class="popup_alert_box_title">Подтвердите</div>
+                <div class="popup_alert_box_content"></div>
+                <div class="popup_alert_submit_row"><span class="submit_w"><button class="submit">Да</button></span><span class="popup_alert_submit_row_cancel"> или
+                    <span class="popup_cancel pseudo">отменить</span></span></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="popup_shadow">
+    <div class="popup popup_subscribe">
+        <div class="popup_closer"></div>
+        <div class="popup_content">
+            <div class="popup_subscribe_title">
+                <div class="popup_subscribe_title_image"></div>
+                <div class="popup_subscribe_title_text">Подпишитесь<br/>на новые объявления бесплатно</div>
+            </div>
+            <div class="popup_subscribe_info">Мы будем отправлять все подходящие новые объявления вам на электронную почту</div>
+            <div class="popup_subscribe_form">
+                <input class="popup_subscribe_form_email" name="email" placeholder="E-mail" type="text" value=""/>
+                <span class="popup_subscribe_form_submit_w submit_w">
+                    <button class="popup_subscribe_form_submit c-button c-button_white ">Отправить</button>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="popup popup_premium">
+    <div class="popup_tail"></div>
+    <div class="popup_closer"></div>
+    <div class="popup_premium_content">
+        <div class="popup_premium_slides">
+
+            <div class="popup_premium_slide">
+                <div id="firstStepPremium">
+                    <div class="popup_premium_title">Премиум-статус</div>
+                    <div class="popup_premium_comment">Премиум-объявления размещаются на&nbsp;первых местах в&nbsp;поисковой
+                        выдаче и&nbsp;получают больше показов
+                    </div>
+                    <table class="popup_premium_tab">
+                        <tr>
+                            <th>Срок размещения</th>
+                            <td>
+                                <select name="period" class="popup_premium_days_select">
+                                    <option value="0" selected="selected">бессрочно</option>
+                                    
+                                        <option value="14">14 дней</option>
+                                    
+                                        <option value="13">13 дней</option>
+                                    
+                                        <option value="12">12 дней</option>
+                                    
+                                        <option value="11">11 дней</option>
+                                    
+                                        <option value="10">10 дней</option>
+                                    
+                                        <option value="9">9 дней</option>
+                                    
+                                        <option value="8">8 дней</option>
+                                    
+                                        <option value="7">7 дней</option>
+                                    
+                                        <option value="6">6 дней</option>
+                                    
+                                        <option value="5">5 дней</option>
+                                    
+                                        <option value="4">4 дня</option>
+                                    
+                                        <option value="3">3 дня</option>
+                                    
+                                        <option value="2">2 дня</option>
+                                    
+                                    <option value="1">одни сутки</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Стоимость<br/>Премиум-объявления</th>
+                            <td>
+                                <strong>
+                                    <span class="popup_premium_price"></span><span class="rur">р<span>уб.</span></span>&nbsp;в
+                                    сутки
+                                </strong>
+                                <small>Всего на вашем счету <span
+                                        id="popup_user_balance"></span><span
+                                        class="rur">р<span>уб.</span></span>
+                                </small>
+                            </td>
+                        </tr>
+                    </table>
+
+                    <div class="popup_premium_submit_row" style="line-height: 20px">
+                        <span class="popup_submit_w">
+                            <button class="submit"><span class="popup_spinner"></span>Купить</button>
+                        </span> &nbsp;или&nbsp; <span
+                            class="popup_cancel pseudo">закрыть</span>
+                        <span class="popup_preloader">
+								<img src="/nd/service/plugin/img/preloader.gif"
+                                     width="28" height="28"/>
+                    </span>
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="popup_premium_slide">
+                <div class="popup_premium_title"><i></i>Покупка Премиум-статуса</div>
+                <div class="popup_premium_comment" style="margin-bottom:5px">
+                    Для подтверждения своего права распоряжения счетом аккаунта
+                    введите код высланный Вам по sms
+                </div>
+                <table style="padding: 5px 0">
+                    <tbody>
+                        <tr>
+                            <th>Секретный код</th>
+                            <td><input class="popup_premium_secret_code_input" type="text" name="secret_code" /><span
+                                    class="popup_premium_comment helpme"><span class="pseudo resend_code">Отправить еще раз</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="popup_submit_row">
+                    <span class="popup_submit_w">
+                        <button class="submit"><span class="popup_spinner"></span>Купить</button>
+                    </span>
+                    &nbsp;или&nbsp;
+                    <span class="popup_cancel pseudo">закрыть</span>
+                    <span class="popup_preloader">
+								<img src="/nd/service/plugin/img/preloader.gif"
+                                     width="28" height="28"/>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="popup popup_premium_import">
+    <div class="popup_tail"></div>
+    <div class="popup_closer"></div>
+    <div class="popup_content">
+        <form onsubmit="return false">
+            <div class="popup_premium_import_title">Премиум-статус</div>
+            <div class="popup_premium_import_comment">Премиум-объявления размещаются на&nbsp;первых местах в&nbsp;поисковой
+                выдаче и&nbsp;получают больше показов
+            </div>
+            <div>
+                Премиум-статус и импортируемого объявления можно установить только в XML-файле с помощью тега <span
+                    class="popup_premium_import_code">&lt;premium&gt;1&lt;/premium&gt;</span><br/>
+                Подробнее с техническими требованиями можно ознакомиться по ссылке <a
+                    href="/nd/validator/help/index.php">http://www.cian.ru/nd/validator/help/index.php</a>
+            </div>
+            <div class="popup_premium_import_submit_row">
+                <span class="popup_cancel pseudo">отменить</span>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="popup popup_feedback">
+    <div class="popup_tail"></div>
+    <div class="popup_closer"></div>
+    <div class="popup_content">
+        <div class="popup_feedback_title">Поделитесь мнением</div>
+        <div class="popup_feedback_info">Мы хотим узнать ваши впечатления о новом дизайне результатов поиска. Что
+            вам нравится, а что нет? Что бы вы хотели улучшить?
+        </div>
+        <form>
+            <div class="popup_feedback_mark_row">
+                <span class="popup_feedback_mark_row_title">Поставьте оценку</span>
+                <span class="popup_feedback_marks">
+                    <span class="button popup_feedback_mark">1<input type="radio" name="mark" value="1"></span>
+                    <span class="button popup_feedback_mark">2<input type="radio" name="mark" value="2"></span>
+                    <span class="button popup_feedback_mark">3<input type="radio" name="mark" value="3"></span>
+                    <span class="button popup_feedback_mark">4<input type="radio" name="mark" value="4"></span>
+                    <span class="button popup_feedback_mark">5<input type="radio" name="mark" value="5"></span>
+                </span>
+            </div>
+            <div class="popup_feedback_message_row">
+                <div class="popup_feedback_textarea_row">
+                    <textarea placeholder="Ваше сообщение"></textarea>
+                    <span class="invalid-icon"></span>
+                </div>
+            </div>
+            <div class="popup_feedback_email_row">
+                <input class="popup_feedback_email_input" type="text" name="email" placeholder="Ваш E-mail"/>
+                <span class="invalid-icon"></span>
+            </div>
+        </form>
+        <div class="popup_feedback_submit_row">
+            <span class="submit_w"><button>Отправить</button></span> или <span
+                class="popup_cancel pseudo">отменить</span>
+        </div>
+        <div class="popup_feedback_status">
+            <div class="popup_feedback_status_image"></div>
+            <div class="popup_feedback_status_text"></div>
+            <span class="popup_cancel pseudo">закрыть</span>
+        </div>
+    </div>
+</div>
+
+<div class="popup popup_export">
+    <div class="popup_tail"></div>
+    <div class="popup_closer"></div>
+    <div class="popup_content">
+        <div class="popup_export_box">
+            <div><a name="pdf" href="#">Скачать в PDF</a></div>
+            <div><a name="docx" href="#">Скачать в DOCX</a></div>
+        </div>
+    </div>
+</div>
+
+<div class="popup popup_printhelp">
+    <div class="popup_tail"></div>
+    <div class="popup_closer"></div>
+    <div class="popup_content">
+        <div class="popup_printhelp_title">Подготовка объявлений к печати</div>
+        <div class="popup_printhelp_info">Вычеркните объявление, и оно не будет показываться при печати.<br/>Вы
+            сможете восстановить его, кликнув по ссылке «восстановить» на том же месте.
+        </div>
+        <div class="popup_printhelp_submit_row">
+            <span class="submit_w"><button>Понятно</button></span>
+        </div>
+    </div>
+</div>
+
+<div class="popup_shadow">
+    <div class="popup popup_modal">
+        <div class="popup_closer"></div>
+        <div class="popup_content">
+            <div class="popup_modal_title"></div>
+            <div class="popup_modal_content"></div>
+            <div class="popup_modal_submit_row">
+                <span class="submit_w"><button class="submit">OK</button></span><span
+                    class="submit_cancel">&nbsp;или&nbsp;<span class="popup_cancel pseudo">отменить</span></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="popup_shadow">
+    <div class="popup popup_callback js__popup-callback">
+        <div class="popup_closer"></div>
+        <div class="c-callback c-callback_pop-up js__popup-callback">
+
+            <div class="c-callback__media">
+                <div class="c-callback__media__box">
+                    <div class="c-callback__icon"></div>
+                </div>
+                <div class="c-callback__media__content">
+                    Оставьте номер вашего телефона<br/>
+                    и мы оперативно перезвоним вам!
+                </div>
+            </div>
+
+
+            <div class="c-callback__form js__c-callback__form">
+                <div class="c-callback__form__field">
+                    <span class="c-callback__form__field__prefix">+7</span>
+                    <input type="phone" tabindex="1" class="c-input c-input_l c-callback__form__field__input js__c-callback__phone" maxlength="13" />
+                </div>
+                <button type="submit" class="c-button c-button_primary c-button_l js__c-callback__submit">
+                    Перезвоните мне
+                </button>
+            </div>
+            <div class="c-callback__time">
+                <div class="js__c-callback__time__opener" style="display:none;">
+                    <a href="" class="c-pseudo js__c-callback__time__choose">Удобное время для звонка</a>
+                </div>
+                <div class="js__c-callback__time__box" style="display:none;">
+                    Удобное время: <input type="text" tabindex="2" class="c-input c-input_l c-callback__time__input js__c-callback__time" placeholder="10:00" maxlength="5" />
+                    <a href="" class="c-pseudo c-callback__time__right-now js__c-callback__time__right-now">Позвоните прямо сейчас!</a>
+                </div>
+            </div>
+
+            <div class="c-callback__error js__c-callback__error" style="display:none;"></div>
+
+            <div class="c-callback__final js__c-callback__final" style="display:none;"></div>
+
+
+
+            <div class="c-callback__footer">
+                <p class="js__c-callback__time-note" style="display:none;">Укажите время в интервале с 10:00 до 18:00 по Московскому времени</p>
+                <p>
+                    ЦИАН напрямую соединяет миллионы покупателей квартир в&nbsp;новостройках с&nbsp;отделами продаж застройщиков. Ваши контактные данные никогда не&nbsp;будут использованы в&nbsp;рекламных целях или переданы третьим лицам.
+                </p>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+        
+
+        <script src="/static/scripts/body.js"></script>
+        <script>
+            $(function() {
+            	function setHomeCookie(name, value) {
+                	var today = new Date(),
+						expire = new Date();
+
+					expire.setTime(today.getTime() + 3600000*24*365);
+ 					document.cookie = name+'='+value+ ';expires='+expire.toUTCString();
+                }
+
+
+                $('form[name=home_search_form]').on('submit', function(e) {
+                    e.preventDefault();
+                    var deal_type_str = $(this).find('select[name=deal_type]').val(),
+                    	deal_type = 1,
+                        offer_type = $(this).find('select[name=offer_type]').val(),
+                        obl_id = $(this).find('select[name=obl_id]').val(),
+                        query_offer_type = 'flats=yes';
+
+                    if (deal_type_str === 'sale') deal_type = 2;
+                    else deal_type = 1;
+
+                    if (offer_type === 'suburban') query_offer_type = 'suburbian=yes';
+                    else if (offer_type === 'commercial') query_offer_type = 'offices=yes';
+
+                    setHomeCookie('default_region', obl_id);
+					setHomeCookie('default_deal_type', deal_type_str);
+					setHomeCookie('default_offer_type', offer_type);
+
+                    document.location.href = '/nd/search/?'+'deal_type='+deal_type_str+'&'+query_offer_type+'&'+'obl_id='+obl_id;
+                });
+            });
+        </script>
+        <script type="text/javascript">
+         $('body').toggleClass('opera_12', Detectizr.browser.name === 'opera' && parseInt(Detectizr.browser.major) < 13);
+        </script>
+
+        
+            <script type="text/javascript">
+                $(function() {
+                    var subdomain = 'None',
+                        obl_id = '1',
+                        match = {
+                            'spb': 'Санкт-Петербург',
+                            'nn': 'Нижний Новгород',
+                            'samara': 'Самара'
+                        };
+
+                    if (subdomain && typeof match[subdomain] !== 'undefined') {
+                        _gaq.push(['_trackEvent', 'Regions', 'FirstPage', match[subdomain]]);
+                    } else if (parseInt(obl_id) == 1) {
+                        _gaq.push(['_trackEvent', 'Regions', 'FirstPage', 'Москва']);
+                    }
+                });
+            </script>
+        
+
+        <input type="hidden" name="geo_obl_id" value="1">
+        <input type="hidden" name="obl_id" value="1">
+
+        <input type="hidden" name="GEOIP_COUNTRY_CODE" value="">
+        <input type="hidden" name="GEOIP_REGION" value="48">
+    </body>
+</html>
+

@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+	<meta charset="UTF-8">
+	<title>Realty Hunter online</title>
+	<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/assets/css/reset.css">
+	<script src="/js/jquery-1.11.1.js"></script>
+	<script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/assets/css/jquery.formstyler.css">
+	<script src="/assets/js/jquery.formstyler.min.js"></script>
+	<script src="/assets/js/im.js"></script>
+	<link rel="stylesheet" href="/assets/less/style.css" type="text/css">
+	<script src="/js/jquery.arcticmodal-0.3.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/assets/css/jquery.arcticmodal-0.3.css">
+	<script>
+		$(function () {
+			$('select').styler();
+
+			$('.sale-home .fa-question-circle').click(function(){
+				var hidden = $(this).closest('.sale-home').find('.sale-home-hidden');
+				if (hidden.hasClass('show')) {
+					hidden.removeClass('show');
+					hidden.animate({
+						'opacity': 0
+					}, 500);
+				} else {
+					hidden.addClass('show');
+					hidden.animate({
+						'opacity': 1
+					}, 500);
+				}
+			});
+
+			$("[name=phone]").mask("+7 (999) 999-99-99");
+
+			$(".btn-callback").click(function() {
+				$("#modal_callback").arcticmodal();
+//				ga('send', 'event', 'Call_me_back', 'finish_button_click');
+				yaCounter30683838.reachGoal('finish_button_click'); 
+			})
+
+			$("#call_me").click(function(e) {
+				e.preventDefault();
+				ga('send', 'event', 'Call_me_back_out', 'finish_button_click_out');
+				yaCounter30683838.reachGoal('finish_button_click_out'); 
+				$("[name=name].form-control").removeClass("error")
+				$("[name=phone].form-control").removeClass("error")
+
+
+				if ($("[name=name].form-control").val().length < 3) {
+					$("[name=name].form-control").addClass("error")
+				} else {
+					$("[name=name].form-control").removeClass("error")
+				}
+
+				if ($("[name=phone].form-control").val().length < 1) {
+					$("[name=phone].form-control").addClass("error")
+				} else {
+					$("[name=phone].form-control").removeClass("error")
+				}
+
+				if (!$('input.error').length) {
+					$('img.collback-img').hide();
+					$('img.collback-spinner').show();
+					$.ajax({
+						url: '/api/sendOrder',
+						type: 'POST',
+						data: {
+							name: $("[name=name].form-control").val(),
+							phone: $("[name=phone].form-control").val(),
+						}
+					// }).done(function() {
+					})
+
+					// })
+					setTimeout(function() 
+					{					
+					$('img.collback-spinner').hide();
+					$('img.collback-img').show();
+					$('#modal_property').arcticmodal();
+					$(".modal-head").text("Ваша заявка принята")
+					$(".modal-text").text("Наши специалисты свяжуться с вами в ближайшее время")
+					$(".modal-img").attr("src", "/assets/img/sec-2-support.png")
+					$(".woman").attr("src", "/assets/img/ok.jpg")
+					$("#modal_callback").arcticmodal('close');
+					}, 1150)
+
+				}
+			})
+		})
+	</script>
+</head>
+<body>
+	<header>
+		<div class="container">
+			<a  class="header-logo" href="/"><img class="logo" alt="RealtyHunter On-line" src="/assets/img/logo.png"/></a>
+			<h2 class="header-head">Действительно продаем квартиры</h2>
+		</div>
+	</header>
+	<nav>
+		<div class="container">
+			
+			<ul class="nav">
+				<li><a href="/" class="logo_mini"><img src="/assets/img/logo_mini.png"></a><a href="/#how_it_work" class="href-link">Как это работает</a></li>
+				<li><a href="/lists/list-seller">Услуги и цены</a></li>
+				<li><a href="/#opportunities"  class="href-link">Наши возможности</a></li>
+			</ul>
+			<div class="right"><button style="margin-top: -12px;  margin-bottom: -11px;font-size: 17px;font-weight: bold;" class="btn btn-learn-more btn-callback" onClick="ga('send', 'event', 'Call_me_back', 'finish_button_click')">Заказать звонок</button> <span class="phone">+7 (495) 255-22-00</span></div>
+		</div>
+	</nav>
+		<section class="section-1">
+		<div class="container sec-1-bg">
+			<div class="row">
+				<div class="col-xs-5">
+					<div class="sale-home">
+						<p>Сэкономь время и деньги с нами</p>
+						<div class="sale-home-hidden">
+							технологичная система продажи Вашей квартиры
+						</div>
+					</div>
+					<div class="sec-1-calc">
+						<h3>Турбо продажа <br>Вашей квартиры<br>
+
+						<span class="h3-small">Продаем квартиру за <font size=5>30</font> дней<br>Услуги риэлтора больше не нужны</span></h3>
+
+						<a href="#calc" class="btn btn-raschet href-link">Рассчитать выгоду</a>
+					</div>
+					<p class="sec-1-read-rev"><!--<a href="#">Читайте последние отзывы наших клиентов</a>--></p>
+				</div>
+				<div class="col-xs-offset-3 col-xs-4 col-padd">
+					<div class="row">
+						<div class="col-xs-12">
+							<div class="sec-1-item-slogan">
+								<div class="item-slogan-ico">
+									<img src="/assets/img/sec_1_home.png" alt="">
+								</div>
+								<h3>никакой комиссии</h3>
+								<p>Вы платите фиксированную небольшую плату за конкретные услуги</p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12">
+							<div class="sec-1-item-slogan">
+								<div class="item-slogan-ico">
+									<img src="/assets/img/sec_1_prog.png" alt="">
+								</div>
+								<h3>продаем быстро</h3>
+								<p>Продажа квартиры за 30 дней. Первые показы начинаются на второй день сотрудничества</p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12">
+							<div class="sec-1-item-slogan">
+								<div class="item-slogan-ico">
+									<img src="/assets/img/sec_1_manager.png" alt="">
+								</div>
+								<h3>реальные покупатели</h3>
+								<p>Предварительная проверка всех потенциальных покупателей</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section-2">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<h1 class="head_s">Комплекс онлайн-услуг. Сделай свой выбор</h1>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row sec-2-header">
+				<div class="col-xs-6 sec-2-header-first">
+					<div class="flag-left">Только<br>Москва и МО</div>
+					<h2>0.00 <span class="rouble">Р</span></h2>
+					<h3>За результат</h3>
+					<p>на старте – 0.00 <span class="rouble">Р</span> по завершению сделки – 92 тыс. <span class="rouble">Р</span></p>
+					<a href="/packs/pack-result" class="btn btn-learn-more">Узнать больше</a>
+				</div>
+				<div class="col-xs-6 sec-2-header-second">
+					<div class="flag-right">Выбор пользователей</div>
+					<h2>38 тыс.<span class="rouble">Р</span></h2>
+					<h3>Оптимальный</h3>
+					<p>на старте – 38 тыс. <span class="rouble">Р</span> по завершению сделки –  0.00 <span class="rouble">Р</span></p>
+					<a href="/packs/pack-optim" class="btn btn-learn-more" data-id="opportunities">Узнать больше</a>
+				</div>
+			</div>
+			<div class="row sec-2-content">
+				<h2>Основные преимущества</h2>
+				<div class="col-xs-3">
+					<dic class="sec-2-item">
+						<div class="sec-2-item-logo">
+							<img src="/assets/img/sec-2-turbo.png" alt="">
+						</div>
+						<h3>Турбо продажа</h3>
+						<p class="sec-2-item-prg">Первые показы после первых дней сотрудничества.</p>
+						<p class="sec-2-item-readmore"><a href="#" class="readmore properties" data-head="Отличная цена" data-text="Первые показы после первых дней сотрудничества. Благодаря нашим технологиям удается привлечь первых покупателей уже в первый день после публикации." data-img="/assets/img/sec-2-turbo.png" data-woman="1">Подробнее</a></p>
+					</dic>
+				</div>
+				<div class="col-xs-3">
+					<dic class="sec-2-item">
+						<div class="sec-2-item-logo">
+							<img src="/assets/img/sec-2-audit.png" alt="">
+						</div>
+						<h3>Целевая аудитория</h3>
+						<p class="sec-2-item-prg">Только реальные покупатели, заинтересованные в Вашей недвижимости.</p>
+						<p class="sec-2-item-readmore"><a href="#" class="readmore properties" data-head="Целевая аудитория" data-text="Только реальные покупатели, заинтересованные в Вашей недвижимости." data-img="/assets/img/sec-2-audit.png"  data-woman="3">Подробнее</a></p>
+					</dic>
+				</div>
+				<div class="col-xs-3">
+					<dic class="sec-2-item">
+						<div class="sec-2-item-logo">
+							<img src="/assets/img/sec-2-proff.png" alt="">
+						</div>
+						<h3>Фиксированная плата</h3>
+						<p class="sec-2-item-prg">Больше никаких комиссий. Абсолютно прозрачная система оплаты.</p>
+						<p class="sec-2-item-readmore"><a href="#" class="readmore properties" data-head="Фиксированная плата" data-text="Больше никаких комиссий. Абсолютно прозрачная система оплаты." data-img="/assets/img/sec-2-proff.png"  data-woman="2">Подробнее</a></p>
+					</dic>
+				</div>
+				
+				<div class="col-xs-3">
+					<dic class="sec-2-item">
+						<div class="sec-2-item-logo">
+							<img src="/assets/img/sec-2-support.png" alt="">
+						</div>
+						<h3>Клиентский сервис</h3>
+						<p class="sec-2-item-prg">Предварительная проверка всех потенциальных покупателей.<br><br></p>
+						<p class="sec-2-item-readmore"><a data-id="calc" href="#" class="readmore properties" data-head="Клиентский сервис" data-text="Анализ отзывов клиентов и быстрое реагирование на их запросы. Мы приветствуем стремление клиентов обращаться к нам и с большим вниманием относимся к каждой заявке: вопросу, желанию или словам благодарности." data-img="/assets/img/sec-2-support.png"  data-woman="4">Подробнее</a></p>
+					</dic>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="section-3">
+		<div class="container">
+			
+			<div class="row">
+				<div class="col-xs-5">
+					<h2 style="  margin-left: -18px;">Расчет выгоды</h2>
+					<form action="" class="calc">
+						<div class="row row-first">
+							<div class="col-xs-6">
+								<p>Цена<br> вашей квартиры</p>
+								<input type="text" name="flat_price">
+							</div>
+							<div class="col-xs-6">
+								<p style="margin-bottom: 17px;">Комиссия риэлтора*</p>
+								<select name="comission">
+									<option value="3">3% от стоимости</option>
+									<option value="4">4% от стоимости</option>
+									<option value="5">5% от стоимости</option>
+									<option value="6">6% от стоимости</option>
+									<option value="7">7% от стоимости</option>
+									<option value="8">8% от стоимости</option>
+									<option value="9">9% от стоимости</option>
+								</select>
+							</div>
+						</div>
+						<div class="row row-economy">
+							<p class="calc-economy">* Сторонние агентства недвижимости<!--Вы сэкономите <span class="calc-economy-result">456 000 Р.</span>--> <a id="calculation" href="#">Посчитать</a></p>
+						</div>
+					</form>
+					<h2 style="padding-top: 29px; padding-bottom: 13px;  margin-left: -16px;">Оценка недвижимости</h2>
+					<form action="" class="calc">
+						<div class="row" style="padding-top: 10px">
+							<div class="col-xs-6">
+								<p>Ваше имя</p>
+								<input type="text" name="name">
+							</div>
+							<div class="col-xs-6 col-pdd">
+								<p>Номер телефона</p>
+								<input type="text" name="phone">	
+							</div>
+						</div>
+						<div class="row" style="  padding-left: 29px;padding-right: 30px;padding-bottom: 10px;">
+							<button class="btn btn-learn-more btn-order">Заказать экспертную оценку квартиры</button>
+						</div>
+					</form>
+
+				</div>
+				<div class="col-xs-7 col-right">
+					<h2 style=" margin-left: 5px;margin-bottom: 0px;">Часто задаваемые вопросы</h2>
+					<div class="row">
+						<div class="faq">
+							<div class="col-xs-12 question">
+								<h3>По каким критериям происходит оценка недвижимости?</h3>
+							</div>
+							<div class="col-xs-12 answer">
+								Мы используем совокупный метод оценки недвижимости. Учитываем все факторы, которые могут повлиять на стоимость: от ситуации на рынке недвижимости до планировки квартиры. Но главную корректировку делаем с самим клиентом: стараемся учитывать желаемую цену, по которой он хочет продать недвижимость.
+							</div>
+							<div class="col-xs-12 question">
+								<h3>За какое время вы продаете квартиру, есть ли гарантия продажи?</h3>
+							</div>
+							<div class="col-xs-12 answer">
+								Все очень индивидуально. Элитная и загородная недвижимость, как правило, продается значительно дольше. Ситуация с квартирами намного живее, нам очень помогает наш опыт в недвижимости, есть база покупателей, которую мы регулярно обновляем - здесь мы чувствуем себя уверенно.
+							</div>
+							<div class="col-xs-12 question">
+								<h3>Какие требования к собственнику, который продает квартиру?</h3>
+							</div>
+							<div class="col-xs-12 answer">
+								Главное – это подготовка документов к проведению сделки. К этому вопросу мы относимся с необходимой требовательностью. Отказы из-за «личного недоверия» тоже актуальны.
+							</div>
+							<div class="col-xs-12 question">
+								<h3>Почему стоимость услуг такая низкая при большом наборе услуг?</h3>
+							</div>
+							<div class="col-xs-12 answer">
+								Да, стоимость услуг вполне демократичная, в том числе есть уникальная альтернатива  - пакет «За результат». Качество услуг и результат мы предлагаем испытать на себе каждому собственнику. Проект уже зарекомендовал себя как успешный. Надеемся, мы решим квартирных вопрос всех заинтересованных граждан Москвы/МО и вскоре перейдем на федеральный уровень.
+							</div>
+							<div class="col-xs-12 question">
+								<h3 data-id="how_it_work">Вы работайте с ипотечным кредитованием?</h3>
+							</div>
+							<div class="col-xs-12 answer">
+								На сегодняшний день у нас уже заключены соглашения с двумя крупными банками, которые готовы предоставлять услуги ипотечного кредитования нашим клиентам. Банки известны своим тщательным подходом к объектам, на которые он предоставляет свою ипотеку. Продолжаются переговоры с целым рядом финансовых и кредитных организаций, мы постараемся сделать всё возможное, чтобы у наших пользователей был ещё лучший выбор ипотечных предложений.
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section-4" >
+		<div class="container">
+			<h2>5 шагов успешной продажи</h2>
+			<ul class="steps">
+				<li class="item-step-1">
+					<div class="step">1</div>
+					<h3>Начало сотрудничества</h3>
+					<p>Пройдите регистрацию, выберите подходящий Вам набор услуг, и мы начинаем работу.</p>
+				</li>
+				<li class="item-step-2">
+					<div class="step">2</div>
+					<h3>Подготовка квартиры к продаже</h3>
+					<p>Профессиональный фотограф приезжает и создает портфолио Вашей квартиры.</p>
+				</li>
+				<li class="item-step-3">
+					<div class="step">3</div>
+					<h3>Целевые обращения от покупателей</h3>
+					<p>Благодаря нашей системе первые показы на второй день сотрудничества.</p>
+				</li>
+				<li class="item-step-4">
+					<div class="step">4</div>
+					<h3>Оперативность</h3>
+					<p>Оперативная обработка каждого покупателя. Завершение сделки в максимально короткие сроки.</p>
+				</li>
+				<li class="item-step-5">
+					<div class="step">5</div>
+					<h3>Договор, регистрация и расчет</h3>
+					<p>Оформление, сопровождение и контроль исполнения договоров. Правовые аспекты.</p>
+				</li>
+			</ul>
+		</div>
+	</section>
+	<section class="section-5">
+		<div class="container">
+			<h2>Недавно проданные объекты</h2>
+			<ul class="flats row">
+				<li class="flat-item-1 col-xs-3">
+					<div class="flat-logo">
+						<img src="/assets/img/flat-1.jpg" alt="">
+					</div>
+					<div class="flat-desc">
+						<h3><span class="red">Выгода</span> <span class="price">453 000 <span class="rouble">Р.</span></span></h3>
+						<p>2-х комнатная 72 м<sup>2</sup> Мира просп., 102</p>
+					</div>
+				</li>
+				<li class="flat-item-2 col-xs-3">
+					<div class="flat-logo">
+						<img src="/assets/img/flat-2.jpg" alt="">
+					</div>
+					<div class="flat-desc">
+						<h3><span class="red">Выгода</span> <span class="price">530 000 <span class="rouble">Р.</span></span></h3>
+						<p>3-х комнатная 48 м<sup>2</sup>  Вилиса Лациса, 21</p>
+					</div>
+				</li>
+				<li class="flat-item-3 col-xs-3">
+					<div class="flat-logo">
+						<img src="/assets/img/flat-3.jpg" alt="">
+					</div>
+					<div class="flat-desc">
+						<h3><span class="red">Выгода</span> <span class="price">325 000 <span class="rouble">Р.</span></span></h3>
+						<p>2-х комнатная 90 м<sup>2</sup> Рублевское шоссе, 97</p>
+					</div>
+				</li>
+				<li class="flat-item-4 col-xs-3">
+					<div class="flat-logo">
+						<img src="/assets/img/flat-4.jpg" alt="">
+					</div>
+					<div class="flat-desc">
+						<h3><span class="red">Выгода</span> <span class="price">600 000 <span class="rouble">Р.</span></span></h3>
+						<p>3-х комнатная 90 м<sup>2</sup> Сретенский бульвар, 50</p>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</section>
+	<section class="section-5">
+		<div class="container">
+			<h2>RealtyHunter Online</h2>
+			<p>
+				Мы предоставляем широкий спектр агентских услуг онлайн: от рекламы в поисковых системах до SVT 3D-тура по объекту. Проводим исследование эффективности используемых методик, а также осуществляем регулярные sales-обновления.
+			</p>
+			<p>Наша цель – непрерывные продажи.</p>
+			<p>Наши технологии помогли нам автоматизировать процесс продажи недвижимости и достичь положительную динамику в качественных и количественных показателях:</p>
+			<ul>
+				<li>- 116 тематических площадок для размещения рекламы;</li>
+				<li>- 2 000 000 аудитория потенциальных покупателей и собственников;</li>
+				<li>- гибкая CRM-система.</li>
+			</ul>
+			<p>Наш сервис предлагает использовать комплекс онлайн услуг и предоставляет вам выбор из нескольких предложений.</p>
+			<p>
+				Мы берем на себя всю организационную часть продажи вашей недвижимости – от регистрации в РОСРЕЕСТРе до полного юридического сопровождения сделки. А также всю рекламную кампанию вашего объекта – от создания персональной веб-страницы до полного визуального представления объекта.
+			</p>
+		</div>
+	</section>
+
+	<script>
+	function number_format( number, decimals, dec_point, thousands_sep ) {	// Format a number with grouped thousands
+			// 
+			// +   original by: Jonas Raoni Soares Silva (http://www.jsfromhell.com)
+			// +   improved by: Kevin van Zonneveld (http://kevin.vanzonneveld.net)
+			// +	 bugfix by: Michael White (http://crestidg.com)
+
+			var i, j, kw, kd, km;
+
+			// input sanitation & defaults
+			if( isNaN(decimals = Math.abs(decimals)) ){
+				decimals = 2;
+			}
+			if( dec_point == undefined ){
+				dec_point = ",";
+			}
+			if( thousands_sep == undefined ){
+				thousands_sep = ".";
+			}
+
+			i = parseInt(number = (+number || 0).toFixed(decimals)) + "";
+
+			if( (j = i.length) > 3 ){
+				j = j % 3;
+			} else{
+				j = 0;
+			}
+
+			km = (j ? i.substr(0, j) + thousands_sep : "");
+			kw = i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + thousands_sep);
+			//kd = (decimals ? dec_point + Math.abs(number - i).toFixed(decimals).slice(2) : "");
+			kd = (decimals ? dec_point + Math.abs(number - i).toFixed(decimals).replace(/-/, 0).slice(2) : "");
+
+
+			return km + kw + kd;
+		}
+
+		$(document).ready(function () {
+			$("#calculation").click(calc);
+			$("#calculation").one('click', function() {ga('send', 'event', 'Сalculator', 'button_count'); yaCounter30683838.reachGoal('button_count'); })
+			$('[name="flat_price"]').keypress(function(e) {
+				var str = $('[name="flat_price"]').val() + String.fromCharCode(e.which);
+				str = str.replace(/\D/g, "");
+				
+				str = number_format(parseInt(str), 0, " ", " ");
+				$('[name="flat_price"]').val(str);
+				e.preventDefault();
+
+			})
+		})
+
+		
+		var calc = function(e) 
+		{
+			e.preventDefault();
+				if (!$('[name="flat_price"]').val()) {
+
+				} else {
+					var a = 0.01 * $("[name=comission]").val() * $("[name=flat_price]").val().replace(/\D/g, "");
+
+					$(".row-economy").html('<p class="calc-economy">Вы сэкономите <span class="calc-economy-result">' + number_format(a - 38000, 0, " ", " ") + ' Р.</span> <a id="calculation" href="#">Пересчитать</a></p>');
+					$("#calculation").click(calc)
+					ga('send', 'event', 'Сalculator', 'button_pere');
+				        yaCounter30683838.reachGoal('button_pere'); 
+                  			
+				}
+		}
+
+		$(".properties").on('click', function(e) {
+			e.preventDefault();
+			$('#modal_property').arcticmodal();
+
+			$(".modal-head").text($(this).data("head"))
+			$(".modal-text").text($(this).data("text"))
+			$(".modal-img").attr("src", $(this).data("img"))
+			
+			$(".woman").attr("src", "/assets/img/"+$(this).data("woman")+".jpg")
+		})
+
+
+
+		$(document).ready(function() 
+		{
+
+
+			$('body > section.section-2 > div:nth-child(2) > div.row.sec-2-header > div.col-xs-6.sec-2-header-first > a').on('click', function(e)
+			{
+				ga('send', 'event', 'See_more', 'button_for_results');
+				
+			})
+
+			$('body > section.section-2 > div:nth-child(2) > div.row.sec-2-header > div.col-xs-6.sec-2-header-second > a').on('click', function(e)
+			{
+				ga('send', 'event', 'See_more', 'button_optimum');
+				yaCounter30683838.reachGoal('button_optimum'); 
+		
+			})
+
+			$('body > section.section-3 > div > div > div.col-xs-5 > form:nth-child(4) > div:nth-child(2) > button').on('click', function(e)
+			{
+				ga('send', 'event', 'Price_of_apartment', 'button_expert');
+				yaCounter30683838.reachGoal('button_expert');
+			
+			})
+
+			$('body > section.section-1 > div > div > div.col-xs-5 > div.sec-1-calc > a').on('click', function(e)
+			{
+				ga('send', 'event', 'Сalculate_benefits', 'button_slide');
+				yaCounter30683838.reachGoal('button_slide');
+			
+			})
+
+			$('div.col-xs-12.question').click(function()
+			{
+				ga('send', 'event', 'Faq_plus', 'plus_click');
+				yaCounter30683838.reachGoal('plus_click');
+			})
+
+
+
+			$("[name=phone]").mask("+7 (999) 999-99-99");
+
+			$(".btn-order").click(function(e) {
+				e.preventDefault();
+
+				$("[name=name]:not(.form-control)").removeClass("error")
+				$("[name=phone]:not(.form-control)").removeClass("error")
+
+
+				if ($("[name=name]:not(.form-control)").val().length < 3) {
+					$("[name=name]:not(.form-control)").addClass("error")
+				} else {
+					$("[name=name]:not(.form-control)").removeClass("error")
+				}
+
+				if ($("[name=phone]:not(.form-control)").val().length < 1) {
+					$("[name=phone]:not(.form-control)").addClass("error")
+				} else {
+					$("[name=phone]:not(.form-control)").removeClass("error")
+				}
+
+				if (!$('input.error').length) {
+					$.ajax({
+						url: '/api/sendOrder',
+						type: 'POST',
+						data: {
+							name: $("[name=name]").val(),
+							phone: $("[name=phone]").val(),
+							expert: "yes"
+						}
+					})
+				//	}).done(function() {
+					$('#modal_property').arcticmodal();
+					$(".modal-head").text("Ваша заявка принята")
+					$(".modal-text").text("Наши специалисты свяжуться с вами в ближайшее время")
+					$(".modal-img").attr("src", "/assets/img/sec-2-support.png")
+					$(".woman").attr("src", "/assets/img/ok.jpg")
+			//		})
+				}
+			})
+
+
+			$('.section-3 .faq>div:not(.answer)').click(function() {
+				$(this).next().toggle();
+			})
+		})
+	</script>
+	<footer>
+		<div class="footer-top">
+			<div class="container">
+				<div class="col-xs-5">
+					<div class="row">
+						<div class="col-xs-11">
+							<img class="logo" alt="RealtyHunter On-line" src="/assets/img/logo.png"/>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-11">
+							<p class="realty-desc">RealtyHunter Online – технологичная системой продажи недвижимости. Мы предлагаем клиенту весь комплекс агентских услуг онлайн и направлены на развитие инновационного рынка недвижимости.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-3 col-xs-offset-1">
+					<div class="row">
+						<p class="strong">Адрес:</p>
+						<p>г. Москва, Потаповский переулок,
+						д.8/12, стр. 2</p>
+					</div>
+					<div class="row">
+						<p class="strong footer-mail">E-mail:</p>
+						<p>info@realtyhunter.ru</p>
+					</div>
+				</div>
+				<div class="col-xs-2 col-xs-offset-1">
+					<ul class="vert-nav">
+						<li><a href="#">О компании</a></li>
+						<li><a href="/#how_it_work" class="href-link">Как это работает</a></li>
+						<li><a href="/lists/list-seller">Услуги и цены</a></li>
+						<li><a href="/#opportunities" class="href-link">Наши технологии</a></li>
+						<li><a href="#">Отзывы</a></li>
+						<li><a href="#">Пресс-центр</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="footer-bottom">
+			<div class="container">
+
+				<div class="col-xs-12">
+					<p>© 2012 - 2015 RealtyHunter</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<script type="text/javascript">
+		var navOffsetTop = $('nav').offset().top;
+		$(document).scroll(function(e) {
+			if ($(window).scrollTop() > navOffsetTop) {
+				$("nav").css({"position": "fixed", "top" : 0});
+				$(".logo_mini").fadeIn('fast');
+			} else {
+				// $(".logo_mini").fadeOut('fast');
+				$(".logo_mini").css({
+					'display': 'none'
+				});
+				$("nav").css({"position": "static"});
+			}
+		})
+
+		$(".href-link").click(function(e) {
+			var id = $(this).attr("href").replace(/[\/#]/g, "")
+
+			if ($("[data-id=" + id + "]").length) {
+				e.preventDefault()
+
+				var offset = $("[data-id=" + id + "]").offset().top
+
+				$("body").animate({scrollTop: offset - $("[data-id=" + id + "]").height()}, 700)
+				location.hash = "#" + id;
+				
+			} else {
+				return true;
+			}
+
+			
+		})
+
+		if (location.hash) {
+			var id = location.hash.replace(/[\/#]/g, "")
+			if ($("[data-id=" + id + "]").length) {
+				var offset = $("[data-id=" + id + "]").offset().top
+				$("body").animate({scrollTop: offset - $("[data-id=" + id + "]").height()}, 700)
+			}
+
+		}
+	</script>
+
+	<div style="display:none">
+		<div class="b-modal" id="modal_property">
+	
+			<div class="container" style=" width: 711px;">
+				<div class="row">
+					
+					<div class="col-xs-6">
+					    <h5 class="modal-head">Отличная цена</h5>
+					    <div class="modal-text">
+					    	Показатели RealtyHunter online - 98% от запрашиваемой цены клиента, Средни показатель тут нужен нормальный текст
+					    </div>
+
+					    <a href="/lists/list-seller" class="btn btn-choose-packet">Выбрать пакет</a>
+					    <img class="pay-spinner" src="/assets/img/ajax-loader.gif" alt="" style="display: none">
+					</div>
+					<div class="col-xs-6">
+						<img class="woman" src="/assets/img/ok.jpg"/>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+
+		<div class="b-modal" id="modal_callback">
+	
+			<div class="container" style=" width: 530px;">
+				<div class="row">
+					<div class="col-xs-12" style="  text-align: center;">
+						<img class="collback-img" src="/assets/img/callback.png" alt="">
+						<img class="collback-spinner" src="/assets/img/ajax-loader.gif" alt="" style="display: none">
+						<h2 class="callback_head">Мы перезвоним Вам</h2>
+						<input type="text" class="form-control" name="name" placeholder="Ваше имя"/><br>
+						<input type="text" class="form-control" name="phone"  placeholder="Ваш номер телефона"/>
+						<br>						
+						<button id="call_me" class="btn btn-learn-more">Позвоните мне</button>
+					</div>
+				</div>
+			</div>
+			
+		</div>		
+	</div>
+	<div class="img_hack">
+		<img src="/assets/img/1.jpg"/>
+		<img src="/assets/img/2.jpg"/>
+		<img src="/assets/img/3.jpg"/>
+		<img src="/assets/img/4.jpg"/>
+	</div>
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-63684978-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+	
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter30683838 = new Ya.Metrika({id:30683838,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    trackHash:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/30683838" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>
+

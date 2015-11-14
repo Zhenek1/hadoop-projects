@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: commons-pool2-2.3.jar
+Main-Class: myRedisTestMain
+

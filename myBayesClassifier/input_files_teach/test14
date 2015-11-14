@@ -1,0 +1,1359 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+	<title>Агентство НДВ&#058; недвижимость в Москве и Подмосковье, покупка, обмен и продажа недвижимости.</title>
+	<meta name="description" content="Планируете купить недвижимость в Москве и не можете сориентироваться среди разнообразия вариантов? Эксклюзивная база жилья, включающая недвижимость в строящихся домах от ведущих застройщиков на сайте агентства недвижимости в Москве. Агентство НДВ осуществляет все виды операций с недвижимостью и является одним из признанных лидеров среди риэлторских компаний Москвы." />
+	<meta name="keywords" content="недвижимость, база жилья, продажа недвижимости, агентство недвижимости, строящиеся дома, сделки с недвижимостью" />
+	<link href="/css/main.css" rel="stylesheet" type="text/css" />
+	<link href="http://ndv.ru/css/general-style.css" rel="stylesheet" type="text/css" />
+	<link rel="shortcut icon" href="http://www.ndv.ru/pic/design/ndv.ico" >
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+	<script type="text/javascript" src="http://media.ndv.ru/jscripts/inc.general.js"></script>
+	<!-- <script type="text/javascript" src="http://www.ndv.ru/jscripts/jquery.tooltip.js"></script> -->
+	<script type="text/javascript" src="/jscripts/menu-offices.js"></script>
+	<script type="text/javascript" src="/jscripts/jquery.carousellite.js"></script>
+	<script type="text/javascript" src="/jscripts/jquery.url.js"></script>
+	<script type="text/javascript" src="/jscripts/jquery.sliders.js"></script>
+	<script type="text/javascript" src="/jscripts/scripts.js"></script>
+	<script type="text/javascript" src="/jscripts/custom.js"></script>
+	<script src="http://media.ndv.ru/jscripts/ajax.js" type="text/javascript"></script>
+	<script type="text/javascript" src="http://media.ndv.ru/banners/banners.js"></script>
+	<meta name='yandex-verification' content='6c9e863db26068c6' />
+    <meta name='yandex-verification' content='418ea6ec7cb937a7' />
+	<meta name="google-site-verification" content="VZZ1dF0ONvPIbvce66b0b17Ecppshm93Wiswz1Ql0ek" />
+	<!--[if lte IE 6]><script type="text/javascript" src="/jscripts/fixpng.js"></script><link rel="stylesheet" type="text/css" href="/css/main-ie6.css" /><![endif]-->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<script type="text/javascript">
+	$(document).ready(function() {
+		   $("a[rel=fboxrel]").fancybox({
+				   'transitionIn'          : 'none',
+				   'transitionOut'         : 'none',
+				   'titlePosition'         : 'over',
+				   'titleFormat'           : function(title, currentArray, currentIndex, currentOpts) {
+						   return '<span id="fancybox-title-over">Изображение ' + (currentIndex + 1) + ' / ' + currentArray.length + (title.length ? '   ' + title : '') + '</span>';
+				   }
+		   });
+
+		$("a[rel=plansrel]").fancybox({
+			'autoScale'          : false,
+			'hideOnContentClick' : true,
+			'hideOnOverlayClick' : true,
+			'titleShow'          : false,
+			'overlayColor'       : '#fff',
+			'overlayShow'        : true,
+			'transitionIn'       : 'none',
+			'transitionOut'      : 'none',
+			'showNavArrows'      : false
+		});
+		$("a.web-camera").fancybox({
+			'padding' : 0,
+			'autoDimensions' : false,
+			'autoScale' : false,
+			'width' : 704,
+			'height' : 576,
+			'scrolling' : 'no',
+			'transitionIn' : 'none',
+			'transitionOut' : 'none',
+			'type' : 'iframe'
+		});
+	});
+
+	/**
+	 *  Fancybox окно : iframe
+	 *
+	 *  пример вызова : onclick="ShowFancyBoxIframe(this,0,665,700);return false;"
+	 */
+	function ShowFancyBoxIframe(formurl,padding,width,height)
+	{
+		$.fancybox({
+				'autoScale'          : false,
+				'autoDimensions'     : false,
+				'hideOnOverlayClick' : false,
+				'href'               : formurl,
+				'padding'            : padding,
+				'showNavArrows'      : false,
+				'type'               : 'iframe',
+				'titleShow'          : false,
+				'transitionIn'       : 'none',
+				'transitionOut'      : 'none',
+				'width'              : width,
+				'height'             : height
+		});
+	}
+
+	</script>
+
+	<script type="text/javascript" src="/jscripts/jquery-ui-1.8.16.custom.min.js"></script>
+	<!--<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-41216816-1', 'ndv.ru');
+	  ga('send', 'pageview');
+	  //mediapronet
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39615140-1', 'ndv.ru');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+	</script>-->
+	
+</head>
+
+<body class="index-page">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K3PK8M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K3PK8M');</script>
+<!-- End Google Tag Manager -->
+<!--<script type="text/javascript" src="http://track.hubrus.com/pixel?id=16052&type=js"></script>-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter21349495 = new Ya.Metrika({id:21349495,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/21349495" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!--begin All-->
+<div class="wrap1">
+
+	<!--begin Main-->
+	<div class="wrap2">
+	
+		<!--begin Top-->
+		<header>
+		<div class="header">
+		<table class="top">
+			<tr>
+				<td rowspan="2" class="left-block">
+					<div class="inner-block logo-block">
+                    	<a href="/" class="header_logo"></a>
+                    </div>
+				</td>
+				<td class="center-block" colspan="2">
+					<div class="inner-block company-info">
+                      
+						<div class="header_title">Супермаркет недвижимости</div>
+                        
+                  
+                        <div class="header_phone">
+            <table cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr valign="top">
+                <td width="59"><img height="42" width="51" alt="" src="http://zagorodnaya.ndv.ru/pic/design/header-ico-phone.png"></td>
+                <td><div class="header_phone_number"><span class="ndv-phone">+ 7 (495) 988-44-22</span></div>
+                    <div class="header_phone_alltime">круглосуточно</div>
+                    <div class="header_phone_number2">8 (800) 200-44-02</div>
+                    <div class="header_phone_recall"><a class="a_green" title="Услуга «Перезвоните мне»" href="/flib/call_form.php" onclick="ShowFancyBoxIframe(this,0,665,350);return false;">Прошу перезвонить мне</a></div>
+                  </td>
+              
+                <td></td>
+              </tr>
+                   
+            </tbody></table>
+          </div>
+                        
+                       
+          <div class="header_menu">
+            <table cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td width="242">
+<!-- menu offices -->
+<div class="mo" id="mo">
+  <div class="mo_header" id="mo_header" onclick="MoShow(event); return false;" onmouseout="MoShow(event)" ondblclick="location.href='http://www.ndv.ru/o-kompanii/office/'">
+    <a href="http://www.ndv.ru/o-kompanii/office/" class="mo_button"></a>
+    <a href="http://www.ndv.ru/o-kompanii/office/">Офисы «НДВ-Недвижимость»</a>
+  </div>
+  <div class="mo_content" id="mo_content" onmouseout="MoShow(event)">
+    <div class="mo_list">
+	<a href="http://www.ndv.ru/o-kompanii/office/71-about/">Центральный офис, м. Трубная</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/577-about/">Отделение на Кутузовском, м. Киевская</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/585-about/">Отделение на Римской, м. Римская</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/607-about/">Отделение Нагатинское, м. Нагатинская</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/776-about/">Отделение на Красной Пресне, м. Улица 1905 года</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/308-about/">Юго-Западное отделение, м. Академическая</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/80-about/">Северо-Западное отделение, м. Октябрьское Поле</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/79-about/">Юго-Восточное отделение, м. Братиславская</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/77-about/">Центральное отделение, м. Маяковская</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/420-about/">Северо-Восточное отделение, м. ВДНХ</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/416-about/">Отделение на Павелецкой, м. Павелецкая</a>
+    <a href="http://www.ndv.ru/o-kompanii/office/843-about/">Отделение Савёловское, м. Савёловская</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/884-about/">Отделение на Красносельской, м. Красносельская</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/5523-about/">Отделение на Войковской, м. Войковская</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/5527-about/">Отделение на Лермонтовском проспекте</a>
+	<hr>
+	<a href="http://www.ndv.ru/o-kompanii/office/#advof">Дополнительные офисы</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/399-about/">офис продаж на объектах мкр. «Царицыно» и «Царицыно2»</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/432-about/">офис продаж на объектах ЖК «Новокосино» и мкр. «Новокосино-2»</a>
+    <a href="http://www.ndv.ru/o-kompanii/office/5521-about/">офис продаж на объекте ЖК «Планерный»</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/5505-about/">офис продаж на объекте ЖК «Красногорский»</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/5533-about/">офис продаж на объекте ЖК «Ленинградский»</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/926-about/">офис продаж на объекте ЖК «Ромашково»</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/5503-about/">офис продаж на объекте «Re:form»</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/5525-about/">офис продаж на объекте ЖК «Сказка»</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/906-about/">офис продаж на объекте ЖК «О7»</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/780-about/">офис продаж на объекте ЖК «Мосфильмовский»</a>
+	<!--<a href="http://www.ndv.ru/o-kompanii/office/582-about/">офис продаж на объекте ЖК «Новые Вешки»</a>--Ю
+	<!--<a href="http://www.ndv.ru/o-kompanii/office/403-about/">офис продаж на объекте ЖК «Центральный»</a>-->
+	<a href="http://www.ndv.ru/o-kompanii/office/5557-about/">офис продаж на объекте ЖК «Лефорт»</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/5566-about/">офис продаж на объекте ЖК «Терлецкий парк»</a>
+
+	<a href="http://www.ndv.ru/o-kompanii/office/5568-about/">офис продаж на объекте Мытищи Lite</a>
+	<a href="http://www.ndv.ru/o-kompanii/office/5570-about/">офис продаж на объекте ЖК «Хорошевский»</a>
+
+	<a href="http://www.ndv.ru/o-kompanii/office/">Список всех офисов</a>
+    </div>
+  </div>
+</div>
+<!-- /menu offices -->
+                </td>
+                <!--<td style="vertical-align: middle;"><a title="Обратная связь" href="mailto:ndv@ndv.ru"><img style="margin-left:10px;vertical-align:middle;" alt="" src="/pic/design/header-ico-mail.png"></a>  <img src="/pic/design/dotted-sep.gif">  <a href="http://www.ndv-realty.com/">EN</a></td>-->
+              </tr>
+            </tbody></table>
+          </div>
+</div>
+			<!--<div class="inner-block" style="clear: none; margin-left: 0; width: 230px;"><img alt="" src="http://www.ndv.ru/pic/design/block_november_4.png"></div>-->
+<div class="inner-block" style="clear: none; float: right; margin-right: 40px; width: 276px;">
+
+					<a class="map-link iePNG" href="/office_map/">Интерактивная карта строящихся домов и жилых комплексов<br>(Москва и Московская область)</a>
+					</div>
+														</td>
+			</tr>
+			<tr>
+				<!--<td><div class="header_cities">Москва<img alt="" src="/pic/design/dotted-sep.gif"><a target="_blank" href="/flib/go.php?url=http://www.ndv-spb.ru/">Санкт-Петербург</a></div></td>-->
+			</tr>
+		</table>
+		</div>
+           
+		</header>
+		
+
+
+		
+		<!--begin middle-->
+		<table class="middle">
+
+			<tr>
+				
+						<td class="left-block">
+					
+					<div class="page_left">
+					<!--<a style="position: relative;" title="Супермаркет недвижимости" href="/flib/forms.php" onclick="ShowFancyBoxIframe(this,0,665,550);return false;">
+<img width="250" height="95" class="iePNG" alt="" src="/pic/design/realty-market.png">
+</a>-->
+					<!-- блок инет-магазин - перезвони мне -->
+					<!--<div id="inetmag-callme">
+						<div class="callme">	
+							<a title="Услуга - Перезвоните мне"  href="/flib/call_form.php" onclick="ShowFancyBoxIframe(this,0,665,350);return false;" class="callme-a">
+							
+								Услуга<br>
+								<span class="callme-a-strong">Перезвоните мне</span>
+							</a>
+						</div>
+						<div class="inetmag">
+							<a title="Интернет-магазин квартир" href="/internetm/" class="inetmag-a">
+								Интернет-магазин<br>
+								<span class="inetmag-a-strong">Квартир</span>
+							</a>
+						</div>
+					</div>-->
+					<!-- / блок инет-магазин - перезвони мне -->
+<!-- левое меню -->
+<div class="rcb" style="margin-top: 5px;">
+  <a class="rcb-but" href="http://novostroyki.ndv.ru/" title="Новостройки Москвы и Подмосковья"><span class="side-right">от <b>1,7</b> млн руб.</span><span class="side-left"><b style="line-height: 29px;">новостройки</b></span></a>
+</div>
+
+<div class="rcb">
+  <a class="rcb-but" href="http://kupit-kvartiru.ndv.ru/" title="Городская недвижимость"><span class="side-right">от <b>2,5</b> млн руб.</span><span class="side-left"><b>городская</b>недвижимость</span></a>
+</div>
+
+<div class="rcb">
+  <a class="rcb-but" href="http://kommercheskaya.ndv.ru/" title="Коммерческая недвижимость"><span class="side-right">от <b>3,4</b> млн руб.</span><span class="side-left"><b>коммерческая</b>недвижимость</span></a>
+</div>
+
+<div class="rcb">
+  <a class="rcb-but" href="http://zagorodnaya.ndv.ru" title="Загородная недвижимость"><span class="side-right">от <b>1,0</b> млн руб.</span><span class="side-left"><b>загородная</b>недвижимость</span></a>
+</div>
+
+<div class="rcb">
+  <a class="rcb-but" href="http://arenda-kvartir.ndv.ru/" title="Аренда квартир"><span class="side-right" style="padding-left:17px;">от <b>20</b> тыс руб.</span><span class="side-left"><b>аренда</b>квартир</span></a>
+</div>
+
+<div class="rcb" style="margin-bottom:10px;position:relative;">
+  <a class="rcb-but" href="http://ipoteka.ndv.ru/" title="Ипотека и кредиты"><span class="side-left l-pic" style="line-height:30px;"><b>Ипотека и кредиты</b></span></a>
+</div>
+
+<div class="rcb" style="margin-bottom:10px;position:relative;">
+  <a class="rcb-but" href="http://ipoteka.ndv.ru/military_mortgage/" title="Военная ипотека"><span class="side-left l-pic" style="line-height:30px;"><b>Военная ипотека</b></span></a>
+</div>
+<!-- /левое меню -->
+<div style="margin-bottom:10px;position:relative;" class="rcb">
+	<a target="_blank" title="Экспресс-оценка вторичного жилья" href="http://kupit-kvartiru.ndv.ru/flib/express.php" onclick="ShowFancyBoxIframe(this,0,665,700);return false;" class="rcb-but"><span class="side-left l-pic"><b>экспресс-оценка</b>вторичного жилья</span></a>
+</div>
+<div style="margin-bottom:10px;position:relative;" class="rcb">
+	<a target="_blank" title="Взаимозачёт" href="http://kupit-kvartiru.ndv.ru/vzaimozachet/" class="rcb-but"><span class="side-left l-pic"><b>Взаимозачёт</b>-25% на услуги</span></a>
+</div>
+<div style="margin-bottom:10px;position:relative;" class="rcb">
+            <a title="Оставить заявку на услуги" href="/flib/forms.php" onclick="ShowFancyBoxIframe(this,0,665,550);return false;" class="rcb-but"><span style="line-height:30px;" class="side-left l-pic"><b>оставить заявку</b></span></a>
+</div>
+		  
+			<div class="search_head">
+				<div class="gblock_head">
+				  <div class="search_head_title"><a class="a_dec_none" href="/bazy-predlozhenij/">База недвижимости</a></div>
+                                  
+				</div>
+				<div class="search_head_pic"></div>
+			</div>
+			<div class="rcb left_blok_content fast_search">
+				<span>Быстрый поиск</span><br/><br/>
+				<div class="li">  <a href="http://kupit-kvartiru.ndv.ru/odnokomnatnye_kvartiry_v_moskve/">Однушки в Москве от 3 млн руб.</a></div>
+				<div class="li">  <a href="http://kupit-kvartiru.ndv.ru/dvuhkomnatnye_kvartiry_v_moskve/">Двушки в Москве от 5 млн руб.</a></div>
+				<div class="li">  <a href="http://arenda-kvartir.ndv.ru/snyat_odnokomnatnuyu_kvartiru_v_moskve/">Снять однокомнатную квартиру</a></div>
+				<div class="li">  <a href="http://arenda-kvartir.ndv.ru/moskva/po_metro/">Аренда квартир по станциям метро</a></div>
+				<div class="li">  <a href="http://novostroyki.ndv.ru/gotovye-novostrojki/">Готовые квартиры в новостройках</a></div>
+				<div class="li">  <a href="http://novostroyki.ndv.ru/kvartirjy_s_otdelkoi/">Квартиры в новостройках с отделкой</a></div>
+			</div>
+                        <div><a href="http://www.ndv.ru/flib/go.php?url=http://www.heliport-moscow.ru/" target="_blank"><img src="http://www.ndv.ru/pic/design/heliport-button.png" title="Хелипорт Москва" alt="Хелипорт Москва"/></a></div>
+			<div class="search_head">
+							<div class="gblock_head">
+								<div class="search_head_title">Опрос</div>
+							</div>
+							<div class="voite_head_pic"></div>
+						</div>
+						<div class="rcb_voite"><form class="forms" method="post" action="/"><input type="hidden" name="voite_pid" value="262"><p><strong>На каком этапе строительства вы готовы приобрести квартиру в новостройке?</strong></p><table cellpadding="0" cellspacing="0"><tbody><tr><td><label class="label"><input type="radio" name="voite" value="268"><span>&nbsp;</span></label></td><td class="voite_text"><span>установлено ограждение строительной площадки;</span></td></tr><tr><td><label class="label"><input type="radio" name="voite" value="267"><span>&nbsp;</span></label></td><td class="voite_text"><span>идут работы по разработке котлована;</span></td></tr><tr><td><label class="label"><input type="radio" name="voite" value="266"><span>&nbsp;</span></label></td><td class="voite_text"><span>строительно-монтажные работы выполнены на 50%;</span></td></tr><tr><td><label class="label"><input type="radio" name="voite" value="265"><span>&nbsp;</span></label></td><td class="voite_text"><span>строительно-монтажные работы выполнены на 70%;</span></td></tr><tr><td><label class="label"><input type="radio" name="voite" value="264"><span>&nbsp;</span></label></td><td class="voite_text"><span>дом полностью построен, ведутся работы по благоустройству;</span></td></tr><tr><td><label class="label"><input type="radio" name="voite" value="263"><span>&nbsp;</span></label></td><td class="voite_text"><span>дом введен, идет заселение.</span></td></tr><tr><td style="vertical-align: bottom; height: 57px;" colspan="2"><input class="submit send" name="voite_submit" value="Голосовать" type="submit"></td></tr></tbody></table></form></div>
+		</div>
+                            <div class="banners_box" id="banners35"></div>
+					<p> </p>
+					
+
+					
+																				<noindex>					<div class="search_head">
+				<div class="gblock_head">
+				  <div class="search_head_title"><a href="/novosti/" class="a_dec_none">Новости</a></div>
+				</div>
+				<div class="news_head_pic"></div>
+			</div>
+
+					<div class="inner-block news-headivines">
+                                           <ul class="no-dot">
+                                              <li style="background: none;">
+	<div class="event">
+		<div class="header">
+			<div class="h4"><a href="/novosti/opredelena_podryadnaya_orga/"><strong>Определена подрядная организация микрорайона «Мегаполис»</strong></a></div>
+		</div>
+		<p><a href="/novosti/opredelena_podryadnaya_orga/"><img src="http://media.ndv.ru/pic/53/news/37440-prev.jpg" style="float: left; margin: 0 10px 10px 0;" /></a></p><div class="date">25.06.2015</div><p>Подведены итоги конкурса на право заключения государственного контракта на выполнение работ: "Подготовка проекта планировки территории, ограниченной: ул. Большой Косинской, Николая Старостина, ул. Салтыковской, ... <a href="/novosti/opredelena_podryadnaya_orga/">читать</a></p>
+	</div>
+</li><li style="background: none;">
+	<div class="event">
+		<div class="header">
+			<div class="h4"><a href="/novosti/rassrochka_v_16_korpuse_mi_2/"><strong>Рассрочка в 16 корпусе микрорайона «Новокосино-2»</strong></a></div>
+		</div>
+		<p><a href="/novosti/rassrochka_v_16_korpuse_mi_2/"><img src="http://media.ndv.ru/pic/53/news/37434-prev.jpg" style="float: left; margin: 0 10px 10px 0;" /></a></p><div class="date">24.06.2015</div><p>В 16 корпусе микрорайона &laquo;Новокосино-2&raquo; действует рассрочка на покупку квартир. 
+Минимальный первоначальный взнос для рассрочки составляет 30% от цены приобретаемой недвижимости. Беспроцентная ... <a href="/novosti/rassrochka_v_16_korpuse_mi_2/">читать</a></p>
+	</div>
+</li><li style="background: none;">
+	<div class="event">
+		<div class="header">
+			<div class="h4"><a href="/novosti/v_zhk_terletckiji_park_bud/"><strong>В ЖК «Терлецкий парк» будут установлены лифты Otis</strong></a></div>
+		</div>
+		<p><a href="/novosti/v_zhk_terletckiji_park_bud/"><img src="http://media.ndv.ru/pic/53/news/37431-prev.jpg" style="float: left; margin: 0 10px 10px 0;" /></a></p><div class="date">24.06.2015</div><p>Безусловно, приятной новостью для будущих жильцов станет решение компании-застройщика установить во всех жилых домах комплекса современные лифты фирмы Otis. 
+После возобновления строительства, концепция ... <a href="/novosti/v_zhk_terletckiji_park_bud/">читать</a></p>
+	</div>
+</li><li style="background: none;">
+	<div class="event">
+		<div class="header">
+			<div class="h4"><a href="/novosti/zhk_o7_novosti_stroitel/"><strong>ЖК «О7»: новости строительства</strong></a></div>
+		</div>
+		<p><a href="/novosti/zhk_o7_novosti_stroitel/"><img src="http://media.ndv.ru/pic/53/news/37428-prev.jpg" style="float: left; margin: 0 10px 10px 0;" /></a></p><div class="date">24.06.2015</div><p>В Западном округе Москвы, на улице Озерная, продолжается строительство монолитного комплекса бизнес-класса &laquo;О7&raquo;. В настоящий момент, здесь ведутся монолитные и фасадно-отделочные работы.&nbsp; ... <a href="/novosti/zhk_o7_novosti_stroitel/">читать</a></p>
+	</div>
+</li><li style="background: none;">
+	<div class="event">
+		<div class="header">
+			<div class="h4"><a href="/novosti/zhk_mosfilqmovskiji_mono/"><strong>ЖК «Мосфильмовский»: монолитные работы завершены</strong></a></div>
+		</div>
+		<p><a href="/novosti/zhk_mosfilqmovskiji_mono/"><img src="http://media.ndv.ru/pic/53/news/37424-prev.jpg" style="float: left; margin: 0 10px 10px 0;" /></a></p><div class="date">24.06.2015</div><p>В ЖК &laquo;Мосфильмовский&raquo; завершены монолитные работы во всех 7 корпусах комплекса. Корпуса 5 и 6 введены в эксплуатацию, в данный момент в этих домах производится выдача ключей. Многие жильцы ... <a href="/novosti/zhk_mosfilqmovskiji_mono/">читать</a></p>
+	</div>
+</li>
+                                           </ul>
+<div>
+	<span class="white_blok">	
+		<a href="/novosti/">Все новости</a>
+	</span>	
+	<span class="white_blok">
+		<a target="_blank" href="/flib/go.php?url=http://www.twitter.com/ndv_news">Следите за новостями</a>
+		<img src="/pic/201203/1331031727.jpg" class="white_blok_twit" />
+	</span>
+</div>
+</div>
+					</noindex>
+
+					<div class="leftsidebar"></div>					
+				</td>
+
+				
+				<td class="center-block">
+
+
+<div class="inner-block special-offer">
+<div class="banners_box" id="banners11"></div>
+</div>
+					<h1 style="margin-left: 10px;">Продажа недвижимости в Москве и Подмосковье</h1>
+<div class="inner-block realty-search">
+<table class="nav-3">
+<tbody>
+<tr>
+<td><a id="t01" class="active" href="http://novostroyki.ndv.ru/">Новостройки</a></td>
+<td><a id="t03" href="http://kupit-kvartiru.ndv.ru/">Городская недвижимость</a></td>
+<td><a id="t05" href="http://kommercheskaya.ndv.ru/">Коммерческая недвижимость</a></td>
+<td><a id="t04" style="border-right: medium none;" href="http://zagorodnaya.ndv.ru/">Загородная недвижимость</a></td>
+</tr>
+</tbody>
+</table>
+</div><div id="indexbaseajax">
+<p style="margin: 0 20px 10px 0; padding: 0; text-align: right;">&nbsp;</p>
+<table class="offers" cellspacing="0" cellpadding="0" style="text-align: center;">
+<tbody>
+<tr>
+<td style="padding: 0;">
+<span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/3757-about/"><img alt="Мкр. «Красногорский»" src="http://media.ndv.ru/pic/base_novos/3757-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+<div style="position: absolute; top: 0; left: 0;"><a href="http://novostroyki.ndv.ru/baza/3757-about/" style="position: static;" class="marker-discount">Акция</a></div>
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/3757-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/3757-about/" style="color: #000; text-decoration: none;">Мкр. «Красногорский»</a></div>
+<div style="padding-left: 5px;">м.Тушинская,м.Мякинино</br>20 мин. транспортом</br></div>
+<div style="padding-left: 5px;"><a href="http&#058;//ipoteka.ndv.ru/crediti_na_novostroiku/kreditnaya_krasnogorskiy/"> Ипотека от 9 900 р./м</a><br /><a href="http&#058;//novostroyki.ndv.ru/baza/3757-news/?id=50026" class="bold"> Скидка до 5%*!</a></div>
+<div class="status">IV квартал 2015 г.</div>
+<div class="price"><div class="price">от 57 500 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/22875-about/"><img alt="ЖК «Хорошёвский»" src="http://media.ndv.ru/pic/base_novos/22875-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+<div style="position: absolute; top: 0; left: 0;"><a class="marker-new" style="position: static;" href="../../bazy-predlozhenij/novostrojki/22875-about/">New</a></div>
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/22875-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/22875-about/" style="color: #000; text-decoration: none;">ЖК «Хорошёвский»</a></div>
+<div style="padding-left: 5px;">м. Октябрьское поле</div>
+<div style="padding-left: 5px;">7 минут пешком<br />Бизнес-класс<br />Ипотека или рассрочка</div>
+<div class="status">I квартал 2017 г.</div>
+<div class="price"><div class="price">от 163 000 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/2021-about/"><img alt="Мкр. «Новокосино-2»" src="http://media.ndv.ru/pic/base_novos/2021-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+<div style="position: absolute; top: 0; left: 0;"><a href="http://novostroyki.ndv.ru/baza/2021-about/" style="position: static;" class="marker-discount">Акция</a></div>
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/2021-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/2021-about/" style="color: #000; text-decoration: none;">Мкр. «Новокосино-2»</a></div>
+<div style="padding-left: 5px;">м.Новокосино</br>10 мин. пешком</br>Реутов</div>
+<div style="padding-left: 5px;"><a href="http&#058;//novostroyki.ndv.ru/baza/2021-v_nalichii/">Квартиры от 2,8 млн р.</a></div>
+<div class="status">Выдача ключей</div>
+<div class="price"><div class="price">от 82 500 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/6746-about/"><img alt="ЖК «Ленинградский»" src="http://media.ndv.ru/pic/base_novos/6746-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+<div style="position: absolute; top: 0; left: 0;"><a href="http://novostroyki.ndv.ru/baza/6746-about/" style="position: static;" class="marker-discount">Акция</a></div>
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/6746-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/6746-about/" style="color: #000; text-decoration: none;">ЖК «Ленинградский»</a></div>
+<div style="padding-left: 5px;">м.Речной вокзал</br>5 мин. транспортом</br></div>
+<div style="padding-left: 5px;"><!--от 24,35 до 82,65 кв.м<br/>--><a href="http&#058;//novostroyki.ndv.ru/baza/6746-novosti_ob/?id=51294" class="bold"> Скидка до 3%! <br />Рассрочка - 0%</a></div>
+<div class="status">II квартал 2017 г.</div>
+<div class="price"><div class="price">от 81 500 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/23052-about/"><img alt="Мкр. «Мытищи Lite»" src="http://media.ndv.ru/pic/base_novos/23052-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+<div style="position: absolute; top: 0; left: 0;"><a class="marker-new" style="position: static;" href="../../bazy-predlozhenij/novostrojki/23052-about/">New</a></div>
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/23052-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/23052-about/" style="color: #000; text-decoration: none;">Мкр. «Мытищи Lite»</a></div>
+<div style="padding-left: 5px;">м.Медведково</br>6 мин. транспортом</br>Мытищи</div>
+<div style="padding-left: 5px;"><a href="http&#058;//ipoteka.ndv.ru/crediti_na_novostroiku/credit_mitischi/">Ипотека от 14 900 р./м</a></div>
+<div class="status">IV квартал 2016 г.</div>
+<div class="price"><div class="price">от 62 500 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/24526-about/"><img alt="ЖК «Терлецкий парк»" src="http://media.ndv.ru/pic/base_novos/24526-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+<div style="position: absolute; top: 0; left: 0;"><a class="marker-new" style="position: static;" href="../../bazy-predlozhenij/novostrojki/24526-about/">New</a></div>
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/24526-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/24526-about/" style="color: #000; text-decoration: none;">ЖК «Терлецкий парк»</a></div>
+<div style="padding-left: 5px;">м. Перово</div>
+<div style="padding-left: 5px;">15 мин. пешком<br />Вся инфраструктура<br /><a href="http&#058;//ipoteka.ndv.ru/crediti_na_novostroiku/credit_park/">Ипотека от 38 000 р./м</a></div>
+<div class="status">IV квартал 2016 г.</div>
+<div class="price"><div class="price">от 121 500 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/12074-about/"><img alt="ЖК «Ромашково»" src="http://media.ndv.ru/pic/base_novos/12074-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+<div style="position: absolute; top: 0; left: 0;"><a href="http://novostroyki.ndv.ru/baza/12074-about/" style="position: static;" class="marker-discount">Акция</a></div>
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/12074-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/12074-about/" style="color: #000; text-decoration: none;">ЖК «Ромашково»</a></div>
+<div style="padding-left: 5px;">м.Молодёжная</br>3 мин. транспортом</br></div>
+<div style="padding-left: 5px;">Бизнес-класс.<br /><a href="http&#058;//novostroyki.ndv.ru/baza/12074-novosti/?id=48259"><strong>Выгода до 720 т. р!</strong></a></div>
+<div class="status">Собственность</div>
+<div class="price"><div class="price">от 80 000 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/22060-about/"><img alt="ЖК «Лефорт»" src="http://media.ndv.ru/pic/base_novos/22060-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+<div style="position: absolute; top: 0; left: 0;"><a href="http://novostroyki.ndv.ru/baza/22060-about/" style="position: static;" class="marker-discount">Акция</a></div>
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/22060-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/22060-about/" style="color: #000; text-decoration: none;">ЖК «Лефорт»</a></div>
+<div style="padding-left: 5px;">м. Авиамоторная</div>
+<div style="padding-left: 5px;">5 мин. транспортом<br/>Бизнес-класс. Паркинг<br/><a href="http&#058;//novostroyki.ndv.ru/baza/22060-v_nalichii/" class="bold">Скидка до 9%!</a></div>
+<div class="status">II квартал 2016 г.</div>
+<div class="price"><div class="price">от 165 000 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/3740-about/"><img alt="ЖК «Мосфильмовский»" src="http://media.ndv.ru/pic/base_novos/3740-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/3740-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/3740-about/" style="color: #000; text-decoration: none;">ЖК «Мосфильмовский»</a></div>
+<div style="padding-left: 5px;">м. Университет</div>
+<div style="padding-left: 5px;">Бизнес-класс.<br />Квартиры. Машиноместа<br /><a href="http&#058;//ipoteka.ndv.ru/crediti_na_novostroiku/kreditnaya_fa64/">Ипотека от 86 300 р./м</a></div>
+<div class="status">Выдача ключей</div>
+<div class="price"><div class="price">от 248 000 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/9391-about/"><img alt="ЖК «Новокосино»" src="http://media.ndv.ru/pic/base_novos/9391-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/9391-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/9391-about/" style="color: #000; text-decoration: none;">ЖК «Новокосино»</a></div>
+<div style="padding-left: 5px;">м.Новокосино</br>5 мин. пешком</br>Реутов</div>
+<div style="padding-left: 5px;"><a href="http&#058;//ipoteka.ndv.ru/crediti_na_novostroiku/kreditnaya_novokosino/">Ипотека от 29 600 р./м</a></div>
+<div class="status">Выдача ключей</div>
+<div class="price"><div class="price">от 109 000 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/9862-about/"><img alt="ЖК «О7»" src="http://media.ndv.ru/pic/base_novos/9862-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+<div style="position: absolute; top: 0; left: 0;"><a href="http://novostroyki.ndv.ru/baza/9862-about/" style="position: static;" class="marker-discount">Акция</a></div>
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/9862-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/9862-about/" style="color: #000; text-decoration: none;">ЖК «О7»</a></div>
+<div style="padding-left: 5px;">м. Юго-Западная</div>
+<div style="padding-left: 5px;">Квартиры. Машиноместа<br />Бизнес-класс<br /><a href="http&#058;//novostroyki.ndv.ru/baza/9862-novosti/?id=48805">Скидка до 10%!</a></div>
+<div class="status">IV квартал 2015 г.</div>
+<div class="price"><div class="price">от 185 000 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/3741-about/"><img alt="ЖК «Планерный»" src="http://media.ndv.ru/pic/base_novos/3741-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+<div style="position: absolute; top: 0; left: 0;"><a href="http://novostroyki.ndv.ru/baza/3741-about/" style="position: static;" class="marker-discount">Акция</a></div>
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/3741-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/3741-about/" style="color: #000; text-decoration: none;">ЖК «Планерный»</a></div>
+<div style="padding-left: 5px;">м.Планерная</br>8 мин. транспортом</br>Химки</div>
+<div style="padding-left: 5px;"><a href="http&#058;//novostroyki.ndv.ru/baza/3741-news/?id=46980" class="bold"> Скидка до 5%!</a></div>
+<div class="status">III квартал 2016 г.</div>
+<div class="price"><div class="price">от 104 500 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/15218-about/"><img alt="«Re&#058;form»" src="http://media.ndv.ru/pic/base_novos/15218-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ 
+<div style="position: absolute; top: 0; left: 0;"><a href="http://novostroyki.ndv.ru/baza/15218-about/" style="position: static;" class="marker-discount">Акция</a></div>
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/15218-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/15218-about/" style="color: #000; text-decoration: none;">«Re&#058;form»</a></div>
+<div style="padding-left: 5px;">м. Преображенская площадь</div>
+<div style="padding-left: 5px;">350 метров до метро.<br /><a class="bold" href="http&#058;//novostroyki.ndv.ru/baza/15218-news/?id=48896">Выгода до 3 млн р.</a></div>
+<div class="status">IV квартал 2015 г.</div>
+<div class="price"><div class="price">от 159 000 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/21201-about/"><img alt="ЖК «Дом на Самаринской»" src="http://media.ndv.ru/pic/base_novos/21201-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ 
+
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/21201-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/21201-about/" style="color: #000; text-decoration: none;">ЖК «Дом на Самаринской»</a></div>
+<div style="padding-left: 5px;">м. Тульская</div>
+<div style="padding-left: 5px;">500 метров до метро<br />Бизнес-класс. Паркинг</div>
+<div class="status">IV квартал 2015 г.</div>
+<div class="price"><div class="price">от 249 000 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/19518-about/"><img alt="ЖК  «Сказка»" src="http://media.ndv.ru/pic/base_novos/19518-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/19518-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/19518-about/" style="color: #000; text-decoration: none;">ЖК  «Сказка»</a></div>
+<div style="padding-left: 5px;">м.Строгино</br>17 мин. транспортом</br>Павловская Слобода</div>
+<div style="padding-left: 5px;">Новорижское шоссе</div>
+<div class="status">IV квартал 2016 г.</div>
+<div class="price"><div class="price">от 70 000 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/15427-about/"><img alt="Мкр. «Мегаполис»" src="http://media.ndv.ru/pic/base_novos/15427-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ 
+<div style="position: absolute; top: 0; left: 0;"><a class="marker-new" style="position: static;" href="../../bazy-predlozhenij/novostrojki/15427-about/">New</a></div>
+<div class="vnalichii"><a style="width: 80px" href="http://novostroyki.ndv.ru/baza/15427-list_ozhida/" class="marker-saller">Старт продаж - декабрь!</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/15427-about/" style="color: #000; text-decoration: none;">Мкр. «Мегаполис»</a></div>
+<div style="padding-left: 5px;">м. Новокосино</div>
+<div style="padding-left: 5px;">5 мин. транспортом.<br />Продажи по ДДУ<br />Вся инфраструктура.<br /><a href="http&#058;//novostroyki.ndv.ru/baza/15427-list_ozhida/">Лист ожидания</a><br /></div>
+<div class="status"></div>
+<div class="price"><div class="price">от 115 000 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/8425-about/"><img alt="Мкр. «Царицыно-2»" src="http://media.ndv.ru/pic/base_novos/8425-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/8425-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/8425-about/" style="color: #000; text-decoration: none;">Мкр. «Царицыно-2»</a></div>
+<div style="padding-left: 5px;">м. Царицыно</div>
+<div style="padding-left: 5px;">7 мин. транспортом<br /><!--Вся инфраструктура<br />-->Вся инфраструктура<br />Продажи по 214-ФЗ!</a></div>
+<div class="status">IV квартал 2015 г.</div>
+<div class="price"><div class="price">от 109 000 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/1375-about/"><img alt="Мкр. «Царицыно»" src="http://media.ndv.ru/pic/base_novos/1375-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ <div class="picweb" style="position: absolute; top: 0; right: 0;"><img src="/pic/design/picweb.png"/></div>
+
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/1375-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/1375-about/" style="color: #000; text-decoration: none;">Мкр. «Царицыно»</a></div>
+<div style="padding-left: 5px;">м. Царицыно</div>
+<div style="padding-left: 5px;">Вся инфраструктура.<br />Квартиры с отделкой.<br />Машиноместа</a></div>
+<div class="status">Собственность</div>
+<div class="price"><div class="price">от 156 000 руб./м&#178;</div></div>
+</div>
+</div><span style="display: none;">&nbsp;</span>
+<div class="main_block">
+<div class="elem shadow-radius">
+<div style="position: relative;"><a href="http://novostroyki.ndv.ru/baza/2491-about/"><img alt="ЖК «Новые Вешки»" src="http://media.ndv.ru/pic/base_novos/2491-indexlist.jpg" style="width: 132px; height: 116px;"></a>
+ 
+
+<div class="vnalichii"><a href="http://novostroyki.ndv.ru/baza/2491-v_nalichii/" class="marker-saller">В наличии</a></div>
+    
+</div>
+     
+<div style="padding-left: 5px;"><a href="http://novostroyki.ndv.ru/baza/2491-about/" style="color: #000; text-decoration: none;">ЖК «Новые Вешки»</a></div>
+<div style="padding-left: 5px;">м.Алтуфьево 2 км от МКАД</br>Пос. Вешки</div>
+<div style="padding-left: 5px;">Бизнес-класс</div>
+<div class="status">Выдача ключей</div>
+<div class="price"><div class="price">от 157 500 руб./м&#178;</div></div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<span class="white_blok float-right"><a href="http://novostroyki.ndv.ru/">Посмотреть все новостройки</a></span> <span class="white_blok"><a onclick="ShowFancyBoxIframe(this,0,665,550);return false;" href="../../flib/forms.php">Отправить запрос на подбор</a><img class="iePNG white_blok_img" src="http://ndv.ru/pic/design/pismo.png" alt="письмо" width="13" height="9" /></span> 
+</div><div class="inner-block news-block">
+<table class="nav-4">
+<tbody>
+<tr>
+<td class="first">
+<div class="nav-4-border border"><a id="n02" class="green_block" href="#">Полезные статьи</a></div>
+</td>
+<td>
+<div class="nav-4-border border"><a id="n03" class="green_block active" href="#">Наши преимущества</a></div>
+</td>
+<td>
+<div class="nav-4-border border"><a id="n04" class="green_block" href="#">Пресс-центр</a></div>
+</td>
+<td>
+<div class="nav-4-border border"><a id="n05" class="green_block" style="border-right: medium none;" href="#">Аналитика<br />рынка недвижимости</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<div id="rnews" class="news-headlines"><!-- Полезные статьи -->
+<div id="news-block-n02" class="news-block" style="display: none;"><li>
+<div class="event">
+<div class="header">
+<div class="date">02.06.2015</div>
+<h4><a href="/poleznjye_s/dostichq_balansa_skolqko/">Достичь баланса: сколько этажей нужно успешному ТЦ?</a></h4>
+</div>
+<p>На этапе проектирования &ndash; с учетом площади земельного участка и уровня обеспеченности жителей торговыми объектами, определяется будущий объем застройки и высота ТЦ.&nbsp; Девелоперу очень важно достичь...</p>
+</div>
+</li><li>
+<div class="event">
+<div class="header">
+<div class="date">17.04.2015</div>
+<h4><a href="/poleznjye_s/sam_sebe_rijeltor_pochemu_2/">Сам себе риэлтор: почему не стоит надеяться на интернет-базы по недвижимости?</a></h4>
+</div>
+<p>В последнее время широко рекламируются различные интернет-базы. Информация подается так, что у людей возникают иллюзии насчет продажи квартир. Кажется, что достаточно выгрузить свое объявление на ресурсе,...</p>
+</div>
+</li><li>
+<div class="event">
+<div class="header">
+<div class="date">05.12.2014</div>
+<h4><a href="/poleznjye_s/bolee_polovinjy_zayemschikov/">Более половины заёмщиков погашают кредит в два раза быстрее</a></h4>
+</div>
+<p>Мало кто выплачивает кредит в срок, указанный в договоре. В большинстве своём люди стараются погасить задолженность досрочно, чтобы как можно быстрее избавиться от кредитного бремени или снизить размер...</p>
+</div>
+</li><li>
+<div class="event">
+<div class="header">
+<div class="date">26.09.2014</div>
+<h4><a href="/poleznjye_s/stolq_raznjyji_kredit_pod_z/">Столь разный кредит под залог недвижимости…</a></h4>
+</div>
+<p>Недвижимость – этот ценный актив, который можно с выгодой использовать. Вариантов немало: сдать в аренду, обменять по взаимозачету*, взять кредит. Банки готовы предоставлять заемщикам до 80-85% от стоимости...</p>
+</div>
+</li>
+<p><a class="link-4" href="../../poleznjye_s/"><strong>Полный список</strong></a></p>
+</div>
+<!-- / Полезные статьи --> <!-- Наши преимущества -->
+<div id="news-block-n03" class="news-block">
+<div class="starting">
+<h2>«НДВ-Недвижимость — это надёжно!»</h2>
+<p>За 15 лет работы на рынке, наша компания неоднократно признавалась лучшей на рынке недвижимости, как среди покупателей, так и в профессиональных кругах.</p>
+<p>В 2015 году агентство недвижимости «НДВ» уже в пятый раз было названо «Риэлтором №1». Из года в год наши новостройки становятся обладателем престижной премии «Рекорды рынка недвижимости».</p>
+<p>Объекты, реализуемые компанией «НДВ-Недвижимость», также неоднократно становились обладателями престижной премии TREFI.</p>
+<p>В 2014 и 2012 годах компания была признана «Маркой №1 в России».</p>
+<p>По итогам 2011 года агентство «НДВ-Недвижимость» вошло в десятку лидеров европейского рейтинга эффективности маркетинговых стратегий EFFIE Worldwide.</p>
+<p>Благодаря высокому уровню услуг наша компания дважды становилась лауреатом премии «Компания года» (РБК). Победа присвоена в номинациях «Репутация и доверие» (2010 год), «Риэлторские услуги» (2011 год).</p>
+<p>В 2010 году «НДВ-Недвижимость» стала обладателем премии «Бренд года/Effie-2010» от российского бизнес-сообщества в номинации «Строительство и недвижимость».</p>
+<p>В 2009 году Генеральный директор компании Александр Хрусталев стал Лауреатом премии «Персона года» от РБК в номинации «За успешную реализацию комплекса антикризисных мер на рынке жилья».</p>
+<p>Агентство «НДВ-Недвижимость» активно принимает участие в ведущих российских и зарубежных выставках и форумах, таких, как «Домэкспо», Expo Real (Германия), MIPIM (Франция), MIPIM-Asia и других.</p>
+<p>«НДВ-Недвижимость» — лидер по реализации новостроек в Москве и Подмосковье. Наши преимущества - многолетний опыт работы на рынке, обширная сеть офисов и филиалов, наличие собственной базы квартир. Все офисы агентства недвижимости работают в соответствии с концепцией «Супермаркет недвижимости», что подразумевает большой выбор квартир и полный спектр риэлторских услуг по направлениям: новостройки, вторичное жильё, взаимозачёт, коммерческая недвижимость, аренда, ипотека и кредиты, страхование. Специалисты компании проводят презентации новостроек, рассказывают об их конкурентных преимуществах, участниках строительства, ценах на жилье в этих объектах, сроках сдачи в эксплуатацию и наличии ипотечных программ. Особенностью работы компании является ориентированность на клиента и высокий уровень сервиса. Среди партнёров компании — только крупные и надёжные строительные организации, долгое время работающие на рынке недвижимости в Москве и регионах России.</p>
+<p style="text-align: justify;"> </p>
+<table style="margin-top: 0pt; margin-bottom: 0pt; height: 200px; width: 100%; text-align: center;" border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td style="height: 93px;" align="center" width="33%"><img style="border: none 0px; float: none;" title="Рекорды рынка недвижимости - Риэлтор года № 1" src="http://www.ndv.ru/pic/design/recordsrn_realtor_2014_glavnaya.png" alt="Рекорды рынка недвижимости - Риэлтор года № 1" width="120" height="120" /></td>
+<td style="height: 93px;" align="center" width="33%"><img style="border: none 0px; float: none;" src="http://www.ndv.ru/pic/201111/1322665603-full.jpg" alt="" width="93" height="79" /></td>
+<td style="height: 93px;" align="center" width="33%"><img style="border: none 0px; float: none;" src="http://www.ndv.ru/pic/201111/1322669728.png" alt="" width="84" height="79" /></td>
+</tr>
+<tr>
+<td style="padding: 10px;" align="center" valign="top">
+<p style="text-align: center;">Компания «НДВ-Недвижимость» в 2015 году уже в пятый раз была названа «Риэлтором №1». Из года в год объекты компании становится обладателем престижной премии «Рекорды рынка недвижимости»</p>
+</td>
+<td style="padding: 10px;" align="center" valign="top">
+<p style="text-align: center;">Лауреатом премии «Персона года» от РБК в 2009 году стал Генеральный директор компании Александр Хрусталев в номинации «За успешную реализацию комплекса антикризисных мер на рынке жилья»</p>
+</td>
+<td style="padding: 10px;" align="center" valign="top">
+<p style="text-align: center;">Компания «НДВ» вошла в первую десятку европейского рейтинга эффективности маркетинговых стратегий EFFIE Worldwide</p>
+</td>
+</tr>
+<tr>
+<td style="height: 10px; text-align: center;"> </td>
+<td style="height: 10px;"> </td>
+<td style="height: 10px;"> </td>
+</tr>
+<tr>
+<td style="height: 93px;" align="center" width="33%"><img style="border: none 0px; float: none;" src="http://www.ndv.ru/pic/201112/1323081199.png" alt="" width="75" height="75" /></td>
+<td style="height: 93px;" align="center" width="33%"><img style="border: none 0px; float: none;" src="http://www.ndv.ru/pic/201210/1350978247.png" alt="" width="77" height="77" /></td>
+<td style="height: 93px;" align="center" width="33%"><img style="border: none 0px; float: none;" src="http://ndv.ru/pic/design/trefi-logo.png" alt="" width="93" height="76" /></td>
+</tr>
+<tr>
+<td style="padding: 10px;" align="center" valign="top">
+<p style="text-align: center;">Благодаря высокому уровню услуг «НДВ-Недвижимость» дважды становилась лауреатом премии «Компания года» (РБК). Победа присвоена в номинациях «Репутация и доверие» (2010 год), «Риэлторские услуги» (2011 год)</p>
+</td>
+<td style="padding: 10px;" align="center" valign="top">
+<p style="text-align: center;">В 2010 году «НДВ-Недвижимость» стала обладателем премии «Бренд года/Effie-2010» от российского бизнес-сообщества в номинации «Строительство и недвижимость»</p>
+</td>
+<td style="padding: 10px;" align="center" valign="top">
+<p style="text-align: center;">Проекты, которые представляет «НДВ-Недвижимость», неоднократно становились победителями международной премии рынка недвижимости и финансов TREFI</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Среди компаний, которые доверяют «НДВ» и выбрали агентство в качестве своего делового партнера: ОАО «Сбербанк России», ОАО «Газпромбанк», ОАО «Возрождение», «ТрансКапиталБанк» (ОАО), ВТБ 24 (ЗАО), ООО «РОСАВТОБАНК», ЗАО «КБ ДельтаКредит», ЗАО «ЮниКредит Банк», АКБ «Инвестторгбанк» (ОАО) и другие. Благодаря сотрудничеству с банками клиенты «НДВ» получают ипотечные кредиты на льготных условиях.</p>
+<p>Комплекс услуг компании «НДВ» дает каждому клиенту возможность продать или купить квартиру легко и выгодно.</p>
+<ul>
+<li>Взаимозачет – продажа старой квартиры в счет приобретения новой.</li>
+<li>Экспертная оценка жилья.</li>
+<li><a style="color: #800000;" href="http://kupit-kvartiru.ndv.ru/prodat/srochnij_vikup/">Срочный выкуп недвижимости – до 90 % от рыночной стоимости!</a></li>
+<li>Комплексное сопровождение – подготовка документов, юридическая поддержка.</li>
+<li>Регистрация права собственности.</li>
+<li>Ипотека – всегда лучшие условия по кредитованию.</li>
+</ul>
+<p>Московское агентство недвижимости «НДВ»: получайте желаемое!</p>
+</div>
+</div>
+<!-- / наши преимущества --> <!-- Пресс центр -->
+<div id="news-block-n04" class="news-block" style="display: none;"><li>
+<div class="event">
+<div class="header">
+<div class="date">24.06.2015</div>
+<h4><a href="/press_centr/pressa_o_nas/aleksandr_hrustalev_nuzh/">Александр Хрусталев: «Нужно, чтобы на рынок вернулись спекулянты»</a></h4>
+</div>
+<p>Кризиса на рынке недвижимости нет, а ценовое дно уже пройдено &mdash; об этом в большом интервью &laquo;РБК-Недвижимости&raquo; рассказывает председатель совета директоров &laquo;НДВ Групп&raquo; Александр...</p>
+</div>
+</li><li>
+<div class="event">
+<div class="header">
+<div class="date">26.05.2015</div>
+<h4><a href="/press_centr/pressa_o_nas/kristina_shulqgina_vryad/">Кристина Шульгина: «Вряд ли мы увидим новые рекорды по кредитованию»</a></h4>
+</div>
+<p>
+Ипотека, как известно,&nbsp;&mdash; главный двигатель спроса на&nbsp;недвижимость, в&nbsp;частности, на&nbsp;квартиры. Но&nbsp;что будет с&nbsp;ней? В&nbsp;прошлом году мы&nbsp;наблюдали в&nbsp;этой...</p>
+</div>
+</li><li>
+<div class="event">
+<div class="header">
+<div class="date">22.04.2015</div>
+<h4><a href="/press_centr/pressa_o_nas/ndv_grupp_predstavit_na_M/">«НДВ Групп» представит на MIPIM Japan компанию NDV Global</a></h4>
+</div>
+<p>"НДВ Групп" представит на выставке MIPIM Japan компанию NDV Global, рассказал РИА Новости глава группы Александр Хрусталев."На MIPIM Japan мы представим компанию NDV Global. Сейчас я собираю действительно...</p>
+</div>
+</li><li>
+<div class="event">
+<div class="header">
+<div class="date">22.04.2015</div>
+<h4><a href="/press_centr/pressa_o_nas/stoimostq_arendjy_kvartir/">Стоимость аренды квартир в Москве падает</a></h4>
+</div>
+<p>За год (с весны 2014 г. до весны 2015 г.) объем предложения на столичном рынке аренды жилья вырос на 24%, а цены на аренду снизились на 10-30%.&nbsp;Таковы выводы экспертов компании &laquo;НДВ-Недвижимость&raquo;....</p>
+</div>
+</li>
+<p><a class="link-4" href="../../press_centr/pressa_o_nas/"><strong>Полный список</strong></a></p>
+</div>
+<!-- / пресс центр --> <!-- аналитика рынка недвижимости -->
+<div id="news-block-n05" class="news-block" style="display: none;"><li ondragstart="return false" oncopy="return false" onselectstart="return false" oncontextmenu="return false">
+<div class="event">
+<div class="header">
+<div class="date">22.06.2015</div>
+<h4><a href="/o-kompanii/analist/srednyaya_stoimostq_vtorichn/">Средняя стоимость вторичной недвижимости в рублях практически не изменилась</a></h4>
+</div>
+<p><img src="http://media.ndv.ru/pic/53/news/37388-prev.jpg" style="float: left; margin: 0 10px 10px 0;" />1.ПРЕДЛОЖЕНИЕ. ХАРАКТЕРИСТИКА РЫНКА
+В мае, несмотря на праздничные дни, объем предложения квартир на московском рынке вторичного жилья продолжал расти. По-прежнему сильнее всего на изменение показателя влияет увеличение сроков экспозиции квартир. Так, относительно апреля отмечен рост на 5%. (см. График 1)
+График 1
+
+2.СПРОС
+Май традиционно считается началом периода снижения деловой активности на...<a href="/o-kompanii/analist/srednyaya_stoimostq_vtorichn/">подробнее</a></p>
+</div>
+</li><li ondragstart="return false" oncopy="return false" onselectstart="return false" oncontextmenu="return false">
+<div class="event">
+<div class="header">
+<div class="date">19.06.2015</div>
+<h4><a href="/o-kompanii/analist/na_rjynke_novostroek_novoji_2/">На рынке новостроек Новой Москвы отмечена разнонаправленная ценовая динамика</a></h4>
+</div>
+<p><img src="http://media.ndv.ru/pic/53/news/37380-prev.jpg" style="float: left; margin: 0 10px 10px 0;" />1.ПРЕДЛОЖЕНИЕ. ХАРАКТЕРИСТИКА РЫНКА
+Объем предложения новостроек на территории Новой Москвы в мае относительно апреля снизился на 1,4%. Отрицательная динамика показателя, по мнению аналитиков компании &laquo;НДВ-Недвижимость&raquo;, вызвана незначительным превышением проданных корпусов над вышедшими в продажу. В мае началась реализация трех новых корпусов в уже известных проектах класса эконом и комфорт,...<a href="/o-kompanii/analist/na_rjynke_novostroek_novoji_2/">подробнее</a></p>
+</div>
+</li><li ondragstart="return false" oncopy="return false" onselectstart="return false" oncontextmenu="return false">
+<div class="event">
+<div class="header">
+<div class="date">14.05.2015</div>
+<h4><a href="/o-kompanii/analist/moskovskie_novostrojiki_kl/">Московские новостройки классов «эконом»  и «комфорт» увеличились в цене</a></h4>
+</div>
+<p><img src="http://media.ndv.ru/pic/53/news/36972-prev.jpg" style="float: left; margin: 0 10px 10px 0;" />1.ПРЕДЛОЖЕНИЕ. ХАРАКТЕРИСТИКА РЫНКА
+В апреле на 3% увеличилось предложение новостроек на рынке первичного жилья в границах Старой Москвы. В течение месяца в реализацию вышло 14 корпусов как в рамках новых, так и в рамках уже известных проектов. В рамках апарт-комплексов корпуса вышли преимущественно в рамках бизнес-класса. В рамках жилых проектов &ndash; преимущественно в эконом-классе. По итогам...<a href="/o-kompanii/analist/moskovskie_novostrojiki_kl/">подробнее</a></p>
+</div>
+</li><li ondragstart="return false" oncopy="return false" onselectstart="return false" oncontextmenu="return false">
+<div class="event">
+<div class="header">
+<div class="date">13.05.2015</div>
+<h4><a href="/o-kompanii/analist/srednyaya_stoimostq_kvadrat_3/">Средняя стоимость квадратного метра в новостройках Новой Москвы увеличилась на 0,3%</a></h4>
+</div>
+<p><img src="http://media.ndv.ru/pic/53/news/36957-prev.jpg" style="float: left; margin: 0 10px 10px 0;" />1.ПРЕДЛОЖЕНИЕ. ХАРАКТЕРИСТИКА РЫНКА
+В апреле на рынке новостроек Новой Москвы суммарный объем предложения незначительно сократился. Изменение показателя составило порядка 0,3%. По мнению аналитиков компании &laquo;НДВ-Недвижимость&raquo;, снижение было вызвано незначительным превышением проданных корпусов над теми, что вышли в продажу. При этом в апреле, помимо корпусов в уже известных проектах, на...<a href="/o-kompanii/analist/srednyaya_stoimostq_kvadrat_3/">подробнее</a></p>
+</div>
+</li>
+<p><a class="link-4" href="../../o-kompanii/analist/"><strong>Полный список</strong></a></p>
+</div>
+<!-- /аналитика рынка недвижимости --></div>
+</div>
+				</td>
+				
+							<td class="right-block">
+								
+					<div class="inner-block">
+							<div class="o_ndv_head">
+								<div class="o_ndv_gblock_head">
+								  <div class="o_ndv_head_title">НДВ-Недвижимость</div>
+								</div>
+								<div class="o_ndv_head_pic"></div>
+							</div>
+					<img src="http://www.ndv.ru/pic/201210/1350390456.jpg" style="margin-top: -8px; padding-left: 138px;" />
+
+<p class="gray-descript">За 15 лет работы, «НДВ-Недвижимость» неоднократно признавалась лучшей на рынке недвижимости. По итогам 2014 года компания «НДВ-Недвижимость» была названа «Маркой №1 в России», а в 2015 году уже в пятый раз была удостоена премии «Рекорды Рынка» в номинации «Риэлтор №1». Из года в год объекты компании становятся обладателями престижной премии Московского бизнес клуба, кроме того проекты, которые представляет «НДВ-Недвижимость» неоднократно становились победителями TREFI. По итогам 2011 года «НДВ-Недвижимость» вошла в десятку лидеров европейского рейтинга эффективности маркетинговых стратегий EFFIE Worldwide.</p><br/>
+
+
+<div class="white_blok white_blok_width"><a href="/o-kompanii/">Узнайте о нас больше</a></div>
+<div class="white_blok white_blok_width"><a href="/o-kompanii/otzjyvjy_clients/">Отзывы клиентов</a></div>
+<div class="white_blok white_blok_width"><a href="/informatcionnie_stranicy/ndv_brend/">НДВ - «Марка №1» в России</a></div>
+<div class="white_blok white_blok_width"><a href="/o-kompanii/meropriyatiya/">Наши мероприятия</a></div>
+<div class="white_blok white_blok_width"><a href="/o-kompanii/vakansii/">Карьера в «НДВ»</a></div>
+<p> </p>
+</div>
+<!-- Раздел «Партнерам» -->
+<div style="clear:both;">
+	<div class="search_head">
+		<div class="gblock_head">
+			<div class="search_head_title"><a class="a_dec_none" href="/partneram/">Партнерам</a></div>
+		</div>
+		<div class="partner_head_pic" style="top: -10px;"></div>
+	</div>
+	<div class="rcb left_blok_content inner-block">
+		<div class="li">
+			 <a href="/partneram/konsalting/">Консалтинг</a>
+		</div>	
+		<div class="li">	
+			 <a href="/partneram/realizatciya/">Реализация</a>
+		</div>
+		<div class="li">
+			 <a href="/partneram/investitcii/">Инвестиции</a>
+		</div>
+		<div class="li">
+			 <a href="/partneram/informacija-o-skidkah/">Аналитика</a>
+		</div>
+		<a href="/flib/podpiska_analitica.php" onclick="ShowFancyBoxIframe(this,0,665,330);return false;" class="podpiska_analitica_link">Подписаться на аналитику</a>
+	</div>
+</div>
+<!-- /Раздел «Партнерам» -->
+<!-- Раздел «Пресс-центр» -->
+
+<div class="o_ndv_head_container">
+	<div class="o_ndv_head">
+		<div class="gblock_head">
+		  <div class="o_ndv_head_title"><a class="a_dec_none" href="/press_centr/">Пресс-центр</a></div>
+		</div>
+		<div class="news_head_pic"></div>
+	</div>
+</div>		
+<div class="rcb left_blok_content inner-block" style="margin-bottom:0;">
+		<a href="/press_centr/">Пресс-центр</a><br/><br/>
+	<div class="li">
+		 <a href="/press_centr/tv_o_nas/">Видео о нас(TV)</a>
+	</div>
+	<div class="li">
+		 <a href="/press_centr/radio_o_nas/">Радио о нас</a>
+	</div>
+	<div class="li">
+		 <a href="/press_centr/pressa_o_nas/">Пресса о нас</a>
+	</div>
+</div>
+<noindex><div style=""><span style="padding-top: 22px; display: block; width: 90px; float: left;">Мы в соц. сетях: </span>
+<a href="http://www.ndv.ru/flib/go.php?url=http://vk.com/club_ndv_realty" rel="nofollow" target="_blank"><img style="margin:10px 0 10px 10px;" src="http://ndv.ru/pic/design/social-icon-vk.png"></a>
+<a href="http://www.ndv.ru/flib/go.php?url=http://twitter.com/ndv_news" rel="nofollow" target="_blank"><img style="margin:10px 0 10px 10px;" src="http://ndv.ru/pic/design/social-icon-twitter.png"></a>
+<a href="http://www.ndv.ru/flib/go.php?url=http://www.facebook.com/ndvrealty" rel="nofollow" target="_blank"><img style="margin:10px 0 10px 10px;" src="http://ndv.ru/pic/design/social-icon-facebook.png"></a>
+</div></noindex>
+
+<!-- / Раздел «Пресс-центр» -->
+
+
+					<div class="o_ndv_head_container">
+							<div class="o_ndv_head">
+								<div class="o_ndv_gblock_head">
+								  <div class="o_ndv_head_title">Риэлторские услуги</div>
+								</div>
+								<div class="rieltor_head_pic"></div>
+							</div>
+</div>
+<div class="rcb inner-block left_blok_content">
+	<a href="http://kupit-kvartiru.ndv.ru/ceny_na_rijeltorskie_uslugi/" class="rielt-price">Цены на риэлторские услуги</a>
+	<div class="line"><!-- линия --></div>
+	<a href="/kupitq_ned/">Купить</a><br/><br/>
+	<div class="li">
+		  <a title="Купить новостройку" href="http://novostroyki.ndv.ru/">Новостройки</a>
+	</div> 
+	<div style="width: 230px;" class="li">
+		  <a href="http://kupit-kvartiru.ndv.ru/">Квартиры в Москве</a></div>
+	<div class="li">
+		  <a href="http://zagorodnaya.ndv.ru/">Коттедж, таунхаус, участок</a>
+	</div>
+	<div class="li">
+		  <a href="http://kommercheskaya.ndv.ru/">Офисы, торговые площади</a>
+	</div>
+	<div class="line"><!-- линия --></div>
+	<a title="Продать недвижимость: квартиру или комнату" href="http://kupit-kvartiru.ndv.ru/prodat/">Продать</a>
+	<div class="line"><!-- линия --></div>
+	<a title="Обменять недвижимость: квартиру или комнату, коттедж" href="http://kupit-kvartiru.ndv.ru/obmen/">Обменять</a>
+	<div class="line"><!-- линия --></div>
+	<a href="http://arenda-kvartir.ndv.ru/">Сдать / Снять</a>
+	<div class="line"><!-- линия --></div>
+	<a href="http://ipoteka.ndv.ru/">Ипотека и кредиты</a>
+	<div class="line"><!-- линия --></div>
+	<a title="Преимущества схемы взаимозачета" href="http://kupit-kvartiru.ndv.ru/vzaimozachet/">Взаимозачет</a>
+	<div class="line"><!-- линия --></div>
+	<a title="Срочный выкуп квартир" href="http://kupit-kvartiru.ndv.ru/prodat/srochnij_vikup/">Срочный выкуп</a>
+	<div class="line"><!-- линия --></div>
+	<a href="http://www.ndv.ru/flib/go.php?url=http://www.ndv-proekt.ru" target="_blank">Заказать дизайн-проект</a>
+</div>
+
+<!-- Раздел «Лоялити» -->
+<div class="o_ndv_head_container">
+	<div class="o_ndv_head">
+		<div class="gblock_head">
+		  <div class="o_ndv_head_title"><a class="a_dec_none" href="http://www.ndv.ru/flib/go.php?url=http://loyalty.ndv.ru/">Программа лояльности</a></div>
+		</div>
+		<div class="loyalty_head_pic"></div>
+	</div>
+</div>		
+<div class="rcb left_blok_content inner-block">
+	<div class="li">
+        <a title="" href="http://www.ndv.ru/flib/go.php?url=http://loyalty.ndv.ru/">О программе</a>
+	</div> 
+	<div class="li">
+		 <a href="http://www.ndv.ru/flib/go.php?url=http://loyalty.ndv.ru/vstupit_v_klub/">Как вступить?</a>
+	</div>
+	<div class="li">
+		 <a href="http://www.ndv.ru/flib/go.php?url=http://loyalty.ndv.ru/partners/">Партнеры программы</a>
+	</div>
+</div>
+<!-- / Раздел «Лоялити» -->
+<div class="inner-block">
+	<div class="o_ndv_head">
+		<div class="gblock_head">
+			<div class="search_head_title"><a href="/o-kompanii/analist/" class="a_dec_none">Статьи и аналитика</a></div>
+                      
+		</div>
+		<div class="statistic_head_pic"></div>
+	</div>	
+<div class="news-headivines">
+<ul class="no-dot">
+<li><div class="event"><div class="header"><div class="date">22.06.2015</div><div class="h4"><a href="/o-kompanii/analist/srednyaya_stoimostq_vtorichn/">Средняя стоимость вторичной недвижимости в рублях практически не изменилась</a></div></div></div></li><li><div class="event"><div class="header"><div class="date">19.06.2015</div><div class="h4"><a href="/o-kompanii/analist/na_rjynke_novostroek_novoji_2/">На рынке новостроек Новой Москвы отмечена разнонаправленная ценовая динамика</a></div></div></div></li><li><div class="event"><div class="header"><div class="date">14.05.2015</div><div class="h4"><a href="/o-kompanii/analist/moskovskie_novostrojiki_kl/">Московские новостройки классов «эконом»  и «комфорт» увеличились в цене</a></div></div></div></li><li><div class="event"><div class="header"><div class="date">13.05.2015</div><div class="h4"><a href="/o-kompanii/analist/srednyaya_stoimostq_kvadrat_3/">Средняя стоимость квадратного метра в новостройках Новой Москвы увеличилась на 0,3%</a></div></div></div></li>
+</ul>
+<div style="width: 88px;" class="white_blok"><a href="/o-kompanii/analist/">Архив аналитики</a></div>
+</div>
+</div>
+			<noindex>					
+					<div class="inner-block">
+						<div class="search_head">
+							<div class="gblock_head">
+                                <div class="search_head_title"><a href="/sluzhba_kach/" class="a_dec_none">Служба качества</a></div>
+                 
+							</div>
+							<div class="quality_head_pic" style="top: -12px;"></div>
+						</div>	
+						<p class="gray-descript">Мы стремимся стать одним из лидеров на рынке оказания услуг в сфере недвижимости, поэтому большое значение в своей деятельности мы уделяем вопросам качества. Пожалуйста, оставьте отзыв о нашей работе.</p>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {lang: 'ru'}
+</script>
+
+							<div><a class="quality_link quality_link_green" href="/sluzhba_kach/poblagodar/"><i class="fa fa-smile-o"></i> Поблагодарить</a> <g:plusone size="small"></g:plusone></div>
+							<div><a class="quality_link quality_link_red" href="/sluzhba_kach/pozhalovatq/"><i class="fa fa-frown-o"></i> Пожаловаться</a></div>
+							<div><a class="quality_link quality_link_blue" href="/sluzhba_kach/pozhelaniya/"><i class="fa fa-comment-o"></i> Предложить</a></div>
+					</div>
+
+			</noindex>
+
+
+
+<noindex>
+					<div class="inner-block quote-block">
+                    	<div class="quote">
+                            <blockquote>Ключевой фигурой в компании "НДВ-Недвижимость" является Клиент.<br>Каждый наш сотрудник строит свою работу, исходя из этого простого постулата.</blockquote>
+                            <img src="/pic/201203/1331030675.jpg" class="quote-left" />
+                            <img src="/pic/201203/1331030704.jpg" class="quote-right" />
+
+                        </div>
+                        <p>Генеральный директор<br>"НДВ-Недвижимость"</p>
+				<div>
+					<span class="white_blok">
+						<a target="_blank" href="/flib/go.php?url=http://www.twitter.com/a_hrustalev">Александр Хрусталев</a>
+						<img src="/pic/201203/1331031727.jpg" class="white_blok_twit" />
+					</span>
+				</div>
+					</div>
+
+
+					</noindex>
+
+					<p style="width: 250px;"> </p>
+					<div class="rightsidebar"></div>
+				</td>
+			</tr>
+		</table>
+		<!--end middle-->
+	</div><!--end Main-->
+	
+	
+		<!--begin Footer-->
+	<div class="footer">
+	<div class="shadow"><!-- тень --></div>
+		<table class="bottom">
+
+			<tr>
+				<td class="left-block address">
+										<p>
+					WWW.NDV.RU — Агентство недвижимости НДВ Москва.<br />
+					Трубная площадь, дом 2 | <a href="/o-kompanii/office/">Все офисы</a><br />
+					E-mail: <a href="mailto:ndv@ndv.ru">ndv@ndv.ru</a>
+                                        Тел.: <span class="ndv-phone">+7 (495) 988-44-22</span><br /><img src="/pic/design/dotted-sep.gif">  <a href="http://www.ndv-realty.com/">EN</a>
+                                        © NDV, 1997-2015 гг.
+					</p>
+
+									</td>
+				<td class="center-block copyrights">
+					<div>
+
+<p>Быстрый переход:<br> <a href="/o-kompanii/analist/">Аналитика</a> | <a href="/novosti/">Новости</a> | <a href="/poleznjye_s/">Полезная информация</a></p>
+<br>
+<noindex>
+
+<!--LiveInternet counter--><script type="text/javascript">document.write("<a href='http://www.liveinternet.ru/click' target=_blank><img src='//counter.yadro.ru/hit?t57.2;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) +";h"+escape(document.title.substring(0,80)) +  ";" + Math.random() + "' border=0 width=88 height=31 alt='' title='LiveInternet'><\/a>")</script><!--/LiveInternet-->
+
+
+
+<!--SpyLOG-->
+<span id="spylog2003423"></span>
+<script type="text/javascript"> var spylog = { counter: 2003423, image: 25, next: spylog }; document.write(unescape('%3Cscript src%3D"http' + (('https:' == document.location.protocol) ? 's' : '') + '://counter.spylog.com/cnt.js" defer="defer"%3E%3C/script%3E')); </script><script src="http://counter.spylog.com/cnt.js" defer="defer"></script>
+<!--SpyLOG-->
+
+<!--<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39615140-1', 'ndv.ru');
+  ga('send', 'pageview');
+
+</script>-->
+
+
+
+<!-- Yandex.Metrika informer -->
+<a href="http://metrika.yandex.ru/stat/?id=143521&from=informer" target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/143521/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:143521,lang:'ru'});return false}catch(e){}"/></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter143521 = new Ya.Metrika({id:143521,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    trackHash:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/143521" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1916397"></script><noscript><img src="http://counter.rambler.ru/top100.cnt?1916397" alt="" width="1" height="1" style="width: 1px; height: 1px;" border="0"/></noscript>
+
+<!-- end of Top100 code -->
+
+<script type="text/javascript">
+_bacct = "UA-21070232-1";
+</script>
+<script type="text/javascript" src="http://u.begun.ru/begun.js"></script>
+
+
+</noindex><br>
+
+
+					</div>
+				</td>
+				<td class="right-block development">
+
+					<div>
+										При использовании материалов ссылка на сайт обязательна
+										<br><br>
+					<!-- Медиапартнер РА «MediaProNet» -->
+                        <noindex><div style=""><span style="padding-top: 22px; display: block; width: 90px; float: left;">Мы в соц. сетях: </span>
+<a href="http://www.ndv.ru/flib/go.php?url=http://vk.com/club_ndv_realty" rel="nofollow" target="_blank"><img style="margin:10px 0 10px 10px;" src="http://ndv.ru/pic/design/social-icon-vk.png"></a>
+<a href="http://www.ndv.ru/flib/go.php?url=http://twitter.com/ndv_news" rel="nofollow" target="_blank"><img style="margin:10px 0 10px 10px;" src="http://ndv.ru/pic/design/social-icon-twitter.png"></a>
+<a href="http://www.ndv.ru/flib/go.php?url=http://www.facebook.com/ndvrealty" rel="nofollow" target="_blank"><img style="margin:10px 0 10px 10px;" src="http://ndv.ru/pic/design/social-icon-facebook.png"></a>
+</div></noindex>
+					</div>
+				</td>
+			</tr>
+		</table>
+
+	</div><!--end Footer-->
+					</div><!--end All-->
+<script>
+function jsneworder(getget) {
+	callServer(null, '/get_base.php?consis='+Math.random()+'&'+getget, null, null, showHTML, 'indexbaseajax');
+
+		document.getElementById('t01').className = '';
+		document.getElementById('t02').className = '';
+		document.getElementById('t03').className = '';
+		document.getElementById('t04').className = '';
+		document.getElementById('t05').className = '';
+
+		if (getget.indexOf('t01') !=-1) {
+			document.getElementById('t01').className = 'active';
+		}
+		if (getget.indexOf('t02') !=-1) {
+			document.getElementById('t02').className = 'active';
+		}
+		if (getget.indexOf('t03') !=-1) {
+			document.getElementById('t03').className = 'active';
+		}
+		if (getget.indexOf('t04') !=-1) {
+			document.getElementById('t04').className = 'active';
+		}
+		if (getget.indexOf('t05') !=-1) {
+			document.getElementById('t05').className = 'active';
+		}
+}
+
+function jsnewsr(getget) {
+	callServer(null, '/get_news.php?consis='+Math.random()+'&'+getget, null, null, showHTML, 'rnews');
+
+		document.getElementById('n02').className = '';
+		document.getElementById('n03').className = '';
+		document.getElementById('n04').className = '';
+		document.getElementById('n05').className = '';
+
+		if (getget.indexOf('n02') !=-1) {
+			document.getElementById('n02').className = 'active';
+		}
+		if (getget.indexOf('n03') !=-1) {
+			document.getElementById('n03').className = 'active';
+		}
+		if (getget.indexOf('n04') !=-1) {
+			document.getElementById('n04').className = 'active';
+		}
+		if (getget.indexOf('n05') !=-1) {
+			document.getElementById('n05').className = 'active';
+		}
+}
+</script>
+
+<!-- Google Code Remarketing -->
+<!--<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1000020970;
+var google_conversion_label = "tLY1CPa-4wUQ6rfs3AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1000020970/?value=0&label=tLY1CPa-4wUQ6rfs3AM&guid=ON&script=0"/>
+</div>
+</noscript>-->
+<!--  AdRiver code START -->
+<script type="text/javascript">
+(function(h){function k(){var a=function(d,b){if(this instanceof AdriverCounter)d=a.items.length||1,a.items[d]=this,b.ph=d,b.custom&&(b.custom=a.toQueryString(b.custom,";")),a.request(a.toQueryString(b));else return a.items[d]};a.httplize=function(a){return(/^\/\//.test(a)?location.protocol:"")+a};a.loadScript=function(a){try{var b=g.getElementsByTagName("head")[0],c=g.createElement("script");c.setAttribute("type","text/javascript");c.setAttribute("charset","windows-1251");c.setAttribute("src",a.split("![rnd]").join(Math.round(1E6*Math.random())));c.onreadystatechange=function(){/loaded|complete/.test(this.readyState)&&(c.onload=null,b.removeChild(c))};c.onload=function(){b.removeChild(c)};b.insertBefore(c,b.firstChild)}catch(f){}};a.toQueryString=function(a,b,c){b=b||"&";c=c||"=";var f=[],e;for(e in a)a.hasOwnProperty(e)&&f.push(e+c+escape(a[e]));return f.join(b)};a.request=function(d){var b=a.toQueryString(a.defaults);a.loadScript(a.redirectHost+"/cgi-bin/erle.cgi?"+d+"&rnd=![rnd]"+(b?"&"+b:""))};a.items=[];a.defaults={tail256:document.referrer||"unknown"};a.redirectHost=a.httplize("//ad.adriver.ru");return a}var g=document;"undefined"===typeof AdriverCounter&&(AdriverCounter=k());new AdriverCounter(0,h)})
+({sid: 198477, bt: 62, custom: {153: 'user_id'}});
+</script>
+
+<!--  AdRiver code END  -->
+</body>
+</html>

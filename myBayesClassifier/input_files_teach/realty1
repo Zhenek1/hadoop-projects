@@ -1,0 +1,1823 @@
+<!DOCTYPE HTML>
+<!--[if IE 7]><html class="ie ie7 lte9 lte8 lte7"><![endif]-->
+<!--[if IE 8]><html class="ie ie8 lte9 lte8"><![endif]-->
+<!--[if IE 9]><html class="ie ie9 lte9 gte9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html class="notie"><!--<![endif]-->
+<head>
+	<title>Агентство недвижимости ИНКОМ - продажа недвижимости в Москве и Подмосковье, покупка и аренда жилья</title>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="недвижимость москвы, недвижимость подмосковья, агентство недвижимости, сделки, риэлторские услуги, москва и подмоскьвье, база" />
+<meta name="description" content="Ежедневно обновляемая база недвижимости Москвы и Подмосковья, более 25 тысяч актуальных предложений по объектам - московское агентство недвижимости ИНКОМ-Недвижимость. Звоните! +7 (495) 363-10-10." />
+<link href="/bitrix/js/main/core/css/core.css?1415188051" type="text/css" rel="stylesheet" />
+<link href="/bitrix/components/incom/slider.main/templates/.default/style.css?1415188030" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/incom_tpl_main_2013/components/incom/main.quicklinks.list/tpl_2015/style.css?1425458235" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/incom_tpl_main_2013/components/incom/main.actions.list/tpl_main_page/style.css?1422608537" type="text/css" rel="stylesheet" />
+<link href="/bitrix/components/incom/realty.carousel/templates/.default/style.css?1425395453" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/incom_tpl_main_2013/styles.css?1433751708" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/incom_tpl_main_2013/template_styles.css?1425564795" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1415188051"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1435223365','SERVER_TZ_OFFSET':'10800','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'7dc2453acb3daeae1e9d1558fd51773e','SITE_ID':'ru','JS_CORE_LOADING':'Загрузка...','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1415188051"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1415188051"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '7dc2453acb3daeae1e9d1558fd51773e', false, '914eaafc06522fbcf98b786fec93b43f');
+</script>
+	
+
+	<meta name="google-site-verification" content="jKOOzUtGofkljXo0-_WQPfCRb2wECy9SgZUTkntYYUg" />
+
+	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"> </script> 
+	<script type="text/javascript"> GS_googleAddAdSenseService("ca-pub-1115295280093990"); GS_googleEnableAllServices(); </script> 
+	<script type="text/javascript"> GA_googleAddSlot("ca-pub-1115295280093990", "DZN_poselki_incom_"); </script> 
+	<script type="text/javascript"> GA_googleFetchAds(); var objtype = '';</script> 
+
+	<link href="/favicon.ico" rel="shortcut icon">
+	<link href="/bitrix/templates/incom_tpl_main_2013/css/style.css?1432727425" rel="stylesheet" type="text/css">
+	<link href="/bitrix/templates/incom_tpl_main_2013/css/buttons.css" rel="stylesheet" type="text/css">
+	<link href="/bitrix/templates/incom_tpl_main_2013/css/objectLocation.css" rel="stylesheet" type="text/css">
+	<link href="/bitrix/templates/incom_tpl_main_2013/css/jquery.arcticmodal-0.2.css" rel="stylesheet" type="text/css">
+	<link href="/bitrix/templates/incom_tpl_main_2013/css/font-awesome.min.css" rel="stylesheet" type="text/css">	
+
+	<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/swfobject.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/jquery.carouFredSel-5.6.1.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/jquery.arcticmodal-0.2.min.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/waypoints.min.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/js.js?1434028758"></script>
+	
+	<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/ajaxsendresetform.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/cusel-min-2.5.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/js-select.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/jquery.hoverIntent.js"></script>
+    <script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/jquery.easing.1.3_incom_edition.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/jquery.jcarousel.min.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/jquery.touchSwipe.min.js"></script>
+
+
+    <!--[if lt IE 9]>
+	<script>
+	var e = ("abbr,article,aside,audio,canvas,datalist,details," +
+	"figure,figcaption,footer,header,hgroup,mark,menu,meter,nav,output," +
+	"progress,section,time,video").split(',');
+	for (var i = 0; i < e.length; i++) {
+	document.createElement(e[i]);
+	}
+	</script>
+	<![endif]-->
+	
+		<!--noindex-->
+	<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/js/_gaq.js"></script>	
+	<!--/noindex-->
+
+		<!--[if lte IE 7]> 
+	<script src="//yandex.st/jquery/cookie/1.0/jquery.cookie.min.js"></script> 
+	<script src="/js/oldies.js" charset="utf-8"></script>
+	<![endif]-->	
+</head>
+
+<body> 
+	 
+
+<div id="panel"></div>
+<div class="main">
+	<div class="main_in cf">
+		<header>
+						<div class="lang">
+				<!--a href="http://www.eng.incom.ru/" rel="nofollow">English version&rarr;</a--> 
+			</div>					
+			<div itemscope itemtype="http://schema.org/Organization" class="logo">
+				<a itemprop="url" href="http://www.incom.ru/"><img itemprop="logo" src="/bitrix/templates/incom_tpl_main_2013/images/logo.png" width="203" height="68" alt="ИНКОМ-Недвижимость, агентство недвижимости" title="ИНКОМ-Недвижимость"></a>
+			</div>
+			<div class="fright phone">
+			<!--noindex-->
+	<div class="newcall">
+		<script>var incom_realty_request_form_ajax_url = '/uslugi/ajax_form_handler.php';</script>
+		
+
+		
+			<ins class="num"><a href="tel:+74953631010" style="text-decoration: none;"  onclick="_gaq.push(['_trackEvent', 'tel', 'clik', 'head']);yaCounter10987120.reachGoal('Tel_Click_Head'); return tue;"><div class="ya-phone-uvr">+7 (495) 363-10-10</div>			</a></ins>
+				<a id="zayavka" class="btn_green fright cf" href="javascript:void(0)"><span class="fs18">Оставьте заявку</span></a>	
+		<p><a rel="nofollow" id="zvonok" href="javascript:void(0)"><span>Заказать звонок</span></a>	</p>		
+		<script>
+			$('#zayavka').click(function() {
+				$.arcticmodal({
+					type: 'ajax',
+										url: '/uslugi/ajax_form_handler.php',
+										afterLoadingOnShow: function () {
+						$('#request_form').find('input[name="type_realty"]').val('sale_flats');
+						$('#request_form').find('input[name="url"]').val('/');
+											
+													$('#obj').html('на подбор');
+											}
+				});
+				return false;	
+			});
+			$('#zvonok').click(function() {
+				$.arcticmodal({
+					type: 'ajax',
+					url: '/uslugi/ajax_form_handler.php?zvonok=y',			
+					afterLoadingOnShow: function () {
+						$('#request_form').find('input[name="type_realty"]').val('sale_flats');
+						$('#request_form').find('input[name="url"]').val('/');					
+												$('#obj').html('на обратный звонок');
+					}								
+				});
+				return false;	
+			});		
+		</script>
+	</div>
+<!--/noindex-->			
+			</div>
+		</header>
+		<div class="for_nav cr3 cf">
+			<nav>
+	<ul>
+
+	
+		
+		
+			
+									<li><a href="/nedvizhimost/"  class="root-item">Недвижимость</a>
+					<div  id="nedvizhimost" class="vspl_menu" >
+	<div class="menu_second cr3 cf" style="width:716px;">
+		<span class="str"><span>&nbsp;</span></span>
+		<div class="column" style="width:190px;">
+			<span class="name">Городская</span>
+			<ul>
+				<li><a href="/sale-realty/flats/" class="big">Квартиры и комнаты</a>
+				</li>
+				<li><a href="/sale-realty/newbuild/">Новостройки</a>
+				</li>
+				<li><a href="/rent-realty/flats/">Аренда квартир и комнат</a>
+				</li>
+			</ul>
+		</div>
+		<div class="column" style="width:230px;">
+			<span class="name">Загородная</span>
+			<ul>
+				<li><a href="/sale-realty/cottage/">Коттеджи,&nbsp;</a><a href="/prodazha-taunkhausov/">таунхаусы,&nbsp;</a><a href="/prodazha-zemelnykh-uchastkov/" >участки</a>
+				</li>        
+				<li><a href="/kottedzhnye-poselki/">Коттеджные поселки</a>
+				</li>
+				<li><a href="/rent-realty/cottage/">Аренда коттеджей</a>
+				</li>
+			</ul>
+		</div>
+		<div class="column" style="width:200px;">
+			<span class="name">Коммерческая</span>
+			<ul>
+				<li><a href="/sale-realty/commercesell/">Нежилые помещения</a>
+				</li>
+				<li><a href="/rent-realty/commercesell/">Аренда нежилых помещений</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+					</li>
+				
+			
+		
+		
+	
+		
+		
+			
+									<li><a href="/uslugi/"  class="root-item">Услуги</a>
+					<div id="uslugi" class="vspl_menu">
+	<div class="menu_second cr3 cf" style="width:926px;">
+		<span class="str" style="left:202px;"><span>&nbsp;</span></span>
+
+		<div class="column" style="width:204px;">
+			<span class="name">Покупателям</span>
+			<ul>
+				<li><a href="/uslugi/pokupka-kvartir-i-komnat/">Покупка квартир и комнат</a>
+				</li>
+				<li><a href="/uslugi/pokupka-kvartir-v-novostroykakh/">Квартиры в новостройках</a>
+				</li>
+				<li><a href="/uslugi/pokupka-zagorodnoy-nedvizhimosti/">Загородная недвижимость</a>
+				</li>
+				<li><a href="/ipoteka/">Помощь в получении ипотеки</a>
+				</li>
+				<li><a href="/uslugi/pokupka-kommercheskoy-nedvizhimosti/">Коммерческая недвижимость</a>
+				</li>
+				<li><a href="/uslugi/lizingovye-uslugi/">Лизинговые услуги</a>
+				</li>            
+			</ul>
+		</div>
+
+		<div class="column" style="width:213px;">
+			<span class="name">Владельцам</span>
+			<ul>
+				<li><a href="/uslugi/prodat-kvartiru-i-komnatu/">Продать квартиру, комнату</a>
+				</li>
+				<li><a href="/uslugi/prodazha-zagorodnoy-nedvizhimosti/">Загородная недвижимость</a>
+				</li>
+				<li><a href="/uslugi/obmen-kvartir/">Обмен квартир</a>
+				</li>
+				<li><a href="http://srochny-vikup.incom.ru/">Срочный выкуп квартир</a>
+				</li>				
+				<li><a href="/uslugi/sdat-kvartiru-ili-komnatu/">Сдать квартиру или коттедж</a>
+				</li>
+				<li><a href="/uslugi/otsenka-nedvizhimosti/">Оценка недвижимости</a>
+				</li>
+				<li><a href="/uslugi/prodazha-kommercheskoy-nedvizhimosti/">Коммерческая недвижимость</a>
+				</li>
+				<li><a href="/uslugi/pereplanirovki/">Согласование перепланировок</a>
+				</li>
+				<li><a href="/uslugi/perevod-v-zhiloy-fond/">Перевод в жилой фонд</a>
+				</li>
+				<li><a href="/uslugi/perevod-v-nezhiloy-fond/">Перевод в нежилой фонд</a>
+				</li>
+			</ul>
+		</div>
+
+		<div class="column" style="width:175px;">
+			<span class="name">Арендаторам</span>
+			<ul>
+				<li><a href="/uslugi/arenda-kvartir-i-komnat/">Квартиры и комнаты</a>
+				</li>
+				<li><a href="/uslugi/arenda-kottedzhey/">Аренда коттеджей</a>
+				</li>
+				<li><a href="/uslugi/arenda-kommercheskoy-nedvizhimosti/">Нежилые помещения</a>
+				</li>
+				<li><a href="/uslugi/lizing-dlya-biznesa/">Лизинг для бизнеса</a>
+				</li>  
+			</ul>
+		</div>
+
+		<div class="for_tizer">
+			<a class="tizer_menu cr3" href="/uslugi/obmen-kvartir/" title="Обмен квартир" >
+				<div>
+					<div class="pic cr3"><img alt="" src="/images/exchange_chosen2.jpg" class="cr3" title="Обмен квартир" alt="Обмен квартир" ></div>
+					<div class="text"><b>Обмен квартир:</b><br>быстро, выгодно,<br>безопасно</div>
+				</div>
+			</a>
+		</div>
+
+</div>
+</div>
+
+					</li>
+				
+			
+		
+		
+	
+		
+		
+			
+									<li><a href="/ipoteka/"  class="root-item">Ипотека</a>
+										</li>
+				
+			
+		
+		
+	
+		
+		
+			
+									<li><a href="/jobs/vacancy/"  class="root-item">Карьера</a>
+					<div id="jobs" class="vspl_menu" style="left:320px;">
+	<div class="menu_second cr3 cf">
+		<span class="str" style="left:95px"><span>&nbsp;</span></span>
+		<div class="column" style="width:140px;">
+			<ul>
+				<li><a href="/jobs/vacancy/">Вакансии</a></li>
+				<li><a href="/jobs/training-center/">Учебный центр</a></li>
+				<li><a href="/jobs/success/">Истории успеха</a></li>				
+			</ul>
+		</div>
+	</div>
+</div>
+					</li>
+				
+			
+		
+		
+	
+		
+		
+			
+									<li><a href="/o-kompanii/"  class="root-item">О компании</a>
+					<div id="o_kompanii" class="vspl_menu" style="left:278px;">
+	<div class="menu_second cr3 cf" style="width:510px;">
+		<span class="str" style="left:235px"><span>&nbsp;</span></span>	
+		<div class="column" style="width:230px;">
+			<span class="name">Компания</span>
+			<ul>
+				<li><a href="http://www.incom.ru/o-kompanii/">Деятельность компании</a>
+				</li>			
+				<li><a href="http://www.incom.ru/o-kompanii/istoriya/">История</a>
+				</li>
+				<li><a href="http://www.incom.ru/o-kompanii/nagrady/">Награды</a>
+				</li>
+				<li><a href="http://www.incom.ru/o-kompanii/otzyvy-klientov/">Отзывы клиентов</a>
+				</li>
+				<li><a href="http://www.incom.ru/o-kompanii/nashi-partnery/">Наши партнеры</a>
+				</li>
+				<li><a href="http://www.incom.ru/o-kompanii/sotsialnaya-otvetstvennost/">Социальная ответственность</a>
+				</li>
+			</ul>
+		</div>			
+		<div class="column" style="width:215px;">
+			<span class="name">Пресс-центр</span>
+			<ul>
+				<li><a href="http://www.incom.ru/o-kompanii/press-tsentr/">О нас</a>
+				</li>			
+				<li><a href="http://www.incom.ru/o-kompanii/press-tsentr/novosti-rynka/">Новости рынка</a>
+				</li>
+				<li><a href="http://www.incom.ru/o-kompanii/press-tsentr/fakty-i-kommentarii/">Факты и комментарии</a>
+                </li>
+				<li><a href="http://www.incom.ru/o-kompanii/press-tsentr/novosti-kompanii/">Новости компании</a>
+				</li>
+				<li><a href="http://www.incom.ru/o-kompanii/press-tsentr/my-v-presse/">Мы в прессе</a>
+				</li>
+
+			</ul>		
+		</div>	
+	</div>
+</div>						</li>
+				
+			
+		
+		
+	
+		
+		
+			
+									<li><a href="/offices/"  class="root-item">Наши офисы</a>
+										</li>
+				
+			
+		
+		
+	
+	
+	</ul>
+</nav>
+			<!--noindex-->
+			<div class="head_search fright">
+	<form action="/search/">
+					<script type="text/javascript" src="/bitrix/templates/incom_tpl_main_2013/components/incom/search.form/.default/script_plus.js"></script>
+			<div class="for_input cr3003">			
+				<input type="text" name="q" value="Поиск" size="23" maxlength="50" id="sqarchinputfield2" class="cleared" onblur="if (this.value == '') this.value ='Поиск';" onfocus="if (this.value=='Поиск') this.value='';" x-webkit-speech="" onwebkitspeechchange="onWebKitChange()">
+			</div>
+				<input type="submit" value="" id="sqarchinputbutt2" disabled="disabled">
+	</form>
+</div>			<!--/noindex-->
+		</div> 
+    		
+			<section id="main">
+   <script src="/bitrix/components/incom/slider.main/templates/.default/script.js?1429620851" type="text/javascript"></script><div id="mainslider_wrap" class="slider_wrap cf">
+	<div id="mainslider" class="slider_bl">
+					<div class="slide" id="sl1">
+			<a href="/sale-realty/flats/"  onclick="_gaq.push(['_trackEvent', 'Slider', 'Click', '/sale-realty/flats/']);">                <img src="/upload/medialibrary/883/250313slide_uvr_ready.jpg" width="960" height="300">
+            </a>		</div>
+					<div class="slide" id="sl2">
+			<a href="/ipoteka/"  onclick="_gaq.push(['_trackEvent', 'Slider', 'Click', '/ipoteka/']);">                <img src="/upload/medialibrary/4b7/mortgage-slide2.jpg" width="960" height="300">
+            </a>		</div>
+					<div class="slide" id="sl3">
+			<a href="/uslugi/pokupka-zagorodnoy-nedvizhimosti/"  onclick="_gaq.push(['_trackEvent', 'Slider', 'Click', '/uslugi/pokupka-zagorodnoy-nedvizhimosti/']);">                <img src="/upload/medialibrary/1b2/dzn-130315.jpg" width="960" height="300">
+            </a>		</div>
+					<div class="slide" id="sl4">
+			<a href="/rent-realty/flats/"  onclick="_gaq.push(['_trackEvent', 'Slider', 'Click', '/rent-realty/flats/']);">                <img src="/upload/medialibrary/7a8/sdat_i_snjat.jpg" width="960" height="300">
+            </a>		</div>
+					<div class="slide" id="sl5">
+			<a href="/sale-realty/newbuild/"  onclick="_gaq.push(['_trackEvent', 'Slider', 'Click', '/sale-realty/newbuild/']);">                <img src="/upload/medialibrary/8c0/slidedn.jpg" width="960" height="300">
+            </a>		</div>
+					<div class="slide" id="sl6">
+			<a href="/sale-realty/commercesell/"  onclick="_gaq.push(['_trackEvent', 'Slider', 'Click', '/sale-realty/commercesell/']);">                <img src="/upload/medialibrary/6d6/dkn_new14.jpg" width="960" height="300">
+            </a>		</div>
+					<div class="slide" id="sl7">
+			<a href="/jobs/vacancy/"  onclick="_gaq.push(['_trackEvent', 'Slider', 'Click', '/jobs/vacancy/']);">                <img src="/upload/medialibrary/9dc/dup.jpg" width="960" height="300">
+            </a>		</div>
+					<div class="slide" id="sl8">
+			<a href="http://www.park-avenue.su/action/?id=2412" target="_blank" onclick="_gaq.push(['_trackEvent', 'Slider', 'Click', 'http://www.park-avenue.su/action/?id=2412']);">                <img src="/upload/medialibrary/980/PAforINCOM_960x300_280415.jpg" width="960" height="300">
+            </a>		</div>
+					<div class="slide" id="sl9">
+			<a href="http://www.villagio.ru/promo/ren10/?utm_source=incom&utm_medium=cpm&utm_campaign=incom_renaissance_park" target="_blank" onclick="_gaq.push(['_trackEvent', 'Slider', 'Click', 'http://www.villagio.ru/promo/ren10/?utm_source=incom&utm_medium=cpm&utm_campaign=incom_renaissance_park']);">                <img src="/upload/medialibrary/3f4/RENforINCOM_230415_960x300.jpg" width="960" height="300">
+            </a>		</div>
+								</div>
+	<div id="slider_prev" class="slider_prev"><a href="#" id="msl_prev"></a></div>
+	<div id="slider_next" class="slider_next"><a href="#" id="msl_next"></a></div>
+	<div id="mainslpagin" class="slider_pager"></div>
+</div>﻿<div class="block_main border_div cf cr3">
+	<h1>Агентство недвижимости ИНКОМ&nbsp;&mdash; крупнейшее в&nbsp;Москве</h1>
+<p><nobr>ИНКОМ-Недвижимость</nobr>&nbsp;&mdash; агентство недвижимости, занимающее ведущие позиции на&nbsp;рынке риэлторских услуг.&nbsp;По&nbsp;оценкам экспертов, значительная часть организованных сделок в&nbsp;московском регионе приходится именно на&nbsp;&laquo;ИНКОМ&raquo;, что позволяет нам вот уже многие годы занимать лидирующее место среди агентств недвижимости Москвы и&nbsp;Подмосковья.</p>
+
+	<div class="servlinks cf">
+				<div class="overservbl">
+			<a href="/sale-realty/flats/" onclick="_gaq.push(['_trackEvent', 'ExternalLink', 'Kupit_kvartiru']);" rel="nofollow">
+			<span class="servbl">				
+				<img src="/upload/iblock/2c1/icon01.png" border=0 alt='Купить квартиру в Москве' title='Квартиру в москве купить' width="152" height="142" />			</span>
+			<span class="txtbl">Квартиры<br/>и комнаты</span>
+			</a>
+		</div>
+				<div class="overservbl">
+			<a href="/sale-realty/newbuild/" onclick="_gaq.push(['_trackEvent', 'ExternalLink', 'Kupit_novostroiku']);" rel="nofollow">
+			<span class="servbl">				
+				<img src="/upload/iblock/263/icon02.png" border=0 alt='Новостройки Москвы' title='Купить квартиру в Новостройке' width="152" height="142" />			</span>
+			<span class="txtbl">Новостройки</span>
+			</a>
+		</div>
+				<div class="overservbl">
+			<a href="/rent-realty/flats/" onclick="_gaq.push(['_trackEvent', 'ExternalLink', 'Snyat_kvartiru']);" rel="nofollow">
+			<span class="servbl">				
+				<img src="/upload/iblock/e42/icon03.png" border=0 alt='Аренда квартир и комнат' title='Аренда квартир' width="152" height="142" />			</span>
+			<span class="txtbl">Аренда<br/>квартир и комнат</span>
+			</a>
+		</div>
+				<div class="overservbl">
+			<a href="/kottedzhnye-poselki/" onclick="_gaq.push(['_trackEvent', 'ExternalLink', 'Kupit_cottage']);" rel="nofollow">
+			<span class="servbl">				
+				<img src="/upload/iblock/5b0/icon04.png" border=0 alt='Купить квартиру в Подмосковье' title='Недвижимость в подмосковье' width="152" height="142" />			</span>
+			<span class="txtbl">Коттеджи,<br/><nobr>таунхаусы, участки</nobr></span>
+			</a>
+		</div>
+				<div class="overservbl">
+			<a href="/sale-realty/commercesell/" onclick="_gaq.push(['_trackEvent', 'ExternalLink', 'Kupit_kommerch_nedvizh']);" rel="nofollow">
+			<span class="servbl">				
+				<img src="/upload/iblock/efe/icon05.png" border=0 alt='Агентство недвижимости' title='Агентство коммерческой недвижимости' width="152" height="142" />			</span>
+			<span class="txtbl">Коммерческая недвижимость</span>
+			</a>
+		</div>
+			</div>
+</div>
+<div class="bl_carousel_wrap newsmain cf">
+    <div class="h2"><a href="/o-kompanii/press-tsentr/">Новости</a></div>
+    <div class="bl_carousel_inner pics4">
+        <div class="bl_carousel" data-jcarousel="true" data-wrap="circular" >
+            <ul>
+                                                        <li>
+                        <div id="bx_-1212355718_46245" class="item ">
+                            <a rel="nofollow" href="/o-kompanii/press-tsentr/novosti-kompanii/46245/"><img src="/images/object_images/resize2/lesnaya_skazka_203x152_8be93375fab43be31e7279fa5fa960ad.jpg" class="cr3"></a>
+                            <span class="date">24.06.2015</span>
+                            <a rel="nofollow" class="text" href="/o-kompanii/press-tsentr/novosti-kompanii/46245/"><!-- noindex -->Покупатели таунхаусов под защитой закона<!-- /noindex --></a>
+                        </div>
+                    </li>
+                                                        <li>
+                        <div id="bx_-1212355718_46244" class="item ">
+                            <a rel="nofollow" href="/o-kompanii/press-tsentr/novosti-kompanii/46244/"><img src="/images/object_images/resize2/24062015_1_203x152_2b48b3e77e36d11ffdb30e012144f16d.jpg" class="cr3"></a>
+                            <span class="date">24.06.2015</span>
+                            <a rel="nofollow" class="text" href="/o-kompanii/press-tsentr/novosti-kompanii/46244/"><!-- noindex -->В «Западной Резиденции» — скидки до 50 000 000 рублей! Да-да, мы не ошиблись с нулями!<!-- /noindex --></a>
+                        </div>
+                    </li>
+                                                        <li>
+                        <div id="bx_-1212355718_46235" class="item ">
+                            <a rel="nofollow" href="/o-kompanii/press-tsentr/novosti-rynka/46235/"><img src="/images/object_images/resize2/image_crop_203x152_285f7e3c0043381f495b13c521aa3c18.jpg" class="cr3"></a>
+                            <span class="date">23.06.2015</span>
+                            <a rel="nofollow" class="text" href="/o-kompanii/press-tsentr/novosti-rynka/46235/"><!-- noindex -->Кризис 2008-го vs 2015-го на «загородке»: метражи — все меньше, требования покупателей — все жестче<!-- /noindex --></a>
+                        </div>
+                    </li>
+                                                        <li>
+                        <div id="bx_-1212355718_46232" class="item ">
+                            <a rel="nofollow" href="/o-kompanii/press-tsentr/novosti-rynka/46232/"><img src="/images/object_images/resize2/220615_1_203x152_14a9bc2558cbc38e9491eea2d8701387.jpg" class="cr3"></a>
+                            <span class="date">22.06.2015</span>
+                            <a rel="nofollow" class="text" href="/o-kompanii/press-tsentr/novosti-rynka/46232/"><!-- noindex -->Аренда элитного жилья: ставка на миллион<!-- /noindex --></a>
+                        </div>
+                    </li>
+                                                        <li>
+                        <div id="bx_-1212355718_46214" class="item ">
+                            <a rel="nofollow" href="/o-kompanii/press-tsentr/novosti-kompanii/46214/"><img src="/images/object_images/resize2/180615_22_203x152_f51f90360d47f37c6aee8bd47169d333.jpg" class="cr3"></a>
+                            <span class="date">18.06.2015</span>
+                            <a rel="nofollow" class="text" href="/o-kompanii/press-tsentr/novosti-kompanii/46214/"><!-- noindex -->При покупке участков в КП «Вознесенское» можно сэкономить до 200 тыс. рублей<!-- /noindex --></a>
+                        </div>
+                    </li>
+                                                        <li>
+                        <div id="bx_-1212355718_46207" class="item ">
+                            <a rel="nofollow" href="/o-kompanii/press-tsentr/novosti-rynka/46207/"><img src="/images/object_images/resize2/180615_2_203x152_e6a512b341a7a0e9d73e8cd9ee431945.jpg" class="cr3"></a>
+                            <span class="date">18.06.2015</span>
+                            <a rel="nofollow" class="text" href="/o-kompanii/press-tsentr/novosti-rynka/46207/"><!-- noindex -->Антикризисная сделка: во времена экономической нестабильности количество «прямых обменов» на вторичном рынке жилья увеличивается в 3-4 раза<!-- /noindex --></a>
+                        </div>
+                    </li>
+                                                        <li>
+                        <div id="bx_-1212355718_46203" class="item ">
+                            <a rel="nofollow" href="/o-kompanii/press-tsentr/novosti-kompanii/46203/"><img src="/images/object_images/resize2/170615_1c_203x152_750fc1a505a9bd65dccd9e1d9898247b.jpg" class="cr3"></a>
+                            <span class="date">17.06.2015</span>
+                            <a rel="nofollow" class="text" href="/o-kompanii/press-tsentr/novosti-kompanii/46203/"><!-- noindex -->«Кембридж» и «Марсель»: скидки с российским размахом<!-- /noindex --></a>
+                        </div>
+                    </li>
+                                                        <li>
+                        <div id="bx_-1212355718_46202" class="item ">
+                            <a rel="nofollow" href="/o-kompanii/press-tsentr/novosti-rynka/46202/"><img src="/images/object_images/resize2/160615_1c_203x152_aee637b94764245b9ae6a4478cc97990.jpg" class="cr3"></a>
+                            <span class="date">16.06.2015</span>
+                            <a rel="nofollow" class="text" href="/o-kompanii/press-tsentr/novosti-rynka/46202/"><!-- noindex -->Рекорд рынка аренды жилья: самая бюджетная ставка снизилась до 15 тысяч рублей<!-- /noindex --></a>
+                        </div>
+                    </li>
+                                                        <li>
+                        <div id="bx_-1212355718_46174" class="item ">
+                            <a rel="nofollow" href="/o-kompanii/press-tsentr/novosti-kompanii/46174/"><img src="/images/object_images/resize2/110615_1_203x152_deb52568b4af910d4e253621e515b273.jpg" class="cr3"></a>
+                            <span class="date">11.06.2015</span>
+                            <a rel="nofollow" class="text" href="/o-kompanii/press-tsentr/novosti-kompanii/46174/"><!-- noindex -->Активность строительных работ в ЖК «Фортис» вышла на максимальный уровень<!-- /noindex --></a>
+                        </div>
+                    </li>
+                                                        <li>
+                        <div id="bx_-1212355718_46168" class="item ">
+                            <a rel="nofollow" href="/o-kompanii/press-tsentr/novosti-rynka/46168/"><img src="/images/object_images/resize2/100615_3_203x152_c7419b7379644610c95047f6e64b3e92.jpg" class="cr3"></a>
+                            <span class="date">10.06.2015</span>
+                            <a rel="nofollow" class="text" href="/o-kompanii/press-tsentr/novosti-rynka/46168/"><!-- noindex -->Программа субсидирования ипотечной ставки не удовлетворяет потребностям порядка 50 % покупателей жилья в кредит<!-- /noindex --></a>
+                        </div>
+                    </li>
+                                                        <li>
+                        <div id="bx_-1212355718_46167" class="item ">
+                            <a rel="nofollow" href="/o-kompanii/press-tsentr/novosti-kompanii/46167/"><img src="/images/object_images/resize2/100615_2_203x152_0b5426e2369fc4623145fe4098786d1c.jpg" class="cr3"></a>
+                            <span class="date">10.06.2015</span>
+                            <a rel="nofollow" class="text" href="/o-kompanii/press-tsentr/novosti-kompanii/46167/"><!-- noindex -->На защите прав нанимателей<!-- /noindex --></a>
+                        </div>
+                    </li>
+                                                        <li>
+                        <div id="bx_-1212355718_46144" class="item ">
+                            <a rel="nofollow" href="/o-kompanii/press-tsentr/novosti-kompanii/46144/"><img src="/images/object_images/resize2/080615_3_203x152_48d60e5915abb715f62a66716ccf0762.jpg" class="cr3"></a>
+                            <span class="date">08.06.2015</span>
+                            <a rel="nofollow" class="text" href="/o-kompanii/press-tsentr/novosti-kompanii/46144/"><!-- noindex -->Старт продаж в поселке «Пушкин Лэнд»<!-- /noindex --></a>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <a rel="nofollow" href="#" class="btn-prev" data-jcarousel-control="true" data-target="-=4"><!-- noindex -->Назад<!-- /noindex --></a>
+        <a rel="nofollow" href="#" class="btn-next" data-jcarousel-control="true" data-target="+=4"><!-- noindex -->Вперед<!-- /noindex --></a>
+    </div>
+</div>
+
+
+<div class="bl_carousel_wrap actionblock cf">
+	<div class="h2">Специальные предложения</div>	<div class="bl_carousel_inner pics3">
+		<div class="bl_carousel" data-jcarousel="true" data-wrap="circular" class="jcarousel">
+			<ul>
+														<li>
+						<div id="bx_-326648512_33287" class="item">
+							<a rel="nofollow" href="http://www.incom.ru/rent-realty/commercesell/1165007/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=DKN_ofis_siti"><img src="/upload/iblock/26f/33287.jpg"  class='cr3' alt="" width="271" height="203" /></a>
+							<a rel="nofollow" class="text big" href="http://www.incom.ru/rent-realty/commercesell/1165007/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=DKN_ofis_siti"><!-- noindex -->Торговые помещения. сити<!-- /noindex --></a>
+							<p>Помещения свободного<br>
+назначения класса А.<br>
+Предложение ограничено!</p>
+						</div>
+					</li>
+														<li>
+						<div id="bx_-326648512_45456" class="item">
+							<a rel="nofollow" href="/uslugi/sdat-kvartiru-ili-komnatu/#uslugigarantiya"><img src="/upload/iblock/43d/garantii_naimodatelu.jpg"  class='cr3' alt="" width="271" height="203" /></a>
+							<a rel="nofollow" class="text big" href="/uslugi/sdat-kvartiru-ili-komnatu/#uslugigarantiya"><!-- noindex -->Сдать с гарантией фирмы<!-- /noindex --></a>
+							<p>Гарантии, подтвержденные официальным документом</p>
+						</div>
+					</li>
+														<li>
+						<div id="bx_-326648512_38844" class="item">
+							<a rel="nofollow" href="http://www.villagio.ru/villages/renaissancepark/"><img src="/upload/iblock/52b/38844.jpg"  class='cr3' alt="" width="271" height="203" /></a>
+							<a rel="nofollow" class="text big" href="http://www.villagio.ru/villages/renaissancepark/"><!-- noindex -->Ренессанс Парк<!-- /noindex --></a>
+							<p>Открытие продаж в новом элитном поселке!</p>
+						</div>
+					</li>
+														<li>
+						<div id="bx_-326648512_45256" class="item">
+							<a rel="nofollow" href="/uslugi/arenda-kvartir-i-komnat/"><img src="/upload/iblock/a12/spec.jpg"  class='cr3' alt="spec.jpg" width="271" height="203" /></a>
+							<a rel="nofollow" class="text big" href="/uslugi/arenda-kvartir-i-komnat/"><!-- noindex -->Снять с гарантией фирмы<!-- /noindex --></a>
+							<p>Гарантии, подтвержденные официальным документом</p>
+						</div>
+					</li>
+														<li>
+						<div id="bx_-326648512_36732" class="item">
+							<a rel="nofollow" href="http://www.incom.ru/uslugi/besplatnye-kosultacii/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=YVR_basp_konsultacii"><img src="/upload/iblock/9e2/36732.jpg"  class='cr3' alt="" width="271" height="203" /></a>
+							<a rel="nofollow" class="text big" href="http://www.incom.ru/uslugi/besplatnye-kosultacii/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=YVR_basp_konsultacii"><!-- noindex -->Бесплатная консультация<!-- /noindex --></a>
+							<p>Эксперты с многолетним опытом ответят на ваши вопросы</p>
+						</div>
+					</li>
+														<li>
+						<div id="bx_-326648512_36741" class="item">
+							<a rel="nofollow" href="http://www.park-avenue.su?ir=incom_small"><img src="/upload/iblock/bc0/36741.jpg"  class='cr3' alt="" width="271" height="203" /></a>
+							<a rel="nofollow" class="text big" href="http://www.park-avenue.su?ir=incom_small"><!-- noindex -->Park Avenue<!-- /noindex --></a>
+							<p>Поселок на Новой Риге в европейском стиле</p>
+						</div>
+					</li>
+														<li>
+						<div id="bx_-326648512_36736" class="item">
+							<a rel="nofollow" href="http://www.incom.ru/uslugi/obmen-kvartir/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=YVR_obmen"><img src="/upload/iblock/030/36736.jpg"  class='cr3' alt="" width="271" height="203" /></a>
+							<a rel="nofollow" class="text big" href="http://www.incom.ru/uslugi/obmen-kvartir/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=YVR_obmen"><!-- noindex -->Выгодный обмен<!-- /noindex --></a>
+							<p>Обмен по ипотеке, большая база квартир и юридическая проверка сделки</p>
+						</div>
+					</li>
+														<li>
+						<div id="bx_-326648512_36733" class="item">
+							<a rel="nofollow" href="http://www.incom.ru/ipoteka/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=YVR_ekonom_ipoteka"><img src="/upload/iblock/11d/36733.jpg"  class='cr3' alt="" width="271" height="203" /></a>
+							<a rel="nofollow" class="text big" href="http://www.incom.ru/ipoteka/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=YVR_ekonom_ipoteka"><!-- noindex -->Сэкономь на ипотеке!<!-- /noindex --></a>
+							<p>Преференции и скидки от ведущих банков для наших клиентов</p>
+						</div>
+					</li>
+														<li>
+						<div id="bx_-326648512_32910" class="item">
+							<a rel="nofollow" href="http://www.incom.ru/uslugi/otsenka-nedvizhimosti/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=YVR_Ocenka_nedv"><img src="/upload/iblock/ed2/32910_r.jpg"  class='cr3' alt="" width="271" height="203" /></a>
+							<a rel="nofollow" class="text big" href="http://www.incom.ru/uslugi/otsenka-nedvizhimosti/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=YVR_Ocenka_nedv"><!-- noindex -->Оценка недвижимости<!-- /noindex --></a>
+							<p>Экспертная и сертифицированная оценка недвижимости</p>
+						</div>
+					</li>
+														<li>
+						<div id="bx_-326648512_36734" class="item">
+							<a rel="nofollow" href="http://www.incom.ru/sale-realty/flats/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=YVR_Vibor_kvartir"><img src="/upload/iblock/4e6/36734.jpg"  class='cr3' alt="" width="271" height="203" /></a>
+							<a rel="nofollow" class="text big" href="http://www.incom.ru/sale-realty/flats/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=YVR_Vibor_kvartir"><!-- noindex -->Выбор за вами!<!-- /noindex --></a>
+							<p>Более 15 000 проверенных объектов Москвы и Подмосковья</p>
+						</div>
+					</li>
+														<li>
+						<div id="bx_-326648512_36735" class="item">
+							<a rel="nofollow" href="http://www.incom.ru/uslugi/prodat-kvartiru-i-komnatu/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=YVR_prodazha_kvartir"><img src="/upload/iblock/d79/36735.jpg"  class='cr3' alt="" width="271" height="203" /></a>
+							<a rel="nofollow" class="text big" href="http://www.incom.ru/uslugi/prodat-kvartiru-i-komnatu/?utm_source=incom_akciya&utm_medium=cpp&utm_campaign=YVR_prodazha_kvartir"><!-- noindex -->Надежные продажи<!-- /noindex --></a>
+							<p>Юридическая проверка, безопасная передача денег и грамотная реклама</p>
+						</div>
+					</li>
+							</ul>
+		</div>
+                    <a href="#" rel="nofollow" class="btn-prev" data-jcarousel-control="true" data-target="-=3"><!-- noindex -->Назад<!-- /noindex --></a>
+            <a href="#" rel="nofollow" class="btn-next" data-jcarousel-control="true" data-target="+=3"><!-- noindex -->Вперед<!-- /noindex --></a>
+        	</div>
+</div>
+<div class="bl_carousel_wrap cf">
+    <div class="h2"><a href="/sale-realty/flats/">Квартиры и комнаты</a></div>
+    <p>В&nbsp;нашей базе недвижимости представлены квартиры и&nbsp;комнаты любого типа, формата и&nbsp;площади. Обратившись в&nbsp;наше агентство недвижимости, каждый сможет быстро решить свой квартирный вопрос.</p>    <div class="bl_carousel_inner">
+        <div class="bl_carousel" data-jcarousel="true" data-wrap="circular">
+            <ul>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1303467/"><img width='203' height='152' src='/images/object_images/1303467/152x203/00ea081d-00c9-41c4-a356-f276f95a2261.jpg' title='Купить однокомнатную квартиру, Москва г, Радиальная 6-я ул., д. 7' alt='Купить однокомнатную квартиру, Москва г, Радиальная 6-я ул., д. 7' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1303467/"><!-- noindex -->1-комн. кв., Москва г, Радиальная 6-я ул., д. 7<!-- /noindex --></a>
+                            <span class="price">2,7 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1281626/"><img width='203' height='152' src='/images/object_images/1281626/152x203/29c68c51-6121-4326-add6-9aa724d8661e.jpg' title='Купить однокомнатную квартиру, Москва г, Сиреневый б-р., д. 8' alt='Купить однокомнатную квартиру, Москва г, Сиреневый б-р., д. 8' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1281626/"><!-- noindex -->1-комн. кв., Москва г, Сиреневый б-р., д. 8<!-- /noindex --></a>
+                            <span class="price">3,25 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1286209/"><img width='203' height='152' src='/images/object_images/1286209/152x203/00e5352f-6684-4a6d-96ce-f7d4a525c5db.jpg' title='Купить однокомнатную квартиру, Москва г, Шоссейная ул., д. 42' alt='Купить однокомнатную квартиру, Москва г, Шоссейная ул., д. 42' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1286209/"><!-- noindex -->1-комн. кв., Москва г, Шоссейная ул., д. 42<!-- /noindex --></a>
+                            <span class="price">3,5 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1302967/"><img width='203' height='152' src='/images/object_images/1302967/152x203/07f6a893-00c4-4981-9e65-bedf45047f98.jpg' title='Купить однокомнатную квартиру, Москва г, Парковая 9-я ул., д. 66, корп. 2' alt='Купить однокомнатную квартиру, Москва г, Парковая 9-я ул., д. 66, корп. 2' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1302967/"><!-- noindex -->1-комн. кв., Москва г, Парковая 9-я ул., д. 66, корп. 2<!-- /noindex --></a>
+                            <span class="price">3,5 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1312700/"><img width='203' height='152' src='/images/object_images/1312700/152x203/002c9b11-2c82-40f7-abb5-766e09b4cec2.jpg' title='Купить двухкомнатную квартиру, Москва г, хохловка верх. ул., д. 17' alt='Купить двухкомнатную квартиру, Москва г, хохловка верх. ул., д. 17' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1312700/"><!-- noindex -->2-комн. кв., Москва г, хохловка верх. ул., д. 17<!-- /noindex --></a>
+                            <span class="price">2,8 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1309977/"><img width='203' height='152' src='/images/object_images/1309977/152x203/36290683-002e-4033-bed9-9a26d0770020.jpg' title='Купить двухкомнатную квартиру, Москва г, Северный мкр., д. 53' alt='Купить двухкомнатную квартиру, Москва г, Северный мкр., д. 53' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1309977/"><!-- noindex -->2-комн. кв., Москва г, Северный мкр., д. 53<!-- /noindex --></a>
+                            <span class="price">2,9 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1296167/"><img width='203' height='152' src='/images/object_images/1296167/152x203/002c13a1-009d-425f-a1ef-686d52549556.jpg' title='Купить двухкомнатную квартиру, Москва г, Первомайская ул., д. 24' alt='Купить двухкомнатную квартиру, Москва г, Первомайская ул., д. 24' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1296167/"><!-- noindex -->2-комн. кв., Москва г, Первомайская ул., д. 24<!-- /noindex --></a>
+                            <span class="price">4 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1283303/"><img width='203' height='152' src='/images/object_images/1283303/152x203/495a0011-0021-4807-b941-f5107edcc531.jpg' title='Купить двухкомнатную квартиру, Вороновское п, Центральная мкр., д. 5' alt='Купить двухкомнатную квартиру, Вороновское п, Центральная мкр., д. 5' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1283303/"><!-- noindex -->2-комн. кв., Вороновское п, Центральная мкр., д. 5<!-- /noindex --></a>
+                            <span class="price">4,3 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1315173/"><img width='203' height='152' src='/images/object_images/1315173/152x203/6dec6ddc-210c-450a-93fa-950febff848a.jpg' title='Купить трехкомнатную квартиру, Москва г, Отрадная ул., д. 16a' alt='Купить трехкомнатную квартиру, Москва г, Отрадная ул., д. 16a' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1315173/"><!-- noindex -->3-комн. кв., Москва г, Отрадная ул., д. 16a<!-- /noindex --></a>
+                            <span class="price">3 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1283594/"><img width='203' height='152' src='/images/object_images/1283594/152x203/320bc9a3-0057-484d-8462-7ff58e439e04.jpg' title='Купить трехкомнатную квартиру, Москва г, Капотня 2-й кв-л., д. 13' alt='Купить трехкомнатную квартиру, Москва г, Капотня 2-й кв-л., д. 13' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1283594/"><!-- noindex -->3-комн. кв., Москва г, Капотня 2-й кв-л., д. 13<!-- /noindex --></a>
+                            <span class="price">4,7 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1322590/"><img width='203' height='152' src='/images/object_images/1322590/152x203/00f72ffb-0050-47b6-9953-4d21547e5de0.jpg' title='Купить трехкомнатную квартиру, Зеленоград г, Андреевка пос.., д. 17' alt='Купить трехкомнатную квартиру, Зеленоград г, Андреевка пос.., д. 17' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1322590/"><!-- noindex -->3-комн. кв., Зеленоград г, Андреевка пос.., д. 17<!-- /noindex --></a>
+                            <span class="price">5,39 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1295556/"><img width='203' height='152' src='/images/object_images/1295556/152x203/0e49878b-00cf-46ae-b350-5d488f9366fa.jpg' title='Купить трехкомнатную квартиру, Москва г, Лазенки 6-я ул., д. 8' alt='Купить трехкомнатную квартиру, Москва г, Лазенки 6-я ул., д. 8' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1295556/"><!-- noindex -->3-комн. кв., Москва г, Лазенки 6-я ул., д. 8<!-- /noindex --></a>
+                            <span class="price">5,9 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1312716/"><img width='203' height='152' src='/images/object_images/1312716/152x203/6b4e4bf9-0026-43b7-900d-6c7e65dc0e33.jpg' title='Купить однокомнатную квартиру, Шатура г, Больничный проезд., д. 26' alt='Купить однокомнатную квартиру, Шатура г, Больничный проезд., д. 26' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1312716/"><!-- noindex -->1-комн. кв., Шатура г, Больничный проезд., д. 26<!-- /noindex --></a>
+                            <span class="price">0,59 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1159179/"><img width='203' height='152' src='/images/object_images/1159179/152x203/23f50f60-0b0b-4f3f-bafa-a0c4747b608e.jpg' title='Купить однокомнатную квартиру, Рошаль г, Свердлова ул., д. 35' alt='Купить однокомнатную квартиру, Рошаль г, Свердлова ул., д. 35' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1159179/"><!-- noindex -->1-комн. кв., Рошаль г, Свердлова ул., д. 35<!-- /noindex --></a>
+                            <span class="price">0,8 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1303046/"><img width='203' height='152' src='/images/object_images/1303046/152x203/001a48ff-00be-4ee9-ac16-e58960fdec60.jpg' title='Купить однокомнатную квартиру, Верея (Верейский с/о) пгт, Центральная ул., д. 36' alt='Купить однокомнатную квартиру, Верея (Верейский с/о) пгт, Центральная ул., д. 36' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1303046/"><!-- noindex -->1-комн. кв., Верея (Верейский с/о) пгт, Центральная ул., д. 36<!-- /noindex --></a>
+                            <span class="price">0,95 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1295070/"><img width='203' height='152' src='/images/object_images/1295070/152x203/4ee5608d-44b9-4795-86e0-247298f6abd1.jpg' title='Купить однокомнатную квартиру, Дмитровский р-н, Луговой п., д. 19' alt='Купить однокомнатную квартиру, Дмитровский р-н, Луговой п., д. 19' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1295070/"><!-- noindex -->1-комн. кв., Дмитровский р-н, Луговой п., д. 19<!-- /noindex --></a>
+                            <span class="price">1 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1303032/"><img width='203' height='152' src='/images/object_images/1303032/152x203/2d4d6976-007d-44ef-97aa-2f7807f97905.jpg' title='Купить двухкомнатную квартиру, Верея (Верейский с/о) пгт, Центральная ул., д. 36' alt='Купить двухкомнатную квартиру, Верея (Верейский с/о) пгт, Центральная ул., д. 36' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1303032/"><!-- noindex -->2-комн. кв., Верея (Верейский с/о) пгт, Центральная ул., д. 36<!-- /noindex --></a>
+                            <span class="price">0,95 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1320179/"><img width='203' height='152' src='/images/object_images/1320179/152x203/69b40f6f-00de-49ee-90b0-8bbee2e9aa4b.jpg' title='Купить двухкомнатную квартиру, Сергиево-Посадский р-н, Торгашино д., д. 18' alt='Купить двухкомнатную квартиру, Сергиево-Посадский р-н, Торгашино д., д. 18' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1320179/"><!-- noindex -->2-комн. кв., Сергиево-Посадский р-н, Торгашино д., д. 18<!-- /noindex --></a>
+                            <span class="price">1,2 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1320211/"><img width='203' height='152' src='/images/object_images/1320211/152x203/5efe7672-6ca0-47bb-9524-a00d05ccb155.jpg' title='Купить двухкомнатную квартиру, Сергиев-Посад г, 1 Мая ул., д. 18' alt='Купить двухкомнатную квартиру, Сергиев-Посад г, 1 Мая ул., д. 18' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1320211/"><!-- noindex -->2-комн. кв., Сергиев-Посад г, 1 Мая ул., д. 18<!-- /noindex --></a>
+                            <span class="price">1,2 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1320176/"><img width='203' height='152' src='/images/object_images/1320176/152x203/640806d5-6804-4949-83bb-fada90030825.jpg' title='Купить двухкомнатную квартиру, Сергиево-Посадский р-н, Торгашино д., д. 3' alt='Купить двухкомнатную квартиру, Сергиево-Посадский р-н, Торгашино д., д. 3' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1320176/"><!-- noindex -->2-комн. кв., Сергиево-Посадский р-н, Торгашино д., д. 3<!-- /noindex --></a>
+                            <span class="price">1,25 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1263279/"><img width='203' height='152' src='/images/object_images/1263279/152x203/00c5a081-1874-4b05-8483-307293b6ab82.jpg' title='Купить трехкомнатную квартиру, Дорохово п, Пионерская ул., д. 4' alt='Купить трехкомнатную квартиру, Дорохово п, Пионерская ул., д. 4' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1263279/"><!-- noindex -->3-комн. кв., Дорохово п, Пионерская ул., д. 4<!-- /noindex --></a>
+                            <span class="price">1,6 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1273947/"><img width='203' height='152' src='/images/object_images/1273947/152x203/002a681a-0037-431e-9334-e4bb21fe0d26.jpg' title='Купить трехкомнатную квартиру, Кашира г, Центральная ул., д. 8' alt='Купить трехкомнатную квартиру, Кашира г, Центральная ул., д. 8' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1273947/"><!-- noindex -->3-комн. кв., Кашира г, Центральная ул., д. 8<!-- /noindex --></a>
+                            <span class="price">2 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1289765/"><img width='203' height='152' src='/images/object_images/1289765/152x203/00e7969c-6187-4847-9323-b7821ecdabea.jpg' title='Купить трехкомнатную квартиру, Кокино д, Садовая ул., д. 25' alt='Купить трехкомнатную квартиру, Кокино д, Садовая ул., д. 25' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1289765/"><!-- noindex -->3-комн. кв., Кокино д, Садовая ул., д. 25<!-- /noindex --></a>
+                            <span class="price">2,3 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1275623/"><img width='203' height='152' src='/images/object_images/1275623/152x203/003e04a0-003e-450c-85bb-d1d32aa5b338.jpg' title='Купить трехкомнатную квартиру, Сергиев Посад г, Лесная ул., д. 5' alt='Купить трехкомнатную квартиру, Сергиев Посад г, Лесная ул., д. 5' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1275623/"><!-- noindex -->3-комн. кв., Сергиев Посад г, Лесная ул., д. 5<!-- /noindex --></a>
+                            <span class="price">2,3 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1300178/"><img width='203' height='152' src='/images/object_images/1300178/152x203/69e07a1a-00b3-4b3e-9cea-2d14b614f1cd.jpg' title='Купить однокомнатную квартиру, Москва г, Ташкентский пер., д. 9, корп. 3' alt='Купить однокомнатную квартиру, Москва г, Ташкентский пер., д. 9, корп. 3' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1300178/"><!-- noindex -->1-комн. кв., Москва г, Ташкентский пер., д. 9, корп. 3<!-- /noindex --></a>
+                            <span class="price">5 950 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1267689/"><img width='203' height='152' src='/images/object_images/1267689/152x203/18b7ec35-675b-4414-b378-1653b2682cab.jpg' title='Купить однокомнатную квартиру, Москва г, Фадеева ул., д. 4' alt='Купить однокомнатную квартиру, Москва г, Фадеева ул., д. 4' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1267689/"><!-- noindex -->1-комн. кв., Москва г, Фадеева ул., д. 4<!-- /noindex --></a>
+                            <span class="price">55 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1315214/"><img width='203' height='152' src='/images/object_images/1315214/152x203/00184d05-7d99-4c18-a3d7-193895b05423.jpg' title='Купить однокомнатную квартиру, Москва г, Профсоюзная ул., д. 64' alt='Купить однокомнатную квартиру, Москва г, Профсоюзная ул., д. 64' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1315214/"><!-- noindex -->1-комн. кв., Москва г, Профсоюзная ул., д. 64<!-- /noindex --></a>
+                            <span class="price">25,69 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1315237/"><img width='203' height='152' src='/images/object_images/1315237/152x203/29fd4642-0072-4b8a-b493-5151ed1e51df.jpg' title='Купить однокомнатную квартиру, Москва г, Профсоюзная ул., д. 64' alt='Купить однокомнатную квартиру, Москва г, Профсоюзная ул., д. 64' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1315237/"><!-- noindex -->1-комн. кв., Москва г, Профсоюзная ул., д. 64<!-- /noindex --></a>
+                            <span class="price">25,69 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1283614/"><img width='203' height='152' src='/images/object_images/1283614/152x203/00e84d7c-06f8-444d-b0e2-d8fc52a5e323.jpg' title='Купить двухкомнатную квартиру, Москва г, Шмитовский проезд., д. 16, корп. 1' alt='Купить двухкомнатную квартиру, Москва г, Шмитовский проезд., д. 16, корп. 1' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1283614/"><!-- noindex -->2-комн. кв., Москва г, Шмитовский проезд., д. 16, корп. 1<!-- /noindex --></a>
+                            <span class="price">102,6 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1313381/"><img width='203' height='152' src='/images/object_images/1313381/152x203/3edb2f90-3ee2-4ddb-be73-acc6815faf35.jpg' title='Купить двухкомнатную квартиру, Москва г, Фрунзенская наб., д. 12' alt='Купить двухкомнатную квартиру, Москва г, Фрунзенская наб., д. 12' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1313381/"><!-- noindex -->2-комн. кв., Москва г, Фрунзенская наб., д. 12<!-- /noindex --></a>
+                            <span class="price">65 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1283860/"><img width='203' height='152' src='/images/object_images/1283860/152x203/0043e657-7cbd-4e10-96d2-3aaa9677b54a.jpg' title='Купить двухкомнатную квартиру, Москва г, Козлова ул., д. 34' alt='Купить двухкомнатную квартиру, Москва г, Козлова ул., д. 34' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1283860/"><!-- noindex -->2-комн. кв., Москва г, Козлова ул., д. 34<!-- /noindex --></a>
+                            <span class="price">65 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1292433/"><img width='203' height='152' src='/images/object_images/1292433/152x203/5b0c93fb-3ef7-4882-b084-083899c1c937.jpg' title='Купить двухкомнатную квартиру, Москва г, Всеволожский пер., д. 3' alt='Купить двухкомнатную квартиру, Москва г, Всеволожский пер., д. 3' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1292433/"><!-- noindex -->2-комн. кв., Москва г, Всеволожский пер., д. 3<!-- /noindex --></a>
+                            <span class="price">56 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1177510/"><img width='203' height='152' src='/images/object_images/1177510/152x203/4f7bd1db-3f7f-48db-ac5d-5003f8b57b27.jpg' title='Купить трехкомнатную квартиру, Москва г, Скатертный пер., д. 18' alt='Купить трехкомнатную квартиру, Москва г, Скатертный пер., д. 18' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1177510/"><!-- noindex -->3-комн. кв., Москва г, Скатертный пер., д. 18<!-- /noindex --></a>
+                            <span class="price">370 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1287221/"><img width='203' height='152' src='/images/object_images/1287221/152x203/2ede96fc-2a9a-4e02-8bc5-54e7c5fc643c.jpg' title='Купить трехкомнатную квартиру, Москва г, Поварская ул., д. 28, стр. 2' alt='Купить трехкомнатную квартиру, Москва г, Поварская ул., д. 28, стр. 2' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1287221/"><!-- noindex -->3-комн. кв., Москва г, Поварская ул., д. 28, стр. 2<!-- /noindex --></a>
+                            <span class="price">250 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1275615/"><img width='203' height='152' src='/images/object_images/1275615/152x203/3585d8cb-3bd2-4ae3-912b-052d13ad77c5.jpg' title='Купить трехкомнатную квартиру, Москва г, Мичуринский пр-кт., д. 6, корп. 1' alt='Купить трехкомнатную квартиру, Москва г, Мичуринский пр-кт., д. 6, корп. 1' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1275615/"><!-- noindex -->3-комн. кв., Москва г, Мичуринский пр-кт., д. 6, корп. 1<!-- /noindex --></a>
+                            <span class="price">230 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/flats/1225726/"><img width='203' height='152' src='/images/object_images/1225726/152x203/2a9e7f30-5442-4897-b2cc-199f28e3025a.jpg' title='Купить трехкомнатную квартиру, Москва г, Климашкина ул., д. 17, стр. 2' alt='Купить трехкомнатную квартиру, Москва г, Климашкина ул., д. 17, стр. 2' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/flats/1225726/"><!-- noindex -->3-комн. кв., Москва г, Климашкина ул., д. 17, стр. 2<!-- /noindex --></a>
+                            <span class="price">216 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <a rel="nofollow" href="#" class="btn-prev" data-jcarousel-control="true" data-target="-=4"><!-- noindex -->Назад<!-- /noindex --></a>
+        <a rel="nofollow" href="#" class="btn-next" data-jcarousel-control="true" data-target="+=4"><!-- noindex -->Вперед<!-- /noindex --></a>
+    </div>
+</div>
+<div class="bl_carousel_wrap cf">
+    <div class="h2"><a href="/sale-realty/newbuild/">Новостройки</a></div>
+    <p>Мы&nbsp;предлагаем квартиры различного класса в&nbsp;новостройках как в&nbsp;центре столицы, так и&nbsp;в&nbsp;Московской области. На&nbsp;Ваш выбор&nbsp;&mdash; квартиры с&nbsp;возможностью ипотеки в&nbsp;только сданных домах от&nbsp;застройщиков.</p>    <div class="bl_carousel_inner">
+        <div class="bl_carousel" data-jcarousel="true" data-wrap="circular">
+            <ul>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1077557/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31765332.jpg" title="Купить квартиру в новостройке Немчиновка п., Советский пр-кт, к. 6а, мкр. Немчиновка" alt="Купить квартиру в новостройке Немчиновка п., Советский пр-кт, к. 6а, мкр. Немчиновка" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1077557/"><!-- noindex -->Немчиновка п., Советский пр-кт, к. 6а, мкр. Немчиновка<!-- /noindex --></a>
+                            <span class="price">от 3,98 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1077544/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31765330.jpg" title="Купить квартиру в новостройке Рождествено с., к. 7, ЖК Новоснегирёвский" alt="Купить квартиру в новостройке Рождествено с., к. 7, ЖК Новоснегирёвский" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1077544/"><!-- noindex -->Рождествено с., к. 7, ЖК Новоснегирёвский<!-- /noindex --></a>
+                            <span class="price">от 2,19 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1254318/"><img width="203" height="152" src="/images/object_images/single_images/152x203/32321274.jpg" title="Купить квартиру в новостройке Пушкино г., 50 лет Комсомола ул, д. 28, ЖК Фортис" alt="Купить квартиру в новостройке Пушкино г., 50 лет Комсомола ул, д. 28, ЖК Фортис" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1254318/"><!-- noindex -->Пушкино г., 50 лет Комсомола ул, д. 28, ЖК Фортис<!-- /noindex --></a>
+                            <span class="price">от 3 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1097229/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31765335.jpg" title="Купить квартиру в новостройке Пушкино г., мкр.Заветы Ильича, ул.Степана Разина ул, д. 2, ЖК Светолюбово" alt="Купить квартиру в новостройке Пушкино г., мкр.Заветы Ильича, ул.Степана Разина ул, д. 2, ЖК Светолюбово" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1097229/"><!-- noindex -->Пушкино г., мкр.Заветы Ильича, ул.Степана Разина ул, д. 2, ЖК Светолюбово<!-- /noindex --></a>
+                            <span class="price">от 2,19 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1160942/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31765339.jpg" title="Купить квартиру в новостройке Ивантеевка г., Хлебозаводская ул, д. 28, 30, к. 6, ЖК БЕРЕГ СКАЛБЫ (II очередь, ЖК Дача Шатена)" alt="Купить квартиру в новостройке Ивантеевка г., Хлебозаводская ул, д. 28, 30, к. 6, ЖК БЕРЕГ СКАЛБЫ (II очередь, ЖК Дача Шатена)" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1160942/"><!-- noindex -->Ивантеевка г., Хлебозаводская ул, д. 28, 30, к. 6, ЖК БЕРЕГ СКАЛБЫ (II очередь, ЖК Дача Шатена)<!-- /noindex --></a>
+                            <span class="price">от 2,41 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1077553/"><img width="203" height="152" src="/images/object_images/single_images/152x203/32358150.jpg" title="Купить квартиру в новостройке Ивантеевка г., Хлебозаводская ул, д. 12, к. 5, ЖК БЕРЕГ СКАЛБЫ (строительный адрес: Хлебозаводская ул, д.10, корп.1)" alt="Купить квартиру в новостройке Ивантеевка г., Хлебозаводская ул, д. 12, к. 5, ЖК БЕРЕГ СКАЛБЫ (строительный адрес: Хлебозаводская ул, д.10, корп.1)" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1077553/"><!-- noindex -->Ивантеевка г., Хлебозаводская ул, д. 12, к. 5, ЖК БЕРЕГ СКАЛБЫ (строительный адрес: Хлебозаводская ул, д.10, корп.1)<!-- /noindex --></a>
+                            <span class="price">от 3,12 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1302846/"><img width="203" height="152" src="/images/object_images/single_images/152x203/32280314.jpg" title="Купить квартиру в новостройке Красногорск г., Жуковского ул, к. Б, вл. 25, ЖК RED HILLS" alt="Купить квартиру в новостройке Красногорск г., Жуковского ул, к. Б, вл. 25, ЖК RED HILLS" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1302846/"><!-- noindex -->Красногорск г., Жуковского ул, к. Б, вл. 25, ЖК RED HILLS<!-- /noindex --></a>
+                            <span class="price">от 4,35 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1145181/"><img width="203" height="152" src="/images/object_images/single_images/152x203/32110945.jpg" title="Купить квартиру в новостройке Красногорск г., Центральная ул, д. М-IV, ЖК Молодежный" alt="Купить квартиру в новостройке Красногорск г., Центральная ул, д. М-IV, ЖК Молодежный" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1145181/"><!-- noindex -->Красногорск г., Центральная ул, д. М-IV, ЖК Молодежный<!-- /noindex --></a>
+                            <span class="price">от 2,5 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1273763/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31888596.jpg" title="Купить квартиру в новостройке Лыткарино г., Набережная ул, д. 4-6, ЖК Высокий берег" alt="Купить квартиру в новостройке Лыткарино г., Набережная ул, д. 4-6, ЖК Высокий берег" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1273763/"><!-- noindex -->Лыткарино г., Набережная ул, д. 4-6, ЖК Высокий берег<!-- /noindex --></a>
+                            <span class="price">от 2,5 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1268344/"><img width="203" height="152" src="/images/object_images/single_images/152x203/32508879.jpg" title="Купить квартиру в новостройке Лобня г., Свободный проезд, к. 9, мкр. Восточный" alt="Купить квартиру в новостройке Лобня г., Свободный проезд, к. 9, мкр. Восточный" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1268344/"><!-- noindex -->Лобня г., Свободный проезд, к. 9, мкр. Восточный<!-- /noindex --></a>
+                            <span class="price">от 2,79 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1143304/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31765336.jpg" title="Купить квартиру в новостройке Салтыковка мкр., Школьная ул, д. 9, ЖК Квартал Европа м.Новокосино" alt="Купить квартиру в новостройке Салтыковка мкр., Школьная ул, д. 9, ЖК Квартал Европа м.Новокосино" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1143304/"><!-- noindex -->Салтыковка мкр., Школьная ул, д. 9, ЖК Квартал Европа м.Новокосино<!-- /noindex --></a>
+                            <span class="price">от 1,99 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1077522/"><img width="203" height="152" src="/images/object_images/single_images/152x203/6085305.jpg" title="Купить квартиру в новостройке Балашиха г., 1 Мая мкр, д. 24, мкр. 1 Мая (строительный адрес: корпус 4)" alt="Купить квартиру в новостройке Балашиха г., 1 Мая мкр, д. 24, мкр. 1 Мая (строительный адрес: корпус 4)" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1077522/"><!-- noindex -->Балашиха г., 1 Мая мкр, д. 24, мкр. 1 Мая (строительный адрес: корпус 4)<!-- /noindex --></a>
+                            <span class="price">от 6,79 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1317183/"><img width="203" height="152" src="/images/object_images/single_images/152x203/32515353.jpg" title="Купить квартиру в новостройке Лесной Городок дп., д. 12 по ГП, ЖК Лесной городок" alt="Купить квартиру в новостройке Лесной Городок дп., д. 12 по ГП, ЖК Лесной городок" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1317183/"><!-- noindex -->Лесной Городок дп., д. 12 по ГП, ЖК Лесной городок<!-- /noindex --></a>
+                            <span class="price">от 3,7 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1305105/"><img width="203" height="152" src="/images/object_images/single_images/152x203/32321711.jpg" title="Купить квартиру в новостройке Сходня мкр., 2-й Мичуринский туп, к. 4, вл. 7, ЖК Квартал 7" alt="Купить квартиру в новостройке Сходня мкр., 2-й Мичуринский туп, к. 4, вл. 7, ЖК Квартал 7" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1305105/"><!-- noindex -->Сходня мкр., 2-й Мичуринский туп, к. 4, вл. 7, ЖК Квартал 7<!-- /noindex --></a>
+                            <span class="price">от 2,67 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1124141/"><img width="203" height="152" src="/images/object_images/single_images/152x203/32395709.jpg" title="Купить квартиру в новостройке Мытищи г., Институтская 2-я ул, к. 33, ЖК Спутник" alt="Купить квартиру в новостройке Мытищи г., Институтская 2-я ул, к. 33, ЖК Спутник" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1124141/"><!-- noindex -->Мытищи г., Институтская 2-я ул, к. 33, ЖК Спутник<!-- /noindex --></a>
+                            <span class="price">от 2,77 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1138417/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31007217.jpg" title="Купить квартиру в новостройке Быково рп., Щорса ул, вл. 4, ЖК Эко-Квадрат" alt="Купить квартиру в новостройке Быково рп., Щорса ул, вл. 4, ЖК Эко-Квадрат" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1138417/"><!-- noindex -->Быково рп., Щорса ул, вл. 4, ЖК Эко-Квадрат<!-- /noindex --></a>
+                            <span class="price">от 2,43 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1220625/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31765344.jpg" title="Купить квартиру в новостройке Железнодорожный г., Леоновское ш, к. 9, вл. 2, ЖК Леоновский парк" alt="Купить квартиру в новостройке Железнодорожный г., Леоновское ш, к. 9, вл. 2, ЖК Леоновский парк" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1220625/"><!-- noindex -->Железнодорожный г., Леоновское ш, к. 9, вл. 2, ЖК Леоновский парк<!-- /noindex --></a>
+                            <span class="price">от 3,05 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1077524/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31765325.jpg" title="Купить квартиру в новостройке Звенигород г., Садовая ул, д. 5, квартал Заречье" alt="Купить квартиру в новостройке Звенигород г., Садовая ул, д. 5, квартал Заречье" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1077524/"><!-- noindex -->Звенигород г., Садовая ул, д. 5, квартал Заречье<!-- /noindex --></a>
+                            <span class="price">от 2,45 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/987265/"><img width="203" height="152" src="/images/object_images/single_images/152x203/6254731.jpg" title="Купить квартиру в новостройке Люберцы г., Авиаторов ул, д. 15 (строительный адрес: Авиаторов ул, корп.45)" alt="Купить квартиру в новостройке Люберцы г., Авиаторов ул, д. 15 (строительный адрес: Авиаторов ул, корп.45)" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/987265/"><!-- noindex -->Люберцы г., Авиаторов ул, д. 15 (строительный адрес: Авиаторов ул, корп.45)<!-- /noindex --></a>
+                            <span class="price">от 8,15 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1195469/"><img width="203" height="152" src="/images/object_images/single_images/152x203/32150115.jpg" title="Купить квартиру в новостройке Москва., Маршала Рыбалко ул, д. 2, к. паркинг, ЖК МАРШАЛ" alt="Купить квартиру в новостройке Москва., Маршала Рыбалко ул, д. 2, к. паркинг, ЖК МАРШАЛ" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1195469/"><!-- noindex -->Москва., Маршала Рыбалко ул, д. 2, к. паркинг, ЖК МАРШАЛ<!-- /noindex --></a>
+                            <span class="price">от 8,77 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1220310/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31902932.jpg" title="Купить квартиру в новостройке Москва., Циолковского ул, д. 7, к. Б, ЖК На Циолковского (строительный адрес: Циолковского ул, вл.9-13, корп.6Б)" alt="Купить квартиру в новостройке Москва., Циолковского ул, д. 7, к. Б, ЖК На Циолковского (строительный адрес: Циолковского ул, вл.9-13, корп.6Б)" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1220310/"><!-- noindex -->Москва., Циолковского ул, д. 7, к. Б, ЖК На Циолковского (строительный адрес: Циолковского ул, вл.9-13, корп.6Б)<!-- /noindex --></a>
+                            <span class="price">от 9,85 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1077558/"><img width="203" height="152" src="/images/object_images/single_images/152x203/32519443.jpg" title="Купить квартиру в новостройке Москва., Ягодная ул, д. 8, к. 3, ЖК Загорье (строительный адрес: Загорье мкр, корп.1)" alt="Купить квартиру в новостройке Москва., Ягодная ул, д. 8, к. 3, ЖК Загорье (строительный адрес: Загорье мкр, корп.1)" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1077558/"><!-- noindex -->Москва., Ягодная ул, д. 8, к. 3, ЖК Загорье (строительный адрес: Загорье мкр, корп.1)<!-- /noindex --></a>
+                            <span class="price">от 5,28 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1196630/"><img width="203" height="152" src="/images/object_images/single_images/152x203/32229111.jpg" title="Купить квартиру в новостройке Москва., Митинская ул, вл. 16, МФК Митинская 16 Апарт-отель YES" alt="Купить квартиру в новостройке Москва., Митинская ул, вл. 16, МФК Митинская 16 Апарт-отель YES" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1196630/"><!-- noindex -->Москва., Митинская ул, вл. 16, МФК Митинская 16 Апарт-отель YES<!-- /noindex --></a>
+                            <span class="price">от 4,98 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1131467/"><img width="203" height="152" src="/images/object_images/single_images/152x203/30975050.jpg" title="Купить квартиру в новостройке Москва., Полины Осипенко ул, д. 10, к. 1" alt="Купить квартиру в новостройке Москва., Полины Осипенко ул, д. 10, к. 1" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1131467/"><!-- noindex -->Москва., Полины Осипенко ул, д. 10, к. 1<!-- /noindex --></a>
+                            <span class="price">от 22,08 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1154983/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31765338.jpg" title="Купить квартиру в новостройке Москва., Часовая ул, д. 23, к. 1, ЖК Весна на Балтийском" alt="Купить квартиру в новостройке Москва., Часовая ул, д. 23, к. 1, ЖК Весна на Балтийском" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1154983/"><!-- noindex -->Москва., Часовая ул, д. 23, к. 1, ЖК Весна на Балтийском<!-- /noindex --></a>
+                            <span class="price">от 34,5 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1301767/"><img width="203" height="152" src="/images/object_images/single_images/152x203/32275642.jpg" title="Купить квартиру в новостройке Москва., Дыбенко ул, д. 38, к. 1, ЖК Корона Севера" alt="Купить квартиру в новостройке Москва., Дыбенко ул, д. 38, к. 1, ЖК Корона Севера" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1301767/"><!-- noindex -->Москва., Дыбенко ул, д. 38, к. 1, ЖК Корона Севера<!-- /noindex --></a>
+                            <span class="price">от 16,98 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1185807/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31765341.jpg" title="Купить квартиру в новостройке Москва., Ленинградское ш, д. 130, к. 3, р-н Левобережный, мкр. 1А (строительный адрес: р-н Левобережный, мкр.1А, корп.13)" alt="Купить квартиру в новостройке Москва., Ленинградское ш, д. 130, к. 3, р-н Левобережный, мкр. 1А (строительный адрес: р-н Левобережный, мкр.1А, корп.13)" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1185807/"><!-- noindex -->Москва., Ленинградское ш, д. 130, к. 3, р-н Левобережный, мкр. 1А (строительный адрес: р-н Левобережный, мкр.1А, корп.13)<!-- /noindex --></a>
+                            <span class="price">от 18,22 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1148042/"><img width="203" height="152" src="/images/object_images/single_images/152x203/19023142.jpg" title="Купить квартиру в новостройке Троицк г., Солнечная ул, д. 9, ЖК Солнечный" alt="Купить квартиру в новостройке Троицк г., Солнечная ул, д. 9, ЖК Солнечный" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1148042/"><!-- noindex -->Троицк г., Солнечная ул, д. 9, ЖК Солнечный<!-- /noindex --></a>
+                            <span class="price">от 5,73 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1077561/"><img width="203" height="152" src="/images/object_images/single_images/152x203/7888762.jpg" title="Купить квартиру в новостройке Москва., Попов проезд, д. 1, к. 2, ЖК На Яузе" alt="Купить квартиру в новостройке Москва., Попов проезд, д. 1, к. 2, ЖК На Яузе" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1077561/"><!-- noindex -->Москва., Попов проезд, д. 1, к. 2, ЖК На Яузе<!-- /noindex --></a>
+                            <span class="price">от 106,62 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1077528/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31765328.jpg" title="Купить квартиру в новостройке Москва., Покрышкина ул, д. 8, к. 3, ЖК Академия Люкс (строительный адрес: Вернадского пр-т, вл.84, к.3)" alt="Купить квартиру в новостройке Москва., Покрышкина ул, д. 8, к. 3, ЖК Академия Люкс (строительный адрес: Вернадского пр-т, вл.84, к.3)" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1077528/"><!-- noindex -->Москва., Покрышкина ул, д. 8, к. 3, ЖК Академия Люкс (строительный адрес: Вернадского пр-т, вл.84, к.3)<!-- /noindex --></a>
+                            <span class="price">от 21,71 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/newbuild/1217825/"><img width="203" height="152" src="/images/object_images/single_images/152x203/31107536.jpg" title="Купить квартиру в новостройке Москва., Изумрудная ул, вл. 18/14, МФК Скай Паркс" alt="Купить квартиру в новостройке Москва., Изумрудная ул, вл. 18/14, МФК Скай Паркс" class="cr3"></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/newbuild/1217825/"><!-- noindex -->Москва., Изумрудная ул, вл. 18/14, МФК Скай Паркс<!-- /noindex --></a>
+                            <span class="price">от 4,98 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <a rel="nofollow" href="#" class="btn-prev" data-jcarousel-control="true" data-target="-=4"><!-- noindex -->Назад<!-- /noindex --></a>
+        <a rel="nofollow" href="#" class="btn-next" data-jcarousel-control="true" data-target="+=4"><!-- noindex -->Вперед<!-- /noindex --></a>
+    </div>
+</div>
+<div class="bl_carousel_wrap cf">
+    <div class="h2"><a href="/rent-realty/flats/">Аренда квартир и комнат</a></div>
+    
+<p>Предложения по&nbsp;аренде квартир и&nbsp;комнат в Москве и Московской области от эконом- до бизнес-класса.</p>
+    <div class="bl_carousel_inner">
+        <div class="bl_carousel" data-jcarousel="true" data-wrap="circular">
+            <ul>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1312945/"><img width='203' height='152' src='/images/object_images/1312945/152x203/0084e6fe-1f73-4f68-899b-9845b68bc516.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Фрязевская ул' alt='Снять в аренду однокомнатную квартиру в Москве, Фрязевская ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1312945/"><!-- noindex -->1-комн. кв., Фрязевская ул<!-- /noindex --></a>
+                            <span class="price">30 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1284163/"><img width='203' height='152' src='/images/object_images/1284163/152x203/7d5a2439-00ba-41f2-8f20-5096674d849c.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Академика Арцимовича ул' alt='Снять в аренду однокомнатную квартиру в Москве, Академика Арцимовича ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1284163/"><!-- noindex -->1-комн. кв., Академика Арцимовича ул<!-- /noindex --></a>
+                            <span class="price">27 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1317057/"><img width='203' height='152' src='/images/object_images/1317057/152x203/0096e80c-0013-480f-ac2f-b6874b9a8a78.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Литовский б-р' alt='Снять в аренду однокомнатную квартиру в Москве, Литовский б-р' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1317057/"><!-- noindex -->1-комн. кв., Литовский б-р<!-- /noindex --></a>
+                            <span class="price">30 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1319688/"><img width='203' height='152' src='/images/object_images/1319688/152x203/003738a9-4b66-43ba-9c6f-8d84f75c4502.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Барклая ул' alt='Снять в аренду однокомнатную квартиру в Москве, Барклая ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1319688/"><!-- noindex -->1-комн. кв., Барклая ул<!-- /noindex --></a>
+                            <span class="price">29 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1263305/"><img width='203' height='152' src='/images/object_images/1263305/152x203/0b7d3340-1318-4453-b894-eca5061784d1.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Стромынка ул' alt='Снять в аренду однокомнатную квартиру в Москве, Стромынка ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1263305/"><!-- noindex -->1-комн. кв., Стромынка ул<!-- /noindex --></a>
+                            <span class="price">25 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1243660/"><img width='203' height='152' src='/images/object_images/1243660/152x203/0003268a-0067-4e83-a018-ef3084c3e7eb.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Черемушкинская Б. ул' alt='Снять в аренду однокомнатную квартиру в Москве, Черемушкинская Б. ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1243660/"><!-- noindex -->1-комн. кв., Черемушкинская Б. ул<!-- /noindex --></a>
+                            <span class="price">30 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1298992/"><img width='203' height='152' src='/images/object_images/1298992/152x203/007f3c9c-56de-48b8-b8dc-90bd216b547e.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Ленинградское ш' alt='Снять в аренду однокомнатную квартиру в Москве, Ленинградское ш' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1298992/"><!-- noindex -->1-комн. кв., Ленинградское ш<!-- /noindex --></a>
+                            <span class="price">28 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1263106/"><img width='203' height='152' src='/images/object_images/1263106/152x203/276331ea-00da-4610-b758-d7655aeeeb07.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Волгоградский пр-кт' alt='Снять в аренду однокомнатную квартиру в Москве, Волгоградский пр-кт' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1263106/"><!-- noindex -->1-комн. кв., Волгоградский пр-кт<!-- /noindex --></a>
+                            <span class="price">26 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1194002/"><img width='203' height='152' src='/images/object_images/1194002/152x203/007918d4-1166-4746-970f-07a63e3d8f2b.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Новоподмосковный 2-й пер' alt='Снять в аренду однокомнатную квартиру в Москве, Новоподмосковный 2-й пер' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1194002/"><!-- noindex -->1-комн. кв., Новоподмосковный 2-й пер<!-- /noindex --></a>
+                            <span class="price">25 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1179018/"><img width='203' height='152' src='/images/object_images/1179018/152x203/0090d87a-1969-40ae-bf4b-14012942223c.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Фомичевой ул' alt='Снять в аренду однокомнатную квартиру в Москве, Фомичевой ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1179018/"><!-- noindex -->1-комн. кв., Фомичевой ул<!-- /noindex --></a>
+                            <span class="price">30 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1168627/"><img width='203' height='152' src='/images/object_images/1168627/152x203/0034e1f3-00e3-4a1b-9f16-8c4549616aae.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Хромова ул' alt='Снять в аренду однокомнатную квартиру в Москве, Хромова ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1168627/"><!-- noindex -->1-комн. кв., Хромова ул<!-- /noindex --></a>
+                            <span class="price">25 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1314818/"><img width='203' height='152' src='/images/object_images/1314818/152x203/019133cf-007c-475a-9ec4-d2db57bd2876.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Балаклавский пр-кт' alt='Снять в аренду однокомнатную квартиру в Москве, Балаклавский пр-кт' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1314818/"><!-- noindex -->1-комн. кв., Балаклавский пр-кт<!-- /noindex --></a>
+                            <span class="price">30 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1285993/"><img width='203' height='152' src='/images/object_images/1285993/152x203/16188679-00ba-4584-b844-ea3eb8831d6b.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Стрельбищенский пер' alt='Снять в аренду однокомнатную квартиру в Москве, Стрельбищенский пер' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1285993/"><!-- noindex -->1-комн. кв., Стрельбищенский пер<!-- /noindex --></a>
+                            <span class="price">30 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1296561/"><img width='203' height='152' src='/images/object_images/1296561/152x203/27675137-687c-4e07-9c02-04546f40fb25.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Грекова ул' alt='Снять в аренду однокомнатную квартиру в Москве, Грекова ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1296561/"><!-- noindex -->1-комн. кв., Грекова ул<!-- /noindex --></a>
+                            <span class="price">30 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1318613/"><img width='203' height='152' src='/images/object_images/1318613/152x203/1ab9e9a9-72bb-4152-b479-4bcbdf63e0b4.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Соломенной Сторожки проезд' alt='Снять в аренду однокомнатную квартиру в Москве, Соломенной Сторожки проезд' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1318613/"><!-- noindex -->1-комн. кв., Соломенной Сторожки проезд<!-- /noindex --></a>
+                            <span class="price">29 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1302378/"><img width='203' height='152' src='/images/object_images/1302378/152x203/0c7c2e9c-0714-490c-9e41-4f5fe224b880.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Буденного пр-кт' alt='Снять в аренду однокомнатную квартиру в Москве, Буденного пр-кт' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1302378/"><!-- noindex -->1-комн. кв., Буденного пр-кт<!-- /noindex --></a>
+                            <span class="price">29 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1281304/"><img width='203' height='152' src='/images/object_images/1281304/152x203/002b5d4d-228d-4a18-a1a9-d41ee5bd7c36.jpg' title='Снять в аренду однокомнатную квартиру в Москве, Волгоградский пр-кт' alt='Снять в аренду однокомнатную квартиру в Москве, Волгоградский пр-кт' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1281304/"><!-- noindex -->1-комн. кв., Волгоградский пр-кт<!-- /noindex --></a>
+                            <span class="price">30 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1167095/"><img width='203' height='152' src='/images/object_images/1167095/152x203/00bdb12f-30bd-4328-a0eb-b4185b58d526.jpg' title='Снять в аренду четырехкомнатную квартиру в Москве, Мосфильмовская ул' alt='Снять в аренду четырехкомнатную квартиру в Москве, Мосфильмовская ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1167095/"><!-- noindex -->4-комн. кв., Мосфильмовская ул<!-- /noindex --></a>
+                            <span class="price">200 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1168218/"><img width='203' height='152' src='/images/object_images/1168218/152x203/3432c42a-30b1-4a87-9428-ea186c280138.jpg' title='Снять в аренду трехкомнатную квартиру в Москве, Оружейный пер' alt='Снять в аренду трехкомнатную квартиру в Москве, Оружейный пер' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1168218/"><!-- noindex -->3-комн. кв., Оружейный пер<!-- /noindex --></a>
+                            <span class="price">200 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1314122/"><img width='203' height='152' src='/images/object_images/1314122/152x203/5fc6861d-3103-4dbf-a31d-87588ff90364.jpg' title='Снять в аренду четырехкомнатную квартиру в Москве, Трехпрудный пер' alt='Снять в аренду четырехкомнатную квартиру в Москве, Трехпрудный пер' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1314122/"><!-- noindex -->4-комн. кв., Трехпрудный пер<!-- /noindex --></a>
+                            <span class="price">200 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1321015/"><img width='203' height='152' src='/images/object_images/1321015/152x203/00d0f83e-63f4-4ec6-baeb-9ada19805db8.jpg' title='Снять в аренду трехкомнатную квартиру в Москве, Давыдковская ул' alt='Снять в аренду трехкомнатную квартиру в Москве, Давыдковская ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1321015/"><!-- noindex -->3-комн. кв., Давыдковская ул<!-- /noindex --></a>
+                            <span class="price">200 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1168082/"><img width='203' height='152' src='/images/object_images/1168082/152x203/24fd5d39-79c0-479d-b1ea-3f34cb9ca108.jpg' title='Снять в аренду четырехкомнатную квартиру в Москве, Руновский пер' alt='Снять в аренду четырехкомнатную квартиру в Москве, Руновский пер' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1168082/"><!-- noindex -->4-комн. кв., Руновский пер<!-- /noindex --></a>
+                            <span class="price">200 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1311659/"><img width='203' height='152' src='/images/object_images/1311659/152x203/00709e0d-00b8-451b-933e-cf23803d1e18.jpg' title='Снять в аренду трехкомнатную квартиру в Москве, Пресненская набережная ул' alt='Снять в аренду трехкомнатную квартиру в Москве, Пресненская набережная ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1311659/"><!-- noindex -->3-комн. кв., Пресненская набережная ул<!-- /noindex --></a>
+                            <span class="price">210 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1317068/"><img width='203' height='152' src='/images/object_images/1317068/152x203/3110bb57-1480-4ba1-8c47-a67a82606578.jpg' title='Снять в аренду четырехкомнатную квартиру в Москве, Кременчугская ул' alt='Снять в аренду четырехкомнатную квартиру в Москве, Кременчугская ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1317068/"><!-- noindex -->4-комн. кв., Кременчугская ул<!-- /noindex --></a>
+                            <span class="price">200 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1311175/"><img width='203' height='152' src='/images/object_images/1311175/152x203/3e0e7cf7-0015-4170-8efa-388dba3c8bce.jpg' title='Снять в аренду четырехкомнатную квартиру в Москве, Полянка М. ул' alt='Снять в аренду четырехкомнатную квартиру в Москве, Полянка М. ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1311175/"><!-- noindex -->4-комн. кв., Полянка М. ул<!-- /noindex --></a>
+                            <span class="price">200 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1280119/"><img width='203' height='152' src='/images/object_images/1280119/152x203/37e0226a-30c6-43d4-a6be-d27964f1fca5.jpg' title='Снять в аренду трехкомнатную квартиру в Москве, Солянка ул' alt='Снять в аренду трехкомнатную квартиру в Москве, Солянка ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1280119/"><!-- noindex -->3-комн. кв., Солянка ул<!-- /noindex --></a>
+                            <span class="price">200 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1270106/"><img width='203' height='152' src='/images/object_images/1270106/152x203/4d3736e1-0017-4906-8142-2118d0128041.jpg' title='Снять в аренду трехкомнатную квартиру в Москве, Климентовский пер' alt='Снять в аренду трехкомнатную квартиру в Москве, Климентовский пер' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1270106/"><!-- noindex -->3-комн. кв., Климентовский пер<!-- /noindex --></a>
+                            <span class="price">200 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1167867/"><img width='203' height='152' src='/images/object_images/1167867/152x203/0064939f-686c-4006-8031-4283e0fd4ccd.jpg' title='Снять в аренду трехкомнатную квартиру в Москве, Звенигородская ул' alt='Снять в аренду трехкомнатную квартиру в Москве, Звенигородская ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1167867/"><!-- noindex -->3-комн. кв., Звенигородская ул<!-- /noindex --></a>
+                            <span class="price">220 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1305076/"><img width='203' height='152' src='/images/object_images/1305076/152x203/3f96f7a1-20bc-4db1-8438-ce3bed5613ed.jpg' title='Снять в аренду четырехкомнатную квартиру в Москве, Минская ул' alt='Снять в аренду четырехкомнатную квартиру в Москве, Минская ул' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1305076/"><!-- noindex -->4-комн. кв., Минская ул<!-- /noindex --></a>
+                            <span class="price">200 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1223567/"><img width='203' height='152' src='/images/object_images/1223567/152x203/5c36245a-32e7-45ef-9060-62eae833da53.jpg' title='Снять в аренду трехкомнатную квартиру в Москве, Гагаринский пер' alt='Снять в аренду трехкомнатную квартиру в Москве, Гагаринский пер' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1223567/"><!-- noindex -->3-комн. кв., Гагаринский пер<!-- /noindex --></a>
+                            <span class="price">250 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1314746/"><img width='203' height='152' src='/images/object_images/1314746/152x203/65b7e56a-00f0-4223-b23b-a604fbdec638.jpg' title='Снять в аренду четырехкомнатную квартиру в Москве, Николопесковский М. пер' alt='Снять в аренду четырехкомнатную квартиру в Москве, Николопесковский М. пер' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1314746/"><!-- noindex -->4-комн. кв., Николопесковский М. пер<!-- /noindex --></a>
+                            <span class="price">250 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1311869/"><img width='203' height='152' src='/images/object_images/1311869/152x203/6c3caf65-008d-4a72-8a12-3b61ec3134c4.jpg' title='Снять в аренду четырехкомнатную квартиру в Москве, Комсомольский пр-кт' alt='Снять в аренду четырехкомнатную квартиру в Москве, Комсомольский пр-кт' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1311869/"><!-- noindex -->4-комн. кв., Комсомольский пр-кт<!-- /noindex --></a>
+                            <span class="price">200 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/rent-realty/flats/1311169/"><img width='203' height='152' src='/images/object_images/1311169/152x203/7216cd43-00f8-486f-9eac-e8f62008c539.jpg' title='Снять в аренду трехкомнатную квартиру в Москве, Филипповский пер' alt='Снять в аренду трехкомнатную квартиру в Москве, Филипповский пер' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/rent-realty/flats/1311169/"><!-- noindex -->3-комн. кв., Филипповский пер<!-- /noindex --></a>
+                            <span class="price">200 тыс. <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <a rel="nofollow" href="#" class="btn-prev" data-jcarousel-control="true" data-target="-=4"><!-- noindex -->Назад<!-- /noindex --></a>
+        <a rel="nofollow" href="#" class="btn-next" data-jcarousel-control="true" data-target="+=4"><!-- noindex -->Вперед<!-- /noindex --></a>
+    </div>
+</div>
+<div class="bl_carousel_wrap cf">
+    <div class="h2"><a href="/sale-realty/cottage/">Загородная недвижимость</a></div>
+    <p>Мы&nbsp;предлагаем участки, дома и&nbsp;таунхаусы любой ценовой категории в&nbsp;коттеджных поселках, а&nbsp;также на&nbsp;вторичном рынке во&nbsp;всех районах Московской области. Вы&nbsp;сможете не&nbsp;только продать или приобрести недвижимость в&nbsp;экологически чистом районе по&nbsp;ценам застройщика, но&nbsp;и&nbsp;арендовать ее&nbsp;или сдать в&nbsp;аренду.</p>    <div class="bl_carousel_inner">
+        <div class="bl_carousel" data-jcarousel="true" data-wrap="circular">
+            <ul>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/1286923/"><img width='203' height='152' src='/images/object_images/1286923/152x203/007e3936-3f38-463d-b4f1-a3e907ee9b8a.jpg' title='Коттеджный поселок Воскресенское: коттеджи. Щелковское ш., 29 км от МКАД' alt='Коттеджный поселок Воскресенское: коттеджи. Щелковское ш., 29 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/1286923/"><!-- noindex -->Коттеджи в КП Воскресенское, Щелковское ш., 29 км<!-- /noindex --></a>
+                            <span class="price">от 9,25 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/601823/"><img width='203' height='152' src='/images/object_images/601823/152x203/0036e7e3-6daa-4b43-a310-34f365f23a3e.jpg' title='Коттеджный поселок Лосиный остров: коттеджи, квартиры, участки, таунхаусы. Ярославское ш., 16 км от МКАД' alt='Коттеджный поселок Лосиный остров: коттеджи, квартиры, участки, таунхаусы. Ярославское ш., 16 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/601823/"><!-- noindex -->Коттеджи, квартиры, участки, таунхаусы в КП Лосиный остров, Ярославское ш., 16 км<!-- /noindex --></a>
+                            <span class="price">от 1,7 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/971356/"><img width='203' height='152' src='/images/object_images/971356/152x203/0093359e-0025-4592-a189-265a0b6c5f4c.jpg' title='Коттеджный поселок Наполеон: таунхаусы, квартиры. Киевское ш., 27 км от МКАД' alt='Коттеджный поселок Наполеон: таунхаусы, квартиры. Киевское ш., 27 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/971356/"><!-- noindex -->Таунхаусы, квартиры в КП Наполеон, Киевское ш., 27 км<!-- /noindex --></a>
+                            <span class="price">от 6,01 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/1194782/"><img width='203' height='152' src='/images/object_images/1194782/152x203/769aa2a5-30cc-4e9f-9081-a749e97607f4.jpg' title='Коттеджный поселок Заповедный парк-2: таунхаусы, участки. Ярославское ш., 19 км от МКАД' alt='Коттеджный поселок Заповедный парк-2: таунхаусы, участки. Ярославское ш., 19 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/1194782/"><!-- noindex -->Таунхаусы, участки в КП Заповедный парк-2, Ярославское ш., 19 км<!-- /noindex --></a>
+                            <span class="price">от 2,88 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/1316012/"><img width='203' height='152' src='/images/object_images/1316012/152x203/0030c8db-2776-4d8f-aa69-a5767bae1aea.jpg' title='Коттеджный поселок Малаховка-Парк: коттеджи. Новорязанское ш., 15 км от МКАД' alt='Коттеджный поселок Малаховка-Парк: коттеджи. Новорязанское ш., 15 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/1316012/"><!-- noindex -->Коттеджи в КП Малаховка-Парк, Новорязанское ш., 15 км<!-- /noindex --></a>
+                            <span class="price">от 8,9 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/601662/"><img width='203' height='152' src='/images/object_images/601662/152x203/3edc420f-0055-46f2-bcef-10f2b8a9678c.jpg' title='Коттеджный поселок Глаголево Парк: коттеджи, таунхаусы. Киевское ш., 35 км от МКАД' alt='Коттеджный поселок Глаголево Парк: коттеджи, таунхаусы. Киевское ш., 35 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/601662/"><!-- noindex -->Коттеджи, таунхаусы в КП Глаголево Парк, Киевское ш., 35 км<!-- /noindex --></a>
+                            <span class="price">от 10,95 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/1186353/"><img width='203' height='152' src='/images/object_images/1186353/152x203/0c763884-0007-4492-8177-ad03e6347aa5.jpg' title='Коттеджный поселок Александровский: таунхаусы. Новорижское ш., 14 км от МКАД' alt='Коттеджный поселок Александровский: таунхаусы. Новорижское ш., 14 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/1186353/"><!-- noindex -->Таунхаусы в КП Александровский, Новорижское ш., 14 км<!-- /noindex --></a>
+                            <span class="price">от 16,94 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/1184324/"><img width='203' height='152' src='/images/object_images/1184324/152x203/7b05dc9e-4373-4ee5-9af6-510cf859b14a.jpg' title='Коттеджный поселок Фирсановка-Лайф: таунхаусы. Ленинградское ш., 14 км от МКАД' alt='Коттеджный поселок Фирсановка-Лайф: таунхаусы. Ленинградское ш., 14 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/1184324/"><!-- noindex -->Таунхаусы в КП Фирсановка-Лайф, Ленинградское ш., 14 км<!-- /noindex --></a>
+                            <span class="price">от 8,9 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/1065087/"><img width='203' height='152' src='/images/object_images/1065087/152x203/007ccd1f-72d7-4e1a-b106-009644aac40a.jpg' title='Коттеджный поселок Сатино озеро: коттеджи, участки. Калужское ш., 30 км от МКАД' alt='Коттеджный поселок Сатино озеро: коттеджи, участки. Калужское ш., 30 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/1065087/"><!-- noindex -->Коттеджи, участки в КП Сатино озеро, Калужское ш., 30 км<!-- /noindex --></a>
+                            <span class="price">от 1,8 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/1146316/"><img width='203' height='152' src='/images/object_images/1146316/152x203/00bbd03e-6bd9-4c91-b451-30fc89b03866.jpg' title='Коттеджный поселок Янтарный лес: коттеджи. Минское ш., 33 км от МКАД' alt='Коттеджный поселок Янтарный лес: коттеджи. Минское ш., 33 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/1146316/"><!-- noindex -->Коттеджи в КП Янтарный лес, Минское ш., 33 км<!-- /noindex --></a>
+                            <span class="price">от 7 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/1188343/"><img width='203' height='152' src='/images/object_images/1188343/152x203/11a93158-55b3-4808-8e8a-3d0a300801a0.jpg' title='Коттеджный поселок Кутузово-Club: коттеджи, таунхаусы. Пятницкое ш., 8 км от МКАД' alt='Коттеджный поселок Кутузово-Club: коттеджи, таунхаусы. Пятницкое ш., 8 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/1188343/"><!-- noindex -->Коттеджи, таунхаусы в КП Кутузово-Club, Пятницкое ш., 8 км<!-- /noindex --></a>
+                            <span class="price">от 5,3 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/1005211/"><img width='203' height='152' src='/images/object_images/1005211/152x203/590b60b4-3926-4b44-a84b-3d9bf9979c73.jpg' title='Коттеджный поселок Зеленый город: таунхаусы. Ленинградское ш., 22 км от МКАД' alt='Коттеджный поселок Зеленый город: таунхаусы. Ленинградское ш., 22 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/1005211/"><!-- noindex -->Таунхаусы в КП Зеленый город, Ленинградское ш., 22 км<!-- /noindex --></a>
+                            <span class="price">от 4,95 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/1115322/"><img width='203' height='152' src='/images/object_images/1115322/152x203/00982789-280d-4c9b-99b0-234ebf981d41.jpg' title='Коттеджный поселок Новотроицкий: коттеджи, квартиры, участки, таунхаусы. Калужское ш., 21 км от МКАД' alt='Коттеджный поселок Новотроицкий: коттеджи, квартиры, участки, таунхаусы. Калужское ш., 21 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/1115322/"><!-- noindex -->Коттеджи, квартиры, участки, таунхаусы в КП Новотроицкий, Калужское ш., 21 км<!-- /noindex --></a>
+                            <span class="price">от 5,65 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/1198658/"><img width='203' height='152' src='/images/object_images/1198658/152x203/000d3f1b-00d0-4856-8068-b063eb4f97c6.jpg' title='Коттеджный поселок Лисавино-1: участки. Новорижское ш., 37 км от МКАД' alt='Коттеджный поселок Лисавино-1: участки. Новорижское ш., 37 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/1198658/"><!-- noindex -->Участки в КП Лисавино-1, Новорижское ш., 37 км<!-- /noindex --></a>
+                            <span class="price">от 0,81 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/villages/986021/"><img width='203' height='152' src='/images/object_images/986021/152x203/53df66fc-54d2-4289-a669-d0463c338bbb.jpg' title='Коттеджный поселок Романтика: коттеджи, участки. Калужское ш., 27 км от МКАД' alt='Коттеджный поселок Романтика: коттеджи, участки. Калужское ш., 27 км от МКАД' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/villages/986021/"><!-- noindex -->Коттеджи, участки в КП Романтика, Калужское ш., 27 км<!-- /noindex --></a>
+                            <span class="price">от 3,1 млн <span class="rub">руб.</span></span>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <a rel="nofollow" href="#" class="btn-prev" data-jcarousel-control="true" data-target="-=4"><!-- noindex -->Назад<!-- /noindex --></a>
+        <a rel="nofollow" href="#" class="btn-next" data-jcarousel-control="true" data-target="+=4"><!-- noindex -->Вперед<!-- /noindex --></a>
+    </div>
+</div>
+<div class="bl_carousel_wrap cf">
+    <div class="h2"><a href="/sale-realty/commercesell/">Коммерческая недвижимость</a></div>
+    <p>Специалисты нашего агентства проконсультируют вас по&nbsp;всем вопросам приобретения или аренды коммерческих объектов и&nbsp;помогут подобрать подходящий вариант. Благодаря нашей обширной базе недвижимости Москвы и&nbsp;Подмосковья мы&nbsp;поможем вам найти офис, производственное помещение, а&nbsp;также отдельные площади в&nbsp;торговых и&nbsp;офисных центрах.</p>    <div class="bl_carousel_inner">
+        <div class="bl_carousel" data-jcarousel="true" data-wrap="circular">
+            <ul>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1182462/"><img width='203' height='152' src='/images/object_images/1182462/152x203/00649acf-5a0e-4182-853d-dcfbd21f0bdc.jpg' title='Приобрести коммерческую недвижимость -  г. Москва, Красногвардейский 1-й проезд,  лот №: кн-0012317' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1182462/"><!-- noindex -->Здания, 9639&nbsp;м&sup2;, м.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='metro_line l4'>Выставочная</span><!-- /noindex --></a>
+                            <span class="price">1 900 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1317285/"><img width='203' height='152' src='/images/object_images/1317285/152x203/31cf448c-00ef-4044-b391-184987120bf8.jpg' title='Приобрести коммерческую недвижимость -  г. Москва, Академика Пилюгина ул,  лот №: кн-0014593' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1317285/"><!-- noindex -->Другого и свободного назначения, 265&nbsp;м&sup2;, м.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='metro_line l6'>Новые Черемушки</span><!-- /noindex --></a>
+                            <span class="price">45 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1321944/"><img width='203' height='152' src='/images/object_images/1321944/152x203/229a352a-6be3-411c-8982-80440480ac49.jpg' title='Приобрести коммерческую недвижимость -  Новорязанское ш., 70 км от МКАД,  лот №: кн-0014656' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1321944/"><!-- noindex -->Кафе, бары, рестораны, 800&nbsp;м&sup2;, Новорязанское ш.<!-- /noindex --></a>
+                            <span class="price">45 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1316168/"><img width='203' height='152' src='/images/object_images/1316168/152x203/28474cc7-33c7-4e6a-99b2-93faacc1b78d.jpg' title='Приобрести коммерческую недвижимость -  Горьковское ш., 6 км от МКАД,  лот №: кн-0014572' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1316168/"><!-- noindex -->Кафе, бары, рестораны, 237&nbsp;м&sup2;, Горьковское ш.<!-- /noindex --></a>
+                            <span class="price">40 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1313272/"><img width='203' height='152' src='/images/object_images/1313272/152x203/00d89c33-00a1-496e-aec6-3d6deb9a1f25.jpg' title='Приобрести коммерческую недвижимость -  г. Москва, Садовая-Каретная ул,  лот №: кн-0014531' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1313272/"><!-- noindex -->Кафе, бары, рестораны, 85&nbsp;м&sup2;, м.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='metro_line l9'>Цветной бульвар</span><!-- /noindex --></a>
+                            <span class="price">35 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1273487/"><img width='203' height='152' src='/images/object_images/1273487/152x203/5d29e4e1-5714-4c66-9a9f-0b6d2c4b8f6a.jpg' title='Приобрести коммерческую недвижимость -  г. Москва, Кирпичный 1-й пер,  лот №: кн-0013727' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1273487/"><!-- noindex -->Торговля и сервис, 374&nbsp;м&sup2;, м.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='metro_line l3'>Семеновская</span><!-- /noindex --></a>
+                            <span class="price">35 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1297848/"><img width='203' height='152' src='/images/object_images/1297848/152x203/009a802e-7a1a-495f-97c7-f1fcb0a0bfec.jpg' title='Приобрести коммерческую недвижимость -  Дмитровское ш., 6 км от МКАД,  лот №: кн-0014113' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1297848/"><!-- noindex -->Другого и свободного назначения, 333&nbsp;м&sup2;, Дмитровское ш.<!-- /noindex --></a>
+                            <span class="price">33,10 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1242879/"><img width='203' height='152' src='/images/object_images/1242879/152x203/2f5321f6-38d7-4695-bc30-3720bf7da5d0.jpg' title='Приобрести коммерческую недвижимость -  г. Москва, Минская ул,  лот №: кн-0013266' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1242879/"><!-- noindex -->Другого и свободного назначения, 132&nbsp;м&sup2;, м.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='metro_line l4'>Киевская </span><!-- /noindex --></a>
+                            <span class="price">33 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1248203/"><img width='203' height='152' src='/images/object_images/1248203/152x203/008a7153-21f7-43da-9afe-cb12a31ba13f.jpg' title='Приобрести коммерческую недвижимость -  г. Москва, Мира пр-кт,  лот №: кн-0013357' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1248203/"><!-- noindex -->Торговля и сервис, 131&nbsp;м&sup2;, м.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='metro_line l6'>Алексеевская</span><!-- /noindex --></a>
+                            <span class="price">32,70 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1142374/"><img width='203' height='152' src='/images/object_images/1142374/152x203/00041054-49f5-47ac-8284-5a6788daaff2.jpg' title='Приобрести коммерческую недвижимость -  г. Москва, Ивана Бабушкина ул,  лот №: кн-0011862' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1142374/"><!-- noindex -->Здания, 133&nbsp;м&sup2;, м.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='metro_line l6'>Профсоюзная</span><!-- /noindex --></a>
+                            <span class="price">32 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1260517/"><img width='203' height='152' src='/images/object_images/1260517/152x203/009bdc5e-488a-4cf8-9243-6fdcdd868e85.jpg' title='Приобрести коммерческую недвижимость -  г. Москва, Профсоюзная ул,  лот №: кн-0013537' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1260517/"><!-- noindex -->Арендный бизнес, 46&nbsp;м&sup2;, м.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='metro_line l6'>Беляево</span><!-- /noindex --></a>
+                            <span class="price">32 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1273891/"><img width='203' height='152' src='/images/object_images/1273891/152x203/008dcbeb-001d-4296-adce-9ed09a180026.jpg' title='Приобрести коммерческую недвижимость -  Горьковское ш., 40 км от МКАД,  лот №: кн-0013744' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1273891/"><!-- noindex -->Торговля и сервис, 100&nbsp;-&nbsp;433&nbsp;м&sup2;, Горьковское ш.<!-- /noindex --></a>
+                            <span class="price">31,50 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1260146/"><img width='203' height='152' src='/images/object_images/1260146/152x203/00b2279b-0042-42c1-b566-4133b336d57e.jpg' title='Приобрести коммерческую недвижимость -  Каширское ш., 120 км от МКАД,  лот №: кн-0013525' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1260146/"><!-- noindex -->Другого и свободного назначения, 776&nbsp;м&sup2;, Каширское ш.<!-- /noindex --></a>
+                            <span class="price">29,50 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1254004/"><img width='203' height='152' src='/images/object_images/1254004/152x203/15aee564-00fb-4836-8dda-aa7660efc591.jpg' title='Приобрести коммерческую недвижимость -  г. Москва, Волконский 1-й пер,  лот №: кн-0013457' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1254004/"><!-- noindex -->Другого и свободного назначения, 255&nbsp;м&sup2;, м.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='metro_line l9'>Цветной бульвар</span><!-- /noindex --></a>
+                            <span class="price">29 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1313210/"><img width='203' height='152' src='/images/object_images/1313210/152x203/47ba9862-00dc-4e9b-8b3e-a4b56af25a37.jpg' title='Приобрести коммерческую недвижимость -  Каширское ш., 90 км от МКАД,  лот №: кн-0014520' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1313210/"><!-- noindex -->Здания, 1118&nbsp;м&sup2;, Каширское ш.<!-- /noindex --></a>
+                            <span class="price">27 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1309454/"><img width='203' height='152' src='/images/object_images/1309454/152x203/0015d35b-00cf-48a8-9f6f-8a70791f0255.jpg' title='Приобрести коммерческую недвижимость -  г. Москва, Маршала Чуйкова ул,  лот №: кн-0014452' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1309454/"><!-- noindex -->Арендный бизнес, 27&nbsp;м&sup2;, м.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='metro_line l7'>Кузьминки</span><!-- /noindex --></a>
+                            <span class="price">26 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1258977/"><img width='203' height='152' src='/images/object_images/1258977/152x203/00ee59dc-0034-439a-b79c-649e792e3097.jpg' title='Приобрести коммерческую недвижимость -  Киевское ш., 20 км от МКАД,  лот №: кн-0013521' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1258977/"><!-- noindex -->Торговля и сервис, 337&nbsp;м&sup2;, Киевское ш.<!-- /noindex --></a>
+                            <span class="price">26 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1243406/"><img width='203' height='152' src='/images/object_images/1243406/152x203/009a8f2c-00f5-49d3-a48a-16af20b49e56.jpg' title='Приобрести коммерческую недвижимость -  г. Москва, Нижняя Масловка ул,  лот №: кн-0013278' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1243406/"><!-- noindex -->Арендный бизнес, 35&nbsp;м&sup2;, м.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='metro_line l9'>Савеловская</span><!-- /noindex --></a>
+                            <span class="price">26 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1293958/"><img width='203' height='152' src='/images/object_images/1293958/152x203/00b31df9-000b-4217-9dfd-8bcee08674c6.jpg' title='Приобрести коммерческую недвижимость -  г. Москва, Владимирская 3-я ул,  лот №: кн-0014055' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1293958/"><!-- noindex -->Другого и свободного назначения, 171&nbsp;м&sup2;, м.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='metro_line l8'>Перово</span><!-- /noindex --></a>
+                            <span class="price">26 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="item ">
+                            <a rel="nofollow" href="/sale-realty/commercesell/1293959/"><img width='203' height='152' src='/images/object_images/1293959/152x203/1c70781e-613f-46ee-b766-3e677e425268.jpg' title='Приобрести коммерческую недвижимость -  г. Москва, Гончарова ул,  лот №: кн-0014056' class='cr3'/></a>
+                            <a rel="nofollow" class="addr" href="/sale-realty/commercesell/1293959/"><!-- noindex -->Другого и свободного назначения, 117&nbsp;м&sup2;, м.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='metro_line l9'>Тимирязевская</span><!-- /noindex --></a>
+                            <span class="price">24 млн <span class='rub'>руб.</span></span>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <a rel="nofollow" href="#" class="btn-prev" data-jcarousel-control="true" data-target="-=4"><!-- noindex -->Назад<!-- /noindex --></a>
+        <a rel="nofollow" href="#" class="btn-next" data-jcarousel-control="true" data-target="+=4"><!-- noindex -->Вперед<!-- /noindex --></a>
+    </div>
+</div>
+
+
+ 
+<style>
+	.cat_form {padding-top: 14px}
+	.cat_form .header {height: 41px; float: left; line-height: 40px; padding-right: 14px; font-size: 20px; font-family: 'Trebuchet MS', Helvetica, sans-serif;}
+	.cat_form .for_btn {padding:0}
+	.cat_form .for_btn span {padding: 8px 24px 10px;font-size: 22px;}
+	.cat_form .for_btn:hover span {padding: 9px 24px 9px}
+	.cat_form .main_select {width: 330px; float: left; padding-right: 11px;}
+	.cat_form .for_select {background: transparent;}
+	.cat_form .for_select .cuselText {height: 41px; line-height: 40px; padding-left: 8px}
+	.cat_form .for_select div, 
+	.cat_form .for_select span, 
+	.cat_form .for_select select {font-size: 20px; font-family: 'Trebuchet MS', Helvetica, sans-serif; line-height: 29px;}
+	.cat_form .for_select .cusel {font-style: normal; height: 32px}
+	.cat_form .for_select .cusel span {border-top: 1px solid #e7e7e7; padding-left: 15px}
+	.cat_form .for_select .cusel span:first {border-top: none;}
+	.cat_form .osn_select {height: 41px;}
+	.cat_form .osn_select .fon_sel {height: 41px}
+	.cat_form .osn_select .fon_sel > div {height: 41px; border: 1px solid #b2b2b2;}
+	.cat_form .for_select .cusel .cusel-scroll-wrap {top: 42px}
+	.cat_form .for_select .cusel .cusel-scroll-wrap,
+	.cat_form .for_select .cusel .cusel-scroll-pane {max-height: 210px;}
+	.cat_form .for_select .cusel span.cuselActive {line-height: 29px;}
+
+	.cat_form .osn_select .openSelect {position: absolute;right: 14px;top: 50%;left: auto;bottom: auto;margin-top: -2px;height: 0;width: 0;border-top: 7px solid #b4b8b8;border-left: 7px solid transparent;border-right: 7px solid transparent;z-index: 11;}
+	.cat_form .for_select .openSelect .openSelectArrow {position: relative;left: -10px;top: -12px;height: 0;width: 0;margin: 0;border-top: 10px solid #FFF;border-left: 10px solid transparent;border-right: 10px solid transparent;z-index: 10;}
+
+</style>
+ 
+<div class="block_main border_div cf cr3"> 	 
+  <h2>Продажа недвижимости в Москве и Подмосковье</h2>
+ 	 
+  <p>Агентство ИНКОМ-Недвижимость уже более 20 лет предоставляет риэлторские услуги юридическим и&nbsp;физическим лицам в&nbsp;ключевых сегментах рынка недвижимости: покупка и&nbsp;продажа квартир на&nbsp;первичном и&nbsp;вторичном рынках городского и&nbsp;загородного жилья, аренда квартир, а&nbsp;также проводим сделки с&nbsp;коммерческой недвижимостью. Жилая и&nbsp;коммерческая недвижимость Москвы и&nbsp;Московской области представлена в&nbsp;<a href="/nedvizhimost/" >нашем каталоге</a> в&nbsp;самом полном объеме, в&nbsp;наличии есть множество вариантов жилья различного типа, предоставляемого как с&nbsp;помощью риэлторов, так и&nbsp;без посредников.</p>
+ 	 
+  <p>Мы&nbsp;оказываем риэлторские услуги по&nbsp;аренде и&nbsp;продаже недвижимости во&nbsp;всех сегментах. С&nbsp;помощью наших специалистов вы&nbsp;сможете купить элитную недвижимость в&nbsp;Москве и&nbsp;Подмосковье, а&nbsp;также приобрести жилье эконом класса. В&nbsp;нашей базе недвижимости, содержащей огромное количество предложений, найдутся как эксклюзивные квартиры, так и&nbsp;бюджетные варианты, а&nbsp;также большое количество загородного жилья всех категорий. Специалисты нашего агентства помогут в&nbsp;подборе оптимального для вас варианта и&nbsp;оформят сделку по&nbsp;<nobr>купле продаже</nobr> недвижимости максимально надежно и&nbsp;быстро!</p>
+ 	 
+  <h2>Каталог объектов</h2>
+ 	 
+  <p>Для получения информации по&nbsp;нашей базе недвижимости выберите подходящий тип объекта и&nbsp;нажмите &laquo;Найти&raquo;.</p>
+ 	 	 
+  <div class="cat_form cf"> 		 
+    <div class="main_select"> 			 
+      <div class="for_select osn_select"> 				<select name="ntype" id="ntype"> 					<option value="/sale-realty/flats/">Квартиры и комнаты</option> 					<option value="/sale-realty/newbuild/">Новостройки</option> 					<option value="/rent-realty/flats/">Аренда квартир и комнат</option> 					<option value="/sale-realty/cottage/">Загородная недвижимость</option> 					<option value="/sale-realty/commercesell/">Коммерческая недвижимость</option> 				</select> 			</div>
+     		</div>
+   		 
+    <div id="request_btn2" class="for_btn center"> 		<a href="#" class="btn_green" onclick="window.location = $(this).parent().prev('.main_select').find('.cuselActive').attr('val');return false;" ><span class="">Найти</span></a> 		</div>
+   	</div>
+ 	 
+  <h2>Юридическая помощь</h2>
+ 	 
+  <p>В&nbsp;услуги нашего риэлторского агентства входит экспертная проверка юридической чистоты всех поступающих к&nbsp;нам объектов и&nbsp;<a href="/uslugi/besplatnye-kosultacii/" >бесплатные юридические консультации</a> клиентов.</p>
+ </div>
+ 
+<div class="for_citation pt_50px"> 	 
+  <div class="cv_block"> 
+    <div class="gr_green_dop cr3 table-cell"> 
+      <div><span>!</span></div>
+     
+      <div class="va_block"></div>
+     </div>
+   
+    <div class="str_gr"><span></span></div>
+   </div>
+ 	 
+  <div class="citation cf"> 		 
+    <div class="table-cell"> 			 
+      <div> 
+        <p>Наши эксперты помогут осуществить любые сделки с недвижимостью &mdash; обмен, покупку или продажу недвижимости в&nbsp;Москве и&nbsp;Области, аренду городских и загородных объектов. Бесплатные консультации по телефону <span class="blue_font">+7 (495) 363-10-10</span>.</p>
+       </div>
+     		</div>
+   	</div>
+ </div>
+ 
+<br />
+		</section>
+	</div>
+</div>
+
+<footer class="cf cr3">
+	<script>
+		//вставляем в футер тот же телефон что и в шапке
+		$(document).ready(function(){
+			if ($('.newcall ins').length > 0) {
+				$('footer span.phone').html($('.newcall ins').html())
+			}
+		});
+	</script>
+    <div class="top cr3300 gr_dblue_obr cf">
+        <div class="copy">&copy; 2001-2015. ИНКОМ-Недвижимость  | <a href="http://www.incom.ru/disclaimer/" rel="nofollow">Ограничение ответственности</a> | <a href="http://www.incom.ru/sitemap/" rel="nofollow">Карта сайта</a> </div>
+        <span class="phone">+7 (495) 363-10-10</span>
+    </div>
+	    <nav class="cr0033 cf">
+         
+<div class="column">
+    <a class="name" href="http://www.incom.ru/nedvizhimost/">Недвижимость</a>
+    <ul>
+        <li><a href="http://www.incom.ru/sale-realty/flats/">Квартиры, комнаты</a></li>
+        <li><a href="http://www.incom.ru/sale-realty/newbuild/">Новостройки</a></li>
+        <li><a href="http://www.incom.ru/rent-realty/flats/">Аренда квартир, комнат</a></li>
+    </ul>
+    <ul>
+        <li><a href="http://www.incom.ru/sale-realty/cottage/">Коттеджи, </a><a href="http://www.incom.ru/prodazha-taunkhausov/">таунхаусы, </a><a href="http://www.incom.ru/prodazha-zemelnykh-uchastkov/">участки</a></li>
+        <li><a href="http://www.incom.ru/kottedzhnye-poselki/">Коттеджные поселки</a></li>
+        <li><a href="http://www.incom.ru/rent-realty/cottage/">Аренда коттеджей</a></li>
+    </ul>
+    <ul>
+        <li><a href="http://www.incom.ru/sale-realty/commercesell/">Нежилые помещения</a></li>
+        <li><a href="http://www.incom.ru/rent-realty/commercesell/">Аренда нежилых помещений</a></li>
+    </ul>
+</div>
+<div class="column">
+    <a rel="nofollow" class="name" href="http://www.incom.ru/uslugi/">Услуги</a>
+    <ul>
+        <li><a href="http://www.incom.ru/uslugi/obmen-kvartir/">Обмен квартир</a></li>
+        <li><a href="http://www.incom.ru/ipoteka/">Помощь в получении ипотеки</a></li>
+        <li><a rel="nofollow" href="http://www.incom.ru/uslugi/prodat-kvartiru-i-komnatu/">Продать квартиру, комнату</a></li>
+    </ul>
+    <ul>
+        <li><a rel="nofollow" href="http://www.incom.ru/uslugi/otsenka-nedvizhimosti/">Оценка недвижимости</a></li>
+        <li><a rel="nofollow" href="http://www.incom.ru/uslugi/pereplanirovki/">Согласование перепланировок</a></li>
+        <li><a rel="nofollow" href="http://www.incom.ru/uslugi/perevod-v-zhiloy-fond/">Перевод в жилой фонд</a></li>
+        <li><a href="http://www.incom.ru/uslugi/perevod-v-nezhiloy-fond/">Перевод в нежилой фонд</a></li>
+        <li><a rel="nofollow" href="http://www.incom.ru/uslugi/lizingovye-uslugi/">Лизинговые услуги</a></li>
+    </ul>
+    <ul>
+        <li class="big"><a rel="nofollow" href="http://www.incom.ru/uslugi/">Все услуги</a></li>
+    </ul>
+</div>
+<div class="column">
+    <a class="name" href="http://www.incom.ru/ipoteka/">Ипотека</a>
+    <a class="name" rel="nofollow" href="http://www.incom.ru/jobs/vacancy/">Карьера</a>
+    <ul>
+        <li><a href="http://www.incom.ru/jobs/vacancy/">Вакансии</a></li>
+        <li><a rel="nofollow" href="http://www.incom.ru/jobs/training-center/">Учебный центр</a></li>
+    </ul>
+</div>
+<div class="column">
+    <a class="name" rel="nofollow" href="http://www.incom.ru/o-kompanii/">О компании</a>
+    <ul>
+        <li><a rel="nofollow" href="http://www.incom.ru/o-kompanii/istoriya/">История</a></li>
+        <li><a rel="nofollow" href="http://www.incom.ru/o-kompanii/nagrady/">Награды</a></li>
+        <li><a rel="nofollow" href="http://www.incom.ru/o-kompanii/otzyvy-klientov/">Отзывы клиентов</a></li>
+        <li><a rel="nofollow" href="http://www.incom.ru/o-kompanii/nashi-partnery/">Наши партнеры</a></li>
+        <li><a rel="nofollow" href="http://www.incom.ru/o-kompanii/press-tsentr/">Пресс-центр</a></li>
+        <li><a rel="nofollow" href="http://www.incom.ru/o-kompanii/sotsialnaya-otvetstvennost/">Социальная ответственность</a></li>
+    </ul>
+    <a class="name" rel="nofollow" href="http://www.incom.ru/offices/">Наши офисы</a>
+</div>    </nav>
+	</footer>
+<div class="ftr_soc cr0330">
+    <a href="http://www.facebook.com/incom.ru" class="fb" rel="nofollow" target="_blank" onClick="_gaq.push(['_trackEvent', 'Social', 'Click', 'facebook']);"></a>
+    <a href="http://vk.com/incom_realty" class="vk" rel="nofollow" target="_blank" onClick="_gaq.push(['_trackEvent', 'Social', 'Click', 'vk']);"></a>
+    <a href="https://twitter.com/#!/incom_corp" class="tw" rel="nofollow" target="_blank" onClick="_gaq.push(['_trackEvent', 'Social', 'Click', 'twitter']);"></a>
+</div>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter10987120 = new Ya.Metrika({id:10987120,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/10987120" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->	
+	</body>
+	</html>

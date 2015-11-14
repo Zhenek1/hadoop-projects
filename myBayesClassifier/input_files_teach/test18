@@ -1,0 +1,756 @@
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class=""><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" -->
+	<!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta content="index,follow" name="robots">
+		<meta content="Группа компаний «Московские аптеки»" name="author">
+		<meta content="IE=edge" http-equiv="X-UA-Compatible">
+		
+		<!-- InstanceBeginEditable name="meta" -->
+		
+		<!-- InstanceEndEditable -->
+		<meta name="keywords" content="лекарства поиск аптеки москва московская область цена доставка бронь наличие медицина аптека болезнь медикамент справочник дло">
+		<meta name="description" content="Купить лекарства в аптеках. Цены и скидки на лекарства в аптеках Москвы и Московской области. Онлайн-бронирование и заказ, условия доставки на дом. Инструкции по приёму лекарств. Адреса и телефоны аптек.">
+		<!-- InstanceBeginEditable name="doctitle" -->
+		<title>Лекарства в аптеках Москвы, Московской области и других регионов. Поиск лекарств. Аптеки. Справочник лекарств. Заболевания.</title>
+		<link href="./main/main.min.css" rel="stylesheet" type="text/css">
+		<!-- InstanceEndEditable -->
+		<link href="/favicon.ico?v.4.03.15166" rel="shortcut icon">
+		<link href="./Templates/boilerplate.min.css" rel="stylesheet" type="text/css">
+		<link href="./Templates/template.min.css" rel="stylesheet" type="text/css">
+		<script src="./Templates/respond.min.js"></script>
+		<script src="./js/jqext/jquery-1.9.0.min.js"></script>
+		<script src="./js/modal/modal.min.js"></script>
+		<script src="http://api.aptekamos.ru/1.03/js/logger/logger.min.js"></script>
+		<script src="http://api.aptekamos.ru/1.03/js/amapi/amapi.min.js"></script>
+		<script src="http://api.aptekamos.ru/1.03/js/omnibox/omnibox-2.11.min.js"></script>
+    <script src="http://api.aptekamos.ru/1.03/js/cooks/cooks.min.js"></script>
+    <script src="./js/flash-detect/flash-detect.min.js"></script>
+		<!-- InstanceBeginEditable name="head" -->
+		
+		<!-- InstanceEndEditable -->
+		<!-- InstanceParam name="pageId" type="text" value="" -->
+		<!-- InstanceParam name="keywords" type="text" value="&lt;%=pageMeta.metaKeywords%&gt;" -->
+		<!-- InstanceParam name="description" type="text" value="&lt;%=pageMeta.metaDescription%&gt;" -->
+		<!-- InstanceParam name="robots" type="text" value="index,follow" -->
+	</head>
+	
+	<body>
+		<div id="" class="gridContainer clearfix">
+			<div id="header" class="floating">
+				<div id="h-stat">
+          <div id="h-date-container" class="block-inline">
+            <div id="h-date">
+            
+             <span id="h-date-dn">25</span>&nbsp;<span id="h-date-mn">июня</span>&nbsp;<span id="h-date-hh">18</span><span id="h-date-tdlm">:</span><span id="h-date-mm">37</span>
+            </div>
+          </div>
+					<div id="h-regions-container" class="block-inline">
+						Регион: 
+						<span id="h-regions" class="ret-flt-function function" data-container="h-regions-data" data-param="r" title="Выбрать регион">
+							Все регионы
+						</span>
+						<ul flt-data-container="h-regions-data" class="flt-data-container hidden">
+							
+							<li class="flt-item-container  row-odd function" data-value="0">
+								<div class="h-region-name">Все регионы</div>
+								<div class="h-region-org-count">
+									1221 аптека
+								</div>
+							</li>
+							
+							<li class="flt-item-container  row-even function" data-value="1">
+								<div class="h-region-name">Москва</div>
+								<div class="h-region-org-count">
+									974 аптеки
+								</div>
+							</li>
+							
+							<li class="flt-item-container  row-odd function" data-value="2">
+								<div class="h-region-name">Московская область</div>
+								<div class="h-region-org-count">
+									227 аптек
+								</div>
+							</li>
+							
+							<li class="flt-item-container  row-even function" data-value="5">
+								<div class="h-region-name">Владимирская область</div>
+								<div class="h-region-org-count">
+									10 аптек
+								</div>
+							</li>
+							
+							<li class="flt-item-container  row-odd function" data-value="80">
+								<div class="h-region-name">Тульская область</div>
+								<div class="h-region-org-count">
+									10 аптек
+								</div>
+							</li>
+							
+						</ul>
+						
+					</div>
+					<div id="h-che-container" class="block-inline">
+						Аптек: <span id="h-che" class="bold-text">1 221 </span>
+					</div>
+					<div id="h-pos-container" class="block-inline">
+						Позиций: <span id="h-pos" class="bold-text">4 568 679 </span>
+					</div>
+					<div id="h-dc-container" class="block-inline">
+						Медикаментов: <span id="h-dc" class="bold-text">43 065 </span>
+					</div>
+					<div id="h-18plus-container" class="block-inline">
+						<img class="h-stat-img" src="./img/18-plus.png" alt="">
+					</div>
+					<div id="h-4che-container" class="block-inline" title="Перейти на АптекаРос - ресурс для аптек">
+						<a href="//aptekaros.ru" target="_blank"><img class="h-stat-img" src="./img/for-che.png" alt=""></a>
+						<a href="//aptekaros.ru" target="_blank">Для аптек</a>
+					</div>
+					<div id="h-mapp-container" class="block-inline">
+						<a href="https://itunes.apple.com/ru/app/aptekamos/id902974347?l=ru&ls=1&mt=8" target="_blank" title="Мобильное приложение АптекаМос для iOS"><img class="h-stat-img" src="./img/ios.png" alt=""></a>
+						<a href="https://play.google.com/store/apps/details?id=ru.asoft.amm" target="_blank" title="Мобильное приложение АптекаМос для Android"><img class="h-stat-img" src="./img/android.png" alt=""></a>
+					</div>
+				</div>
+				<div id="h-arrow">
+					<img id="h-arrow-img" src="./img/h-arrow.png" alt="">
+				</div>
+				<div id="h-logo">
+					<a href="./?r=0" title="АптекаМос - купить лекарства в аптеках"><img id="h-logo-img" src="./img/logo.png" alt=""></a>
+				</div>
+				<div id="h-mssh">
+					<div id="h-menu">
+						<div class="h-menu-item block-inline">
+							<a href="./drug_sp.html?r=0" title="Справочник лекарств">Справочник лекарств</a>
+						</div>
+						<div class="h-menu-item block-inline">
+							<a href="./apteka_sp.html?r=0" title="Справочник аптек">Аптеки</a>
+						</div>
+						<div class="h-menu-item-last block-inline">
+							<a href="./sick_sp.html?r=0" title="Справочник заболеваний">Заболевания</a>
+						</div>
+					</div>
+					<div id="h-search">
+						<form id="h-search-form" method="get" action="./index.html">
+							<div id="h-search-field-container">
+								<input id="h-search-field" name="query" class="text-field" type="text" value="" autocomplete="off">
+								<div id="h-search-clear-container">
+									<img id="h-search-clear" src="./img/erase.png" alt="">
+								</div>
+								<input name="page" type="hidden" value="1" data-defval="1" autocomplete="off">
+								<input name="inrdd" type="hidden" value="0" data-defval="0" autocomplete="off">
+								<input name="r" type="hidden" value="0" autocomplete="off">
+                <input name="zamena_id" type="hidden" value="0" data-defval="0" autocomplete="off">
+                <input name="sick_id" type="hidden" value="0" data-defval="0" autocomplete="off">
+							</div>
+							<div id="h-search-btn-container">
+								<button id="h-search-btn" class="button" type="submit">Найти</button>
+							</div>
+							<div id="h-search-omnibox-container"></div>
+						</form>
+					</div>
+					<div id="h-search-hint">
+						например: <span id="h-search-sample" class="function" title="румалайя">румалайя</span>
+					</div>
+				</div>
+				<div id="h-sc">
+					<div id="h-slon-info">
+						<div id="h-slon-info-phone" class="bold-text">
+            	<a href="tel:84957757957">8(495) 77-57-9-57</a>
+              <span>8(495) 77-57-9-57</span>
+           	</div>
+						<div id="h-slon-info-wt" class="bold-text">поиск&nbsp;&bull;&nbsp;доставка</div>
+					</div>
+					<!-- InstanceBeginEditable name="basketData" -->
+					
+					<!-- InstanceEndEditable -->
+					<div class="h-cart">
+						<a href="./basket.html?r=0" title="Корзина" rel="nofollow">
+							<div id="h-cart-count">корзина</div>
+							<div id="h-cart-img"></div>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div id="hr" class="floating"></div>
+			
+			<div id="content" class="floating">
+				<div id="vertical-adv-container">
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv1" -->
+                        <a href="http://www.samson-f.ru" target="_blank"><img src="../advert/samson150x250.gif" alt=""></a>
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv2" -->
+						<a href="http://www.planetazdorovo.ru/" target="_blank"><img src="../advert/planeta_zdorovia.gif" alt=""></a>
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv3" -->
+						<a href="./apteka_k.html?id=6206"  target="_blank"><img src="../advert/ofizina150x250.gif" alt=""></a>
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv4" -->
+						<a href="http://www.doctor-n.ru/" target="_blank"><img src="../advert/doctor-n.ru_150x250.gif" alt=""></a>
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv5" -->
+                        <a href="http://apteka-norma.ru/"  target="_blank"><img src="../advert/norm310-150.gif" alt=""></a>
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv6" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv7" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv8" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv9" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv10" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv11" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv12" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv13" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv14" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv15" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv16" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv17" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv18" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv19" -->
+						<!-- InstanceEndEditable -->
+					</div>
+					<div class="vertical-adv">
+						<!-- InstanceBeginEditable name="verticalAdv20" -->
+						<!-- InstanceEndEditable -->
+					</div>
+          <!-- InstanceBeginEditable name="postAdv" -->
+					<!-- InstanceEndEditable -->
+				</div>
+				<div id="pre-data-adv">
+					<div id="pre-data-adv-container">
+						<!-- InstanceBeginEditable name="preDataAdv" -->
+						<p><img title="Служба Лекарственного Обеспечения АптекаМос тел.: 8 (495) 77-57-9-57" lang="ru" src="http://api.aptekamos.ru/Images/MediaImage?imgId=12773" alt="Служба Лекарственного Обеспечения АптекаМос тел.: 8 (495) 77-57-9-57" width="562" height="42" /></p>
+						<!-- InstanceEndEditable -->
+					</div>
+				</div>
+				<div id="controls">
+					<div id="controls-container">
+						<!-- InstanceBeginEditable name="controls" -->
+						<!-- InstanceEndEditable -->
+					</div>
+				</div>
+				
+				<div id="data">
+					<div id="data-container">
+						<!-- InstanceBeginEditable name="data" -->
+						<div class="data-column">
+							<div id="am-slogan"><strong>AptekaMos.ru - купить лекарства в аптеках Москвы и Московской области</strong></div>
+							<table>
+								<tbody>
+									<tr class="am-desc-container">
+										<td><span class="am-desc-img am-desc-on-map"></span></td>
+										<td>
+											<a href="./apteka_sp.html?r=0">
+												Аптеки Москвы, Подмосковья и других регионов на карте.<br>
+												Ближайшие аптеки.<br>
+												Ассортимент и цены.
+											</a>
+										</td>
+									</tr>
+									<tr class="am-desc-container">
+										<td><span class="am-desc-img am-desc-in-table"></span></td>
+										<td>
+											<a href="./apteka_sp.html?r=0">
+												Адреса и телефоны аптек.<br>
+												Аптечные сети.<br>
+												Поиск московских аптек по метро, улицам и округам.
+											</a>
+										</td>
+									</tr>
+									<tr class="am-desc-container">
+										<td><span class="am-desc-img am-desc-domslona"></span></td>
+										<td>
+											<a href="http://domslona.ru" target="_blank">
+												Служба лекарственного обеспечения населения АптекаМос <nobr>8(495)77-57-9-57</nobr>.<br>
+												Доставка лекарств по Москве и ближайшему Подмосковью.<br>
+												Консультации провизоров.<br>
+												Подбор замены.
+											</a>
+										</td>
+									</tr>
+									<tr class="am-desc-container">
+										<td><span class="am-desc-img am-desc-che-services"></span></td>
+										<td>
+											<a href="./apteka_sp.html?r=0&zakaz=1">
+												Аптеки с доставкой.
+											</a><br>
+											<a href="./apteka_sp.html?r=0&duty=1">
+												Аптеки с круглосуточным режимом работы.
+											</a><br>
+											<a href="./apteka_sp.html?r=0&homeopathy=1">
+												Гомеопатические аптеки.
+											</a><br>
+											<a href="./apteka_sp.html?r=0&ondemand=1">
+												Предварительный заказ лекарств.
+											</a>
+										</td>
+									</tr>
+									<tr class="am-desc-container">
+										<td><span class="am-desc-img am-desc-egk"></span></td>
+										<td>
+											<a href="./drug_sp.html?r=0">
+												Справочник лекарств.<br>
+												Инструкции по приему.<br>
+												Показания и противопоказания.<br>
+												Справочник заболеваний МКБ-10.<br>
+												Дополнительное лекарственное обеспечение.
+											</a>
+										</td>
+									</tr>
+									<tr class="am-desc-container">
+										<td><span class="am-desc-img am-desc-news"></span></td>
+										<td>
+											<a href="./newsArch.html?r=0">
+												Актуальные новости здравоохранения и медицины.
+											</a>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+						
+						<div id="data-column-center" class="data-column">
+							<div class="am-widget-container">
+								<div class="am-widget-name bold-text">Обработано запросов</div>
+								<div id="am-widget-requests" class="am-widget">
+									<div class="am-widget-label-container">
+										<div class="am-widget-cur bold-text">сегодня</div>
+										<div class="am-widget-tot bold-text">всего</div>
+									</div>
+									
+									<div class="am-widget-stat-container">
+										<div class="big-number">85 011 </div>
+										<div class="bold-text">84 624 138 </div>
+									</div>
+								</div>
+							</div>
+							<div class="am-widget-container">
+								<div class="am-widget-name bold-text">Сделано заказов на сумму</div>
+								<div id="am-widget-orders" class="am-widget">
+									<div class="am-widget-label-container">
+										<div class="am-widget-cur bold-text">сегодня</div>
+										<div class="am-widget-tot bold-text">всего</div>
+									</div>
+									
+									<div class="am-widget-stat-container">
+										<div class="big-number">402 203 руб</div>
+										<div class="bold-text">92 758 856 руб</div>
+									</div>
+								</div>
+							</div>
+							<div class="am-widget-container">
+								<div id="am-widget-ampi-label" class="am-widget-name function bold-text" title="Подробнее">Цены на лекарства</div>
+								<div id="am-widget-ampi-ci-container">
+                  
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <div class="big-number">
+                            
+                            <span id="ampi-up"></span>
+                            92%
+                          </div>
+                        </td>
+                        <td>
+                          <div class="big-number">
+                            <span id="ampi-down"></span>
+                            0.01%
+                          </div>
+                        </td>
+                      </tr>
+                      <tr id="am-widget-ampi-i-label">
+                        <td>за 6 мес.</td>
+                        <td>сегодня</td>
+                      </tr>
+                    </tbody>
+                  </table>
+								</div>
+								<div id="am-widget-ampi-container">
+                  <div id="am-widget-ampi">
+                    <img src="http://chart.apis.google.com/chart?cht=lxy&chxt=y,x&chls=2,1,0&chs=195x136&chco=ED423A&chma=0,0,0,10&chg=25.0,25.0,3,2&chxl=1:|26.11|04.03|24.06&chf=bg,s,FFFFFF02|c,s,FFFFFF02&chxs=0,646464,10,1|1,646464,10,0&chxr=0,0.0,91.85853576660156,20.0&chd=e:AAERIhMyRDVUZkd1iGmXqnu4zJ3Z7q.7,AABsGyR5bcnVvW1x62-X.R.p.Y...Z.Z" alt="">
+                  </div>
+								</div>
+							</div>
+							<div class="am-widget-container">
+
+							</div>
+						</div>
+						<div class="data-column">
+							<div class="am-widget-container">
+								<div class="am-widget-name bold-text">Новости</div>
+								
+								<div class="am-article-container">
+									<div class="am-article-img-container">
+										<div class="am-article-img">
+											<img src="http://api.aptekamos.ru/1.03/Services/Images/GetMedia?mediaId=10541" alt="Как сохранить слух">
+										</div>
+									</div>
+									<div class="am-article-dh-container">
+										<div class="am-article-date-container">
+											<div class="am-article-date">
+												<div class="am-article-date-d">24</div>
+												<div class="am-article-date-my">июнь&nbsp;2015</div>
+											</div>
+										</div>
+										<div class="am-article-header-container">
+											<div class="am-article-header">
+												<a href="./news.html?id=5208&r=0" title="Как сохранить слух">Как сохранить слух</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								
+								<div class="am-article-container">
+									<div class="am-article-img-container">
+										<div class="am-article-img">
+											<img src="http://api.aptekamos.ru/1.03/Services/Images/GetMedia?mediaId=12614" alt="Эпилепсия – не приговор: помочь может каждый">
+										</div>
+									</div>
+									<div class="am-article-dh-container">
+										<div class="am-article-date-container">
+											<div class="am-article-date">
+												<div class="am-article-date-d">24</div>
+												<div class="am-article-date-my">июнь&nbsp;2015</div>
+											</div>
+										</div>
+										<div class="am-article-header-container">
+											<div class="am-article-header">
+												<a href="./news.html?id=5013&r=0" title="Эпилепсия – не приговор: помочь может каждый">Эпилепсия – не приговор: помочь может каждый</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								
+								<div class="am-article-container">
+									<div class="am-article-img-container">
+										<div class="am-article-img">
+											<img src="http://api.aptekamos.ru/1.03/Services/Images/GetMedia?mediaId=13411" alt="С Днем медицинского работника!">
+										</div>
+									</div>
+									<div class="am-article-dh-container">
+										<div class="am-article-date-container">
+											<div class="am-article-date">
+												<div class="am-article-date-d">19</div>
+												<div class="am-article-date-my">июнь&nbsp;2015</div>
+											</div>
+										</div>
+										<div class="am-article-header-container">
+											<div class="am-article-header">
+												<a href="./news.html?id=5585&r=0" title="С Днем медицинского работника!">С Днем медицинского работника!</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								
+								<div class="am-article-container">
+									<div class="am-article-img-container">
+										<div class="am-article-img">
+											<img src="http://api.aptekamos.ru/1.03/Services/Images/GetMedia?mediaId=12189" alt="Деликатная проблема: профилактика и лечение запоров">
+										</div>
+									</div>
+									<div class="am-article-dh-container">
+										<div class="am-article-date-container">
+											<div class="am-article-date">
+												<div class="am-article-date-d">19</div>
+												<div class="am-article-date-my">июнь&nbsp;2015</div>
+											</div>
+										</div>
+										<div class="am-article-header-container">
+											<div class="am-article-header">
+												<a href="./news.html?id=5323&r=0" title="Деликатная проблема: профилактика и лечение запоров">Деликатная проблема: профилактика и лечение запоров</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								
+								<div class="am-article-container">
+									<div class="am-article-img-container">
+										<div class="am-article-img">
+											<img src="http://api.aptekamos.ru/1.03/Services/Images/GetMedia?mediaId=13404" alt="Что такое &quot;Колетекс&quot; и &quot;Колегель&quot;?">
+										</div>
+									</div>
+									<div class="am-article-dh-container">
+										<div class="am-article-date-container">
+											<div class="am-article-date">
+												<div class="am-article-date-d">18</div>
+												<div class="am-article-date-my">июнь&nbsp;2015</div>
+											</div>
+										</div>
+										<div class="am-article-header-container">
+											<div class="am-article-header">
+												<a href="./news.html?id=5571&r=0" title="Что такое &quot;Колетекс&quot; и &quot;Колегель&quot;?">Что такое "Колетекс" и "Колегель"?</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+						<!-- InstanceEndEditable -->
+					</div>
+				</div>
+				
+				<div id="post-data-adv">
+					<div id="post-data-adv-container">
+						<!-- InstanceBeginEditable name="postDataAdv" -->
+						<!-- InstanceEndEditable -->
+					</div>
+				</div>
+				
+			</div>
+			<div id="footer" class="floating">
+				<div id="footer-container">
+					<div class="f-cp">
+						<div id="f-links">
+							<table>
+								<tbody>
+									<tr>
+										<td>
+											<a href="./adv.html?r=0l"><img src="./img/advertising.png" alt=""></a>
+											<a href="./adv.html?r=0">Реклама</a>
+										</td>
+										<td>
+											<a href="./contacts.html?r=0"><img src="./img/contacts.png" alt=""></a>
+											<a href="./contacts.html?r=0">Контакты</a>
+										</td>
+										<td>
+											<a href="//aptekaros.ru?publication=1" target="_blank"><img src="./img/join.png" alt=""></a>
+											<a href="//aptekaros.ru?publication=1" target="_blank">Подключиться</a>
+										</td>
+										<td>
+											<a href="./rules.html?r=0"><img src="./img/rules.png" alt=""></a>
+											<a href="./rules.html?r=0">Правила</a>
+										</td>
+										<td>
+											<a href="./about.html?r=0"><img src="./img/about.png" alt=""></a>
+											<a href="./about.html?r=0">О сайте</a>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+						<div id="f-counters">
+							
+							<table>
+								<tbody>
+									<tr>
+										<td>
+											<!-- InstanceBeginEditable name="counter1" -->
+                      
+                      <!--Rating@Mail.ru counter-->
+                      <script language="JavaScript" type="text/javascript"><!--
+                          d=document;var a='';a+=';r='+escape(d.referrer)
+                          js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+                          a+=';j='+navigator.javaEnabled()
+                          js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+                          s=screen;a+=';s='+s.width+'*'+s.height
+                          a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+                          js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+                          d.write('<a href="http://top.mail.ru/jump?from=32867"'+
+                              ' target="_blank"><img src="http://top.list.ru/counter'+
+                              '?id=32867;t=54;js='+js+a+';rand='+Math.random()+
+                              '" alt="Рейтинг@Mail.ru"'+' border=0 height=31 width=88/><\/a>')
+                          if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
+                              target="_blank" href="http://top.mail.ru/jump?from=32867"><img
+                                  src="http://top.list.ru/counter?js=na;id=32867;t=54"
+                                  border=0 height=31 width=88
+                              alt="Рейтинг@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--if(11<js)d.write('--'+'>')//--></script>
+                      <!--//Rating@Mail.ru counter-->
+                      
+                      <!-- InstanceEndEditable -->
+										</td>
+                    
+										<td>
+											<!-- InstanceBeginEditable name="counter2" -->
+                   		<!--Rambler Top 100 counter-->
+												<a href="http://top100.rambler.ru/home?id=1507613" target="_blank">
+                       		<img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100" width=88 height=31 border=0>
+                        </a>
+                        <script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1507613"></script><noscript><img src="http://counter.rambler.ru/top100.cnt?1507613" alt="" width="1" height="1" border="0"></noscript>
+                   		<!--//Rambler Top 100 counter-->
+                   	<!-- InstanceEndEditable -->
+										</td>
+                    
+                    <td>
+											<!-- InstanceBeginEditable name="counter3" -->
+                   		<!--LiveInternet counter-->
+												<script type="text/javascript"><!--
+                       		document.write("<a href='http://www.liveinternet.ru/click' "+
+                                "target='_blank'><img src='http://counter.yadro.ru/hit?t12.1;r"+
+                                escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                                ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                                screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                                ";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+                                "' alt='' title='LiveInternet: показано число просмотров за 24"+
+                                " часа, посетителей за 24 часа и за сегодня' "+
+                                "border='0' width='88' height='31'><\/a>")
+                            //--></script>
+											<!--//LiveInternet counter-->
+                   	<!-- InstanceEndEditable -->
+										</td>
+                    
+                    <td>
+											<!-- InstanceBeginEditable name="counter4" -->
+                    	<!--Yandex cite counter-->
+											<a href="http://www.yandex.ru/cy?base=0&host=aptekamos.ru" target="_blank">
+												<img src="http://www.yandex.ru/cycounter?aptekamos.ru" width=88 height=31 alt="Яндекс цитирования" border=0>
+											</a>
+                      <!--//Yandex cite counter-->
+                   	<!-- InstanceEndEditable -->
+										</td>
+                    
+									</tr>
+									<tr>
+										<td>
+											<!-- InstanceBeginEditable name="counter5" -->
+                   		<!--Yandex.Metrika counter-->
+                    		<a href="https://metrika.yandex.ru/stat/?id=2129686&amp;from=informer"
+                    			target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/2129686/2_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+                    			style="width:80px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" onclick="try{Ya.Metrika.informer({i:this,id:2129686,lang:'ru'});return false}catch(e){}"/>
+	                     	</a>
+                       	<script type="text/javascript">
+													(function (d, w, c) {
+															(w[c] = w[c] || []).push(function() {
+																	try {
+																			w.yaCounter2129686 = new Ya.Metrika({id:2129686,
+																							webvisor:true,
+																							clickmap:true,
+																							trackLinks:true,
+																							accurateTrackBounce:true,params:window.yaParams||{ }});
+																	} catch(e) { }
+															});
+															
+															var n = d.getElementsByTagName("script")[0],
+																	s = d.createElement("script"),
+																	f = function () { n.parentNode.insertBefore(s, n); };
+															s.type = "text/javascript";
+															s.async = true;
+															s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+													
+															if (w.opera == "[object Opera]") {
+																	d.addEventListener("DOMContentLoaded", f, false);
+															} else { f(); }
+													})(document, window, "yandex_metrika_callbacks");
+												</script>
+												<noscript><div><img src="//mc.yandex.ru/watch/2129686" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+											<!--//Yandex.Metrika counter-->
+                   	<!-- InstanceEndEditable -->
+										</td>
+                    
+                   	<td>
+											<!-- InstanceBeginEditable name="counter6" -->
+											<!--Google Analytics counter-->
+											<script>
+												(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+												(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+												m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+												})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+												ga('create', 'UA-56165472-1', 'auto');
+												ga('send', 'pageview');
+											</script>
+                     	<!--//Google Analytics counter-->
+											<!-- InstanceEndEditable -->
+										</td>
+                    
+                   	<td>
+											<!-- InstanceBeginEditable name="counter7" -->
+                   	<!-- InstanceEndEditable -->
+										</td>
+                    
+                   	<td>
+											<!-- InstanceBeginEditable name="counter8" -->
+                   	<!-- InstanceEndEditable -->
+										</td>
+									</tr>
+								</tbody>
+							</table>
+              
+						</div>
+					</div>
+          
+					<div class="f-cp">
+						
+						<div id="f-copyright" class="bold-text">
+							© Группа Компаний «Московские аптеки» 1998 - 2015 (v.4.03.15166)
+						</div>
+						<div id="f-info">
+							• Информация на сайте не должна быть истолкована как призыв к неспециалистам самостоятельно приобретать или использовать описываемые продукты.<br>• Авторские позиции, выраженные в тематических материалах, являются частными, не отражают официальную точку зрения уполномоченных государственных органов или других субъектов здравоохранения (если прямо не указано обратное).<br>• Использование любых материалов и данных сайта разрешается только с письменного согласия администрации сайта.
+						</div>
+					</div>
+					<!-- InstanceBeginEditable name="footer" -->
+					<!-- InstanceEndEditable -->
+				</div>
+			</div>
+			
+			<div id="dialog"></div>
+		</div>
+		<script>
+			var __apiHost = 'api';
+		</script>
+		<script src="./Templates/template.min.js"></script>
+		<!-- InstanceBeginEditable name="pageEnd" -->
+		<script>
+			var __ampiMatId = 842;
+		</script>
+		<script src="./main/main.min.js"></script>
+		<!-- InstanceEndEditable -->
+		<div id="modal"></div>
+		<div style="display: none; width: 500px; height: 1px; background-color: #000; position: absolute; bottom: 0px;"></div>
+	</body>
+<!-- InstanceEnd --></html>
+

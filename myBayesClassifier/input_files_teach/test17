@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="ru-RU">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="ru-RU">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="ru-RU">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Компания | </title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://pharmacychain366.ru/xmlrpc.php">
+	<link rel="stylesheet" type="text/css" href="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/css/style.css" title="Site Theme">
+	
+	<link rel="alternate" type="application/rss+xml" title="Аптечная сеть 36,6 &raquo; Лента комментариев к &laquo;Компания&raquo;" href="http://pharmacychain366.ru/company/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/pharmacychain366.ru\/wp-includes\/js\/wp-emoji.js?ver=4.2.2","twemoji":"http:\/\/pharmacychain366.ru\/wp-includes\/js\/twemoji.js?ver=4.2.2"}};
+			( function( window, document, settings ) {
+	var src, ready;
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' );
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		if ( type === 'flag' ) {
+			/*
+			 * This works because the image will be one of three things:
+			 * - Two empty squares, if the browser doesn't render emoji
+			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
+			 * - The British flag
+			 *
+			 * The first two will encode to small images (1-2KB data URLs), the third will encode
+			 * to a larger image (4-5KB data URL).
+			 */
+			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			return canvas.toDataURL().length > 3000;
+		} else {
+			/*
+			 * This creates a smiling emoji, and checks to see if there is any image data in the
+			 * center pixel. In browsers that don't support emoji, the character will be rendered
+			 * as an empty square, so the center pixel will be blank.
+			 */
+			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		}
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	settings.supports = {
+		simple: browserSupportsEmoji( 'simple' ),
+		flag:   browserSupportsEmoji( 'flag' )
+	};
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://pharmacychain366.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://pharmacychain366.ru/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<link rel='canonical' href='http://pharmacychain366.ru/company/' />
+<link rel='shortlink' href='http://pharmacychain366.ru/?p=17' />
+
+<meta http-equiv="Content-Language" content="ru-RU" />
+<style type="text/css" media="screen">
+.qtrans_flag span { display:none }
+.qtrans_flag { height:12px; width:18px; display:block }
+.qtrans_flag_and_text { padding-left:20px }
+.qtrans_flag_ru { background:url(http://pharmacychain366.ru/wp-content/plugins/qtranslate/flags/ru.png) no-repeat }
+.qtrans_flag_en { background:url(http://pharmacychain366.ru/wp-content/plugins/qtranslate/flags/gb.png) no-repeat }
+</style>
+<link hreflang="en" href="http://pharmacychain366.ru/en/company/" rel="alternate" />
+</head>
+
+
+
+<body>
+<div id="header">
+	<div id="main-bg">
+		<div id="bg-start">
+			<div style="position: absolute; color: white; top: 7px; left: 37px;">
+								<img height="23" alt="Русская версия" src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/83725312-764b-84db-a26d-7fbceba91ff7.gif" border="0"><a docid="c06ea420-4e03-4dcd-82be-f5b56d8be61d" href="/en/company/"><img height="23" alt="English" src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/87237b6c-bc41-6504-f9a9-6bb22108c412.gif" border="0"></a>
+							</div>
+			
+			<div id="system-links">
+				<a href="http://pharmacychain366.ru"><img height="33" src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/8665dcb0-fb0b-ffe6-6afa-faa9eb44ea2c.gif" width="33" border="0"></a><a href="http://pharmacychain366.ru/search/"><img height="33" alt="Карта сайта" hspace="11" src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/ca532ada-cd7e-e772-5483-eb06baa0c3c2.gif" width="33" border="0"></a><a href="http://pharmacychain366.ru/feedback/"><img height="33" alt="Обратная связь" src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/657ebda9-5b31-5dc1-6d23-49bf7c2ea57f.gif" width="33" border="0"></a>
+			</div>
+			<div id="logo-table">
+				<div id="logo" style="position: relative;">
+					<img src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/logo-top.gif" width="119" height="18" border="0" style="position: absolute; top: -18px; right: 0px;">
+					<a href="http://pharmacychain366.ru"><img height="154" alt="36,6" src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/logo.gif" width="180" border="0"></a>
+				</div>
+				<div id="title">
+					<img alt="Аптечная сеть" hspace="22" src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/title(1).gif" vspace="45" border="0">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div id="top-navigation">
+	<div>
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr><td><img src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/a-company.gif" height="20" border="0" alt="Компания"></td><td><a href="http://pharmacychain366.ru/news/"><img src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/news.gif" height="20" border="0" alt="Новости"></a></td><td><a href="http://pharmacychain366.ru/accounting/"><img src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/accounting.gif" height="20" border="0" alt="Отчетность(неаудированная)"></a></td><td><a href="http://pharmacychain366.ru/shares/"><img src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/shares.gif" height="20" border="0" alt="Ценные бумаги"></a></td><td><a href="http://pharmacychain366.ru/corporate/"><img src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/corporate.gif" height="20" border="0" alt="Корпоративное управление"></a></td>	</tr></tbody>
+		</table>
+	</div>
+</div>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tbody><tr valign="top">
+
+			<td width="22%">
+		<div class="relative-container">
+
+		<div id="decor"><img src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/company-decor.gif" width="160" height="200" border="0" alt=""></div>
+		</div>
+		<div id="left-menu">
+			<img src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/company-title.gif" border="0" alt=""><ul><li><a href="http://pharmacychain366.ru/company/conception/">бизнес-концепция</a></li><li><a href="http://pharmacychain366.ru/company/strategy/">стратегия</a></li><li><a href="http://pharmacychain366.ru/company/history/">история и достижения</a></li><li><a href="http://pharmacychain366.ru/company/contacts/">контакты</a></li></ul>			<p>&nbsp;</p><p>&nbsp;</p>
+			<h2 id="contact">Контактная информация</h2><br>
+			<table width="200" border="0">
+<tbody>
+<tr>
+<td rowspan="15" width="13"></td>
+</tr>
+<tr>
+<td>E-mail:</td>
+<td><a href="mailto:info@366.ru">info@366.ru</a></td>
+</tr>
+</tbody>
+</table>
+			<p><a href="http://pharmacychain366.ru/company/contacts/">Вся контактная информация</a></p>
+
+		</div>
+	</td>
+			
+	<td width="78%" id="content-cell">
+				<div class="yxo first filled">
+						<h2>ссылки по теме</h2>
+			<p><a href="http://pharmacychain366.ru/accounting/annual-reports/">Годовые отчеты</a></p><p><a href="http://www.veropharm.ru/"><p>ОАО «Верофарм»</p>
+</a></p>
+		</div>
+		<div class="yxo">
+					<a href="http://www.rts.ru/ru/securityresults.html?issue=APTK" target="_new">
+				<img id="shares" border="0" name="shares" src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/p-shares.gif">
+			</a>
+			<table><tbody>
+				<tr><td>покупка:</td><td> <span class="currency">&nbsp;$</span><span class="rate">0,50</span></td></tr>
+								<tr><td>продажа:</td><td> <span class="currency">&nbsp;$</span><span class="rate">1,25</span></td></tr>
+				<tr><td colspan="2"><small><p>(Фондовая биржа РТС, 11:00, 25.06.12)</p>
+</small></td></tr>
+			</tbody></table>
+		</div>
+		
+		<h1>Наша компания</h1>
+
+<table class="files_list" cellpadding="0" cellspacing="0"><tbody><tr valign="top">
+<td class="download"><div class="file">
+<a href="/wp-content/files_mf/1392817729CP_36_6_2013_RUS.pdf"><img class="icon" src="/wp-content/themes/pharmacychain366.ru/images/i-pdf.gif" border="0" alt="pdf"></a>(<a href="/wp-content/files_mf/1392817729CP_36_6_2013_RUS.pdf">PDF, 2.76 МБ</a>)
+</div></td>
+<td class="description">Корпоративный профиль (Июнь 2013)</td>
+</tr></tbody></table>
+
+<p>Аптечная сеть&nbsp;36,6&nbsp;— национальный лидер в&nbsp;области розничной торговли товарами для красоты и&nbsp;здоровья. Мы&nbsp;предлагаем своим покупателям разнообразие высококачественных товаров по&nbsp;доступным ценам, в&nbsp;удобных и&nbsp;красивых магазинах, где всегда можно получить заботливый и&nbsp;профессиональный совет консультанта.</p>
+<p>Мы&nbsp;стремимся помогать людям вести здоровый образ жизни, способствовать их&nbsp;долголетию и&nbsp;благополучию.&nbsp; Само название «36,6» говорит о&nbsp;нашем призвании. «36,6»&nbsp;— показатель здоровой температуры тела у&nbsp;детей и&nbsp;взрослых. Для акционеров и&nbsp;для сотрудников Аптечная сеть&nbsp;36,6&nbsp;– здоровая и&nbsp;динамичная компания, источник прибыли и&nbsp;благосостояния.</p>
+<p>ЗАО «Аптеки&nbsp;36,6» является соучредителем и&nbsp;членом некоммерческой профессиональной организации <a href="http://www.raas.ru/" target="new">Российская Ассоциация Аптечных Сетей (РААС)</a>.</p>
+<h2>Основные показатели</h2>
+<table id="about" cellpadding="0" cellspacing="0" width="100%"><tbody>
+<tr valign="top">
+	<td class="atd"><span class="heading">20,9</span>млрд. руб.</td>
+	<td valign="top">Консолидированные продажи за&nbsp;2012&nbsp;г.<br>
+составили порядка 20,9 миллиарда рублей</td>
+</tr>
+<tr valign="top">
+	<td class="atd"><span class="heading">2,3</span>млрд. руб.</td>
+	<td valign="top">Консолидированная&nbsp;Операционная прибыль&nbsp;в&nbsp;2012 г.<br>
+составила 2,3 миллиарда рублей </td>
+</tr>
+<tr valign="top">
+	<td class="atd"><span class="heading">842</span>аптеки</td>
+	<td valign="top">842&nbsp;аптеки находятся под управлением Компании<br>
+в&nbsp;29&nbsp;регионах России (на&nbsp;31.12.12)</td>
+</tr>
+<tr valign="top">
+	<td class="atd"><span class="heading">5 000</span>сотрудников</td>
+	<td valign="top">В&nbsp;Компании работает более 5000&nbsp;высококвалифицированных<br>сотрудников и&nbsp;сильная менеджерская команда с&nbsp;опытом<br>работы в&nbsp;отрасли более 14&nbsp;лет</td>
+</tr>
+</tbody></table>
+
+<ol><li><a href="geography/">география бизнеса</a></li></ol>	</td>
+	</tr></tbody>
+</table>
+
+<div class="clearer"></div>
+<table cellpadding="0" cellspacing="0" border="0" width="39%" height="62" align="right" class="copyright">
+	<tbody><tr>
+	<td><img src="http://pharmacychain366.ru/wp-content/themes/pharmacychain366.ru/images/logo-small.gif"></td>
+	<td class="copyright" width="99%">
+		<p><a href="http://pharmacychain366.ru/legal/">Copyright</a>&nbsp;© 2004—2015&nbsp;Аптечная сеть&nbsp;36,6</p>
+	</td>
+	</tr></tbody>
+</table>
+
